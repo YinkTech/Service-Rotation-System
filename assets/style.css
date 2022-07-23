@@ -19,6 +19,7 @@ body {
     margin: 0;
     padding: 0;
     width: 350px;
+    display: block;
     background-color: #008751be;
     position: fixed;
     height: 100%;
@@ -40,14 +41,64 @@ body {
     border-radius: 0px 5px 5px 0px;
 }
 
-i {
+i  {
     padding-right: 20px;
 }
+
+.logo-img {
+    width: 100px;
+    height: 100px;
+    padding: 16px;
+    margin: auto;
+    border-radius: 30px;
+    display: flex;
+}
+
+.logo-text {
+    font-size: 25px;
+    display: block;
+    text-align: center;
+    color: #fff;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+}
+
 
 div.content {
     margin-left: 350px;
     padding: 1px 16px;
-    height: 1000px;
+    padding-top: 20px;
+    color: #000;
+}
+
+.lead-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px dotted #000;
+}
+
+.bi-person-circle {
+    font-size: 50px;
+}
+
+.dashContent {
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.dashItem {
+    width: 300px;
+    height: 100px;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #4a4747ac;
+    color: #fff;
+
 }
 
 @media screen and (max-width: 700px) {
@@ -63,13 +114,21 @@ div.content {
 
     .sidebar {
         display: none;
-        width: 100%;
-        height: auto;
-        font-size: 20px;
     }
 
-    .sidebar a {float: left;}
+    .sidebar a {display: block; }
     div.content {margin-left: 0;}
+
+    .dashContent {
+        padding: 10px;
+        flex-direction: column;
+    }
+    
+    .dashItem {
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
 }
 
 @media screen and (max-width: 400px) {
@@ -80,6 +139,20 @@ div.content {
 
     .sidebar {
         display: none;
-        position: fixed;
+    }
+
+    .sidebar a {
+        font-size: 15px;
+    }
+
+    .dashContent {
+        padding: 10px;
+        flex-direction: column;
+    }
+
+    .dashItem {
+        margin: auto;
+        margin-bottom: 30px;
+        width: 200px;
     }
 }

@@ -9,25 +9,83 @@
 </head>
 <body>
 <header class="header">
-    <b>Service Rotation System </b><i class="bi bi-menu-button-wide" onclick="opennav()"></i>
+    <b>Service Rotation System </b>
+    <i class="bi bi-menu-button-wide" onclick="opennav()"></i>
+    <i class="bi bi-menu-button" onclick="closenav()"></i>
 </header>
 
     <div class="sidebar" id="myDIV">
-        <a class="btn active" href="#home"> <i class="bi bi-house-door"></i> Home</a>
-        <a class="btn" href="#news"><i class="bi bi-stickies"></i> Officers</a>
-        <a class="btn" href="#contact"><i class="bi bi-table"></i> Nominal Roll</a>
-        <a class="btn" href="#about" onclick="forthSectionShow()"><i class="bi bi-envelope-fill"></i> Expected Retirement Date</a>
-        <a class="btn" href="#about" onclick="forthSectionShow()"><i class="bi bi-people-fill"></i> Due Retirement Date</a>
-        <a class="btn" href="#about" onclick="forthSectionShow()"><i class="bi bi-gear-wide-connected"></i> User Management</a>
-      </div>
+        <img src="./assets/img/coat-of-arm-logo-png.png" class="logo-img" alt="logo">
+       <b class="logo-text"> Service Rotation system </b> 
+       <div id="navDIV"> 
+            <a class="btn active" onclick="firstShow()" href=""> <i class="bi bi-house-door"></i> Home</a>
+            <a class="btn pOfficers" href="#pOfficers" onclick="secondShow()" ><i class="bi bi-stickies"></i> Posting Officers</a>
+            <a class="btn nominal" onclick="thirdShow()" href="#nominal"><i class="bi bi-table"></i> Nominal Roll</a>
+            <a class="btn retiment" href="#retiment" onclick="forthShow()"><i class="bi bi-envelope-fill"></i> Expected Retirement Date</a>
+            <a class="btn dueRetirement" href="#dueRetirement" onclick="fifthShow()"><i class="bi bi-people-fill"></i> Due Retirement Date</a>
+            <a class="btn" href="#management" onclick="sixShow()"><i class="bi bi-gear-wide-connected"></i> User Management</a>
+        </div>
+    </div>
       
     <div class="content" id="home" >
-        
+        <div class="lead-header">
+            <h3>Dashboard</h3>
+            <i class="bi bi-person-circle"></i>
+        </div>
+        <div class="dashContent">
+            <div class="dashItem">
+                All Posting Officers
+            </div>
+
+            <div class="dashItem">
+                ai
+            </div>
+
+            <div class="dashItem">
+                ai
+            </div>
+
+        </div>
+
+        <div class="dashContent">
+            <div class="dashItem">
+                All 
+            </div>
+
+            <div class="dashItem">
+                ai
+            </div>
+
+            <div class="dashItem">
+                ai
+            </div>
+
+        </div>
     </div>
       
-    <div class="content" id="about">
       
+    <div class="content" id="pOfficers" >
+        post officers
     </div>
+      
+      
+    <div class="content" id="nominal" >
+        nominal roll
+    </div>
+      
+    <div class="content" id="retiment">
+        Retirement
+    </div>
+      
+    <div class="content" id="dueRetirement">
+       due Retirement
+    </div>
+      
+    <div class="content" id="management">
+        management
+    </div>
+
+
       <script src="./assets/script.js"></script>
 </body>
 </html>
