@@ -18,12 +18,12 @@
         <img src="./assets/img/coat-of-arm-logo-png.png" class="logo-img" alt="logo">
        <b class="logo-text"> Service Rotation system </b> 
        <div id="navDIV"> 
-            <a class="btn active" onclick="firstShow()" href=""> <i class="bi bi-house-door"></i> Home</a>
-            <a class="btn pOfficers" href="#pOfficers" onclick="secondShow()" ><i class="bi bi-stickies"></i> Posting Officers</a>
-            <a class="btn nominal" onclick="thirdShow()" href="#nominal"><i class="bi bi-table"></i> Nominal Roll</a>
-            <a class="btn retiment" href="#retiment" onclick="forthShow()"><i class="bi bi-envelope-fill"></i> Expected Retirement Date</a>
-            <a class="btn dueRetirement" href="#dueRetirement" onclick="fifthShow()"><i class="bi bi-people-fill"></i> Due Retirement Date</a>
-            <a class="btn" href="#management" onclick="sixShow()"><i class="bi bi-gear-wide-connected"></i> User Management</a>
+            <a class="nav-btn active" onclick="firstShow()"> <i class="bi bi-house-door"></i> Home</a>
+            <a class="nav-btn pOfficers"  onclick="secondShow()" ><i class="bi bi-stickies"></i> Posting Officers</a>
+            <a class="nav-btn nominal" onclick="thirdShow()"><i class="bi bi-table"></i> Nominal Roll</a>
+            <a class="nav-btn retiment"  onclick="forthShow()"><i class="bi bi-envelope-fill"></i> Expected Retirement Date</a>
+            <a class="nav-btn dueRetirement" onclick="fifthShow()"><i class="bi bi-people-fill"></i> Due Retirement Date</a>
+            <a class="nav-btn"  onclick="sixShow()"><i class="bi bi-gear-wide-connected"></i> User Management</a>
         </div>
     </div>
       
@@ -33,32 +33,31 @@
             <i class="bi bi-person-circle"></i>
         </div>
         <div class="dashContent">
-            <div class="dashItem">
-                <h6>All Posting Officers</h6>
-                <p>Report of all Posted Officers</p>
+
+            <div class="dashItem" onclick="secondShow()">
+                <h4>All Posting Officers</h4>
+                <p class="">Report of all Officers due for posting</p>
             </div>
 
-            <div class="dashItem">
-                ai
+            
+            <div class="dashItem" onclick="thirdShow()">
+                <h4>Nominal Roll</h4>
+                <p class="">Report of all Officers in the system</p>
             </div>
 
-            <div class="dashItem">
-                ai
+            <div class="dashItem" onclick="forthShow()">
+                <h4>Expected Retirement date</h4>
+                <p class="">Report of all Officers retirement due date. </p>
             </div>
 
-        </div>
-
-        <div class="dashContent">
-            <div class="dashItem">
-                All 
+            <div class="dashItem" onclick="fifthShow()">
+                <h4>Due Retirement Date</h4>
+                <p class="">Report of all Officers due of Retirement. </p>
             </div>
 
-            <div class="dashItem">
-                ai
-            </div>
-
-            <div class="dashItem">
-                ai
+            <div class="dashItem" onclick="sixShow()">
+                <h4>User Management</h4>
+                <p class="">User Management control</p>
             </div>
 
         </div>
@@ -66,24 +65,222 @@
       
       
     <div class="content" id="pOfficers" >
-        post officers
-    </div>
+        
+        <div class="lead-header">
+            <h3>posting officers</h3>
+            <i class="bi bi-person-circle"></i>
+        </div>
+        <div class="dashCont">
+            <form action="" class="form-header">
+                <div class="search-input-div">
+                  <input type="text" class="search-input" placeholder="Search" >
+                  <i class="bi bi-search icon-search"></i> 
+                </div>
+                <button class="search-btn" >print preview</button>
+                <button class="search-btn">export</button>
+                </form>
+        <div style="overflow-x: auto;">
+            <table class="table-set">
+                <thead class="table-head">
+                    <tr>
+                        <th> s/n </th>
+                        <th>  full name </th>
+                        <th> ministry </th>
+                        <th> grade level </th>
+                        <th> previous two Posting with date </th>
+                        <th> last Posting date </th>
+                        <th> expected date of posting </th>
+                    </tr>
+                </thead>
+                <tr>
+                    <td colspan="7" class="table-data"> no data available </td>
+                </tr>
+                <tfoot class="table-footer">
+                    <td colspan="7" class="table-foter-data ">
+                        Rows per page
+                        <select name="" class="select-sort" id="">
+                            <option value="">1</option>
+                            <option value="">2</option>
+                            <option value="">3</option>
+                        </select>
+                        <i class="bi bi-dash "></i> 
+                        <i class="bi bi-chevron-left "></i> 
+                        <i class="bi bi-chevron-right"></i> 
+                    </td>
+                </tfoot>
+            </table>
+        </div>
+        </div>
+        </div>
       
       
     <div class="content" id="nominal" >
-        nominal roll
+        
+
+        <div class="lead-header">
+            <h3>nominal roll </h3>
+            <i class="bi bi-person-circle"></i>
+        </div>
+        <div class="dashContent">
+            riet0o
+
+
+
+        </div>
     </div>
       
     <div class="content" id="retiment">
-        Retirement
+        
+        <div class="lead-header">
+            <h3>Expected Retirement date</h3>
+            <i class="bi bi-person-circle"></i>
+        </div>
+        <div class="dashCont">
+                <form action="" class="form-header">
+                    <div class="search-input-div">
+                      <input type="text" class="search-input" placeholder="Search" >
+                      <i class="bi bi-search icon-search"></i> 
+                    </div>
+                    <button class="search-btn" >print preview</button>
+                    <button class="search-btn">export</button>
+                    </form>
+                    <div style="overflow-x: auto;">
+                        <table class="table-set">
+                            <thead class="table-head">
+                                <tr>
+                                    <th> s/n </th>
+                                    <th> full name </th>
+                                    <th> ministry </th>
+                                    <th> grade level </th>
+                                    <th> last Posting date </th>
+                                    <th> expected date of retirement </th>
+                                </tr>
+                            </thead>
+                            <tr>
+                                <td colspan="7" class="table-data"> no data available </td>
+                            </tr>
+                            <tfoot class="table-footer">
+                                <td colspan="7" class="table-foter-data ">
+                                    Rows per page
+                                    <select name="" class="select-sort" id="">
+                                        <option value="">1</option>
+                                        <option value="">2</option>
+                                        <option value="">3</option>
+                                    </select>
+                                    <i class="bi bi-dash "></i> 
+                                    <i class="bi bi-chevron-left "></i> 
+                                    <i class="bi bi-chevron-right"></i> 
+                                </td>
+                            </tfoot>
+                        </table>
+                    </div>
+        </div>
     </div>
       
     <div class="content" id="dueRetirement">
-       due Retirement
+      
+       <div class="lead-header">
+        <h3> due Retirement date</h3>
+        <i class="bi bi-person-circle"></i>
+    </div>
+    <div class="dashCont">
+        <form action="" class="form-header">
+            <div class="search-input-div">
+              <input type="text" class="search-input" placeholder="Search" >
+              <i class="bi bi-search icon-search"></i> 
+            </div>
+            <button class="search-btn" >print preview</button>
+            <button class="search-btn">export</button>
+            </form>
+        <div style="overflow-x: auto;">
+            <table class="table-set">
+                <thead class="table-head">
+                    <tr>
+                        <th> s/n </th>
+                        <th>  full name </th>
+                        <th> ministry </th>
+                        <th> grade level </th>
+                        <th> last Posting date </th>
+                        <th> retirement date </th>
+                    </tr>
+                </thead>
+                <tr>
+                    <td colspan="7" class="table-data"> no data available </td>
+                </tr>
+                <tfoot class="table-footer">
+                    <td colspan="7" class="table-foter-data ">
+                        Rows per page
+                        <select name="" class="select-sort" id="">
+                            <option value="">1</option>
+                            <option value="">2</option>
+                            <option value="">3</option>
+                        </select>
+                        <i class="bi bi-dash "></i> 
+                        <i class="bi bi-chevron-left "></i> 
+                        <i class="bi bi-chevron-right"></i> 
+                    </td>
+                </tfoot>
+            </table>
+        </div>
+    </div>
     </div>
       
     <div class="content" id="management">
-        management
+        
+        <div class="lead-header">
+            <h3>user management </h3>
+            <i class="bi bi-person-circle"></i>
+        </div>
+        <div class="dashCont">
+            <form action="" class="form-header">
+                <div class="search-input-div">
+                  <input type="text" class="search-input" placeholder="Search" >
+                  <i class="bi bi-search icon-search"></i> 
+                </div>
+                <button class="search-btn" >print preview</button>
+                <button class="search-btn">export</button>
+                </form>
+        <div style="overflow-x: auto;">
+            <table class="table-set">
+                <thead class="table-head">
+                    <tr>
+                        <th> s/n </th>
+                        <th>  Email  </th>
+                        <th> Role </th>
+                        <th> Enabled </th>
+                        <th>  </th>
+                    </tr>
+                </thead>
+                <tr>
+                    <td class="user-table-data" > 1 </td>
+                    <td class="user-table-data" > Mr  </td>
+                    <td class="user-table-data" > Admin </td>
+                    <td class="user-table-data" style="color: #008000; font-weight: bolder;" > <i class="bi bi-check-lg"></i> </td>
+                    <td class="user-table-data" > <i class="bi bi-three-dots"></i>  </td>
+                </tr>
+                <tr>
+                    <td class="user-table-data" > 2 </td>
+                    <td class="user-table-data" > Mrs  </td>
+                    <td class="user-table-data" > Sec </td>
+                    <td class="user-table-data" style="color: #008000; font-weight: bolder;" > <i class="bi bi-check-lg"></i> </td>
+                    <td class="user-table-data" > <i class="bi bi-three-dots"></i>  </td>
+                </tr>
+                <tfoot class="table-footer">
+                    <td colspan="7" class="table-foter-data ">
+                        Rows per page
+                        <select name="" class="select-sort" id="">
+                            <option value="">1</option>
+                            <option value="">2</option>
+                            <option value="">3</option>
+                        </select>
+                        <i class="bi bi-dash "></i> 
+                        <i class="bi bi-chevron-left "></i> 
+                        <i class="bi bi-chevron-right"></i> 
+                    </td>
+                </tfoot>
+            </table>
+        </div>
+    </div>
     </div>
 
 

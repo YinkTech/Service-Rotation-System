@@ -96,7 +96,7 @@ function sixShow() {
 
 // Add active class to the current button (highlight it)
 var headnav = document.getElementById("navDIV");
-var btns = headnav.getElementsByClassName("btn");
+var btns = headnav.getElementsByClassName("nav-btn");
 for (var i = 0; i < btns.length; i++) {
   btns[i].addEventListener("click", function() {
   var current = document.getElementsByClassName("active");
