@@ -28,8 +28,8 @@ retiment = document.getElementById('retiment');
 dueRetirement = document.getElementById('dueRetirement');
 management = document.getElementById('management');
 
-home.style.display = 'none';
-pOfficers.style.display = 'block ';
+home.style.display = 'block';
+pOfficers.style.display = 'none ';
 nominal.style.display = 'none';
 retiment.style.display = 'none';
 dueRetirement.style.display = 'none';
