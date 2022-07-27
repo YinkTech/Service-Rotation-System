@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Service Rotation System</title>
+    <link rel="stylesheet" href="./assets/style.css" >
+</head>
+<body>
+<header class="header">
+    <b>Service Rotation System </b>
+    <i class="bi bi-menu-button-wide" onclick="opennav()"></i>
+    <i class="bi bi-menu-button" onclick="closenav()"></i>
+</header>
+
+    <div class="sidebar" id="myDIV">
+        <img src="./assets/img/coat-of-arm-logo-png.png" class="logo-img" alt="logo">
+       <b class="logo-text"> Service Rotation system </b> 
+       <div id="navDIV"> 
+            <a class="nav-btn active" onclick="firstShow()"> <i class="bi bi-house-door"></i> Home</a>
+            <a class="nav-btn pOfficers"  onclick="secondShow()" ><i class="bi bi-stickies"></i> Posting Officers</a>
+            <a class="nav-btn nominal" onclick="thirdShow()"><i class="bi bi-table"></i> Nominal Roll</a>
+            <a class="nav-btn retiment"  onclick="forthShow()"><i class="bi bi-envelope-fill"></i> Expected Retirement Date</a>
+            <a class="nav-btn dueRetirement" onclick="fifthShow()"><i class="bi bi-people-fill"></i> Due Retirement Date</a>
+            <a class="nav-btn"  onclick="sixShow()"><i class="bi bi-gear-wide-connected"></i> User Management</a>
+        </div>
+    </div>
+      
+    <div class="content" id="home" >
+        <div class="lead-header">
+            <h3>Dashboard</h3>
+            <i class="bi bi-person-circle"></i>
+        </div>
+        <div class="dashContent">
+
+            <div class="dashItem" onclick="secondShow()">
+                <h4>All Posting Officers</h4>
+                <p class="">Report of all Officers due for posting</p>
+            </div>
+
+            
+            <div class="dashItem" onclick="thirdShow()">
+                <h4>Nominal Roll</h4>
+                <p class="">Report of all Officers in the system</p>
+            </div>
+
+            <div class="dashItem" onclick="forthShow()">
+                <h4>Expected Retirement date</h4>
+                <p class="">Report of all Officers retirement due date. </p>
+            </div>
+
+            <div class="dashItem" onclick="fifthShow()">
+                <h4>Due Retirement Date</h4>
+                <p class="">Report of all Officers due of Retirement. </p>
+            </div>
+
+            <div class="dashItem" onclick="sixShow()">
+                <h4>User Management</h4>
+                <p class="">User Management control</p>
+            </div>
+
+        </div>
+    </div>
+      
+      
+    <div class="content" id="pOfficers" >
+        
+        <div class="lead-header">
+            <h3>posting officers</h3>
+            <i class="bi bi-person-circle"></i>
+        </div>
+        <div class="dashCont">
+            <div class="post-div">
+                <span class="post-text">show procument officers:</span>
+                    <div class="post-btn-group">
+                        <button class="post-btn"> all </button>
+                        <button class="post-btn"> awaiting </button>
+                        <button class="post-btn"> succesfull </button>
+                        <button class="post-btn activ"> failed </button>
+                    </div>
+            </div>
+            <div class="post-form-div">
+                <form action="" class="form-header-post">
+                    <div class="search-input-div">
+                    <select name="" class="search-input-post" id="">
+                        <option value="">Ministry</option>
+                        <option value="">all</option>
+                        <option value="">none</option>
+                    </select>
+                    </div>
+                    <div class="search-input-div">
+                    <select name="" class="search-input-post" id="">
+                        <option value="">Grade Level</option>
+                        <option value="">all</option>
+                        <option value="">none</option>
+                    </select>
+                    </div>
+                    <div class="search-input-div">
+                    <input type="text" class="search-input" placeholder="Search" >
+                    <i class="bi bi-search icon-search"></i> 
+                    </div>
+                    <div class="btn-group">
+                        <button class="search-btn" >print preview</button>
+                        <button class="search-btn">export</button>
+                    </div>
+                    </form>
+            </div>
+        <div style="overflow-x: auto;">
+            <table class="table-set">
+                <thead class="table-head">
+                    <tr>
+                        <th> s/n </th>
+                        <th>  IPPIS </th>
+                        <th>  full name </th>
+                        <th> SGL </th>
+                        <th> SEX </th>
+                        <th> MDA </th>
+                        <th> CADRE </th>
+                        <th> VERIFICATION STATUS </th>
+                        <th> previous two Posting with date </th>
+                        <th> last Posting date </th>
+                        <th> expected date of posting </th>
+                    </tr>
+                </thead>
+                <tr>
+                    <td class="table-data"> 1 </td>
+                    <td class="table-data"> 0009 </td>
+                    <td class="table-data"> FATIMA HASSAN HARUNA </td>
+                    <td class="table-data"> GL17 </td>
+                    <td class="table-data"> Female </td>
+                    <td class="table-data"> MINISTRY OF DEFENCE </td>
+                    <td class="table-data"> Administrator </td>
+                    <td class="table-data circle"> <i class="bi bi-x-circle"></i> </td>
+                    <td class="table-data">  </td>
+                    <td class="table-data">  </td>
+                    <td class="table-data">  </td>
+                </tr>
+                <tr>
+                    <td class="table-data"> 2 </td>
+                    <td class="table-data"> 001 </td>
+                    <td class="table-data"> JAFA BAWA </td>
+                    <td class="table-data"> GL17 </td>
+                    <td class="table-data"> Male </td>
+                    <td class="table-data"> OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION </td>
+                    <td class="table-data"> Administrator </td>
+                    <td class="table-data circle"> <i class="bi bi-x-circle"></i> </td>
+                    <td class="table-data">  </td>
+                    <td class="table-data">  </td>
+                    <td class="table-data">  </td>
+                </tr>
+                <tr>
+                    <td class="table-data"> 3 </td>
+                    <td class="table-data"> 002 </td>
+                    <td class="table-data"> GIWA A </td>
+                    <td class="table-data"> GL17 </td>
+                    <td class="table-data"> Male </td>
+                    <td class="table-data"> OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERAION </td>
+                    <td class="table-data"> Administrator </td>
+                    <td class="table-data circle"> <i class="bi bi-x-circle"></i> </td>
+                    <td class="table-data">  </td>
+                    <td class="table-data">  </td>
+                    <td class="table-data">  </td>
+                </tr>
+                <tr>
+                    <td class="table-data"> 4 </td>
+                    <td class="table-data"> 003 </td>
+                    <td class="table-data"> YAHAYA M A </td>
+                    <td class="table-data"> GL17 </td>
+                    <td class="table-data"> Male </td>
+                    <td class="table-data"> MINISTRY OF PETROLEUM RESOURCES </td>
+                    <td class="table-data"> Administrator </td>
+                    <td class="table-data circle"> <i class="bi bi-x-circle"></i> </td>
+                    <td class="table-data">  </td>
+                    <td class="table-data">  </td>
+                    <td class="table-data">  </td>
+                </tr>
+                <tr>
+                    <td class="table-data"> 5 </td>
+                    <td class="table-data"> 004 </td>
+                    <td class="table-data"> OKOOGUA ABDULRAZ I </td>
+                    <td class="table-data"> GL17 </td>
+                    <td class="table-data"> Male </td>
+                    <td class="table-data"> OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION </td>
+                    <td class="table-data"> Administrator </td>
+                    <td class="table-data circle"> <i class="bi bi-x-circle"></i> </td>
+                    <td class="table-data">  </td>
+                    <td class="table-data">  </td>
+                    <td class="table-data">  </td>
+                </tr>
+                <tfoot class="table-footer">
+                    <td colspan="7" class="table-foter-data ">
+                        Rows per page
+                        <select name="" class="select-sort" id="">
+                            <option value="">1</option>
+                            <option value="">2</option>
+                            <option value="">3</option>
+                        </select>
+                        <i class="bi bi-dash "></i> 
+                        <i class="bi bi-chevron-left "></i> 
+                        <i class="bi bi-chevron-right"></i> 
+                    </td>
+                </tfoot>
+            </table>
+        </div>
+        </div>
+        </div>
+      
+      
+    <div class="content" id="nominal" >
+        <div class="lead-header">
+            <h3>nominal roll </h3>
+            <i class="bi bi-person-circle"></i>
+        </div>
+        <div class="dashCont">
+            <form action="" class="form-header">
+                <div class="search-input-div">
+                  <input type="text" class="search-input" placeholder="Search" >
+                  <i class="bi bi-search icon-search"></i> 
+                </div>
+                <div class="btn-group">
+                    <button class="search-btn" >print preview</button>
+                    <button class="search-btn">export</button>
+                </div>
+                </form>
+            <div style="overflow-x: auto;">
+                <table class="table-set">
+                    <thead class="table-head">
+                        <tr>
+                            <th> s/n </th>
+                            <th>  IPPIS </th>
+                            <th>  full name </th>
+                            <th> RANK </th>
+                            <th> SGL </th>
+                            <th> SEX </th>
+                            <th> MDA </th>
+                            <th> CADRE </th>
+                            <th> DEPARTMENT </th>
+                        </tr>
+                    </thead>
+                    <tr>
+                        <td class="table-data"> 1 </td>
+                        <td class="table-data"> 0009 </td>
+                        <td class="table-data"> FATIMA HASSAN HARUNA </td>
+                        <td class="table-data"> DIRECTOR </td>
+                        <td class="table-data"> GL17 </td>
+                        <td class="table-data"> Female </td>
+                        <td class="table-data"> MINISTRY OF DEFENCE </td>
+                        <td class="table-data"> Administrator </td>
+                        <td class="table-data">  </td>
+                    </tr>
+                    <tr>
+                        <td class="table-data"> 2 </td>
+                        <td class="table-data"> 001 </td>
+                        <td class="table-data"> JAFA BAWA </td>
+                        <td class="table-data"> DIRECTOR </td>
+                        <td class="table-data"> GL17 </td>
+                        <td class="table-data"> Male </td>
+                        <td class="table-data"> OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION </td>
+                        <td class="table-data"> Administrator </td>
+                        <td class="table-data">  </td>
+                    </tr>
+                    <tr>
+                        <td class="table-data"> 3 </td>
+                        <td class="table-data"> 002 </td>
+                        <td class="table-data"> GIWA A </td>
+                        <td class="table-data"> DIRECTOR </td>
+                        <td class="table-data"> GL17 </td>
+                        <td class="table-data"> Male </td>
+                        <td class="table-data"> OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERAION </td>
+                        <td class="table-data"> Administrator </td>
+                        <td class="table-data">  </td>
+                    </tr>
+                    <tr>
+                        <td class="table-data"> 4 </td>
+                        <td class="table-data"> 003 </td>
+                        <td class="table-data"> YAHAYA M A </td>
+                        <td class="table-data"> DIRECTOR </td>
+                        <td class="table-data"> GL17 </td>
+                        <td class="table-data"> Male </td>
+                        <td class="table-data"> MINISTRY OF PETROLEUM RESOURCES </td>
+                        <td class="table-data"> Administrator </td>
+                        <td class="table-data">  </td>
+                    </tr>
+                    <tr>
+                        <td class="table-data"> 5 </td>
+                        <td class="table-data"> 004 </td>
+                        <td class="table-data"> OKOOGUA ABDULRAZ I </td>
+                        <td class="table-data"> DIRECTOR </td>
+                        <td class="table-data"> GL17 </td>
+                        <td class="table-data"> Male </td>
+                        <td class="table-data"> OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION </td>
+                        <td class="table-data"> Administrator </td>
+                        <td class="table-data">  </td>
+                    </tr>
+                    <tr>
+                        <td class="table-data"> 6 </td>
+                        <td class="table-data"> 005 </td>
+                        <td class="table-data"> UMAR AISHA SHEHU </td>
+                        <td class="table-data"> DIRECTOR </td>
+                        <td class="table-data"> GL17 </td>
+                        <td class="table-data"> Female </td>
+                        <td class="table-data"> OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION </td>
+                        <td class="table-data"> Administrator </td>
+                        <td class="table-data">  </td>
+                    </tr>
+                    <tr>
+                        <td class="table-data"> 7 </td>
+                        <td class="table-data"> 006 </td>
+                        <td class="table-data"> OKOKON UDO EKANEM </td>
+                        <td class="table-data"> DIRECTOR </td>
+                        <td class="table-data"> GL17 </td>
+                        <td class="table-data"> Male </td>
+                        <td class="table-data"> OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION </td>
+                        <td class="table-data"> Administrator </td>
+                        <td class="table-data">  </td>
+                    </tr>
+                    <tr>
+                        <td class="table-data"> 8 </td>
+                        <td class="table-data"> 007 </td>
+                        <td class="table-data"> KILANI LUKMAN AKANDE </td>
+                        <td class="table-data"> DIRECTOR </td>
+                        <td class="table-data"> GL17 </td>
+                        <td class="table-data"> Male </td>
+                        <td class="table-data"> OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION </td>
+                        <td class="table-data"> Administrator </td>
+                        <td class="table-data">  </td>
+                    </tr>
+                    <tr>
+                        <td class="table-data"> 9 </td>
+                        <td class="table-data"> 008 </td>
+                        <td class="table-data"> BALA MOHAMMED </td>
+                        <td class="table-data"> DIRECTOR </td>
+                        <td class="table-data"> GL17 </td>
+                        <td class="table-data"> Male </td>
+                        <td class="table-data"> FEDERAL CIVIL SERVICE COMMISSION </td>
+                        <td class="table-data"> Administrator </td>
+                        <td class="table-data">  </td>
+                    </tr>
+                    <tr>
+                        <td class="table-data"> 10 </td>
+                        <td class="table-data"> 009 </td>
+                        <td class="table-data"> CHARLES UGWU </td>
+                        <td class="table-data"> DIRECTOR </td>
+                        <td class="table-data"> GL17 </td>
+                        <td class="table-data"> Male </td>
+                        <td class="table-data"> OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERAION </td>
+                        <td class="table-data"> Administrator </td>
+                        <td class="table-data">  </td>
+                    </tr>
+                    <tfoot class="table-footer">
+                        <td colspan="7" class="table-foter-data ">
+                            Rows per page
+                            <select name="" class="select-sort" id="">
+                                <option value="">1</option>
+                                <option value="">2</option>
+                                <option value="">3</option>
+                            </select>
+                            <i class="bi bi-dash "></i> 
+                            <i class="bi bi-chevron-left "></i> 
+                            <i class="bi bi-chevron-right"></i> 
+                        </td>
+                    </tfoot>
+                </table>
+            </div>
+        </div>
+    </div>
+      
+    <div class="content" id="retiment">
+        
+        <div class="lead-header">
+            <h3>Expected Retirement date</h3>
+            <i class="bi bi-person-circle"></i>
+        </div>
+        
+        <div class="dashCont">
+            <form action="" class="form-header">
+                <div class="search-input-div">
+                  <input type="text" class="search-input" placeholder="Search" >
+                  <i class="bi bi-search icon-search"></i> 
+                </div>
+                <div class="btn-group">
+                    <button class="search-btn" >print preview</button>
+                    <button class="search-btn">export</button>
+                </div>
+                </form>
+                <div style="overflow-x: auto;">
+                    <table class="table-set">
+                        <thead class="table-head">
+                            <tr>
+                                <th> s/n </th>
+                                <th>  IPPIS </th>
+                                <th>  full name </th>
+                                <th> SGL </th>
+                                <th> SEX </th>
+                                <th> MDA </th>
+                                <th> CADRE </th>
+                                <th> last Posting date </th>
+                                <th> Expected Retirement date </th>
+                            </tr>
+                        </thead>
+                        <tr>
+                            <td class="table-data"> 1 </td>
+                            <td class="table-data"> 0009 </td>
+                            <td class="table-data"> FATIMA HASSAN HARUNA </td>
+                            <td class="table-data"> GL17 </td>
+                            <td class="table-data"> Female </td>
+                            <td class="table-data"> MINISTRY OF DEFENCE </td>
+                            <td class="table-data"> Administrator </td>
+                            <td class="table-data">  </td>
+                            <td class="table-data">  </td>
+                        </tr>
+                        <tr>
+                            <td class="table-data"> 2 </td>
+                            <td class="table-data"> 001 </td>
+                            <td class="table-data"> JAFA BAWA </td>
+                            <td class="table-data"> GL17 </td>
+                            <td class="table-data"> Male </td>
+                            <td class="table-data"> OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION </td>
+                            <td class="table-data"> Administrator </td>
+                            <td class="table-data">  </td>
+                            <td class="table-data">  </td>
+                        </tr>
+                        <tr>
+                            <td class="table-data"> 3 </td>
+                            <td class="table-data"> 002 </td>
+                            <td class="table-data"> GIWA A </td>
+                            <td class="table-data"> GL17 </td>
+                            <td class="table-data"> Male </td>
+                            <td class="table-data"> OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERAION </td>
+                            <td class="table-data"> Administrator </td>
+                            <td class="table-data">  </td>
+                            <td class="table-data">  </td>
+                        </tr>
+                        <tr>
+                            <td class="table-data"> 4 </td>
+                            <td class="table-data"> 003 </td>
+                            <td class="table-data"> YAHAYA M A </td>
+                            <td class="table-data"> GL17 </td>
+                            <td class="table-data"> Male </td>
+                            <td class="table-data"> MINISTRY OF PETROLEUM RESOURCES </td>
+                            <td class="table-data"> Administrator </td>
+                            <td class="table-data">  </td>
+                            <td class="table-data">  </td>
+                        </tr>
+                        <tr>
+                            <td class="table-data"> 5 </td>
+                            <td class="table-data"> 004 </td>
+                            <td class="table-data"> OKOOGUA ABDULRAZ I </td>
+                            <td class="table-data"> GL17 </td>
+                            <td class="table-data"> Male </td>
+                            <td class="table-data"> OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION </td>
+                            <td class="table-data"> Administrator </td>
+                            <td class="table-data">  </td>
+                            <td class="table-data">  </td>
+                        </tr>
+                        <tfoot class="table-footer">
+                            <td colspan="7" class="table-foter-data ">
+                                Rows per page
+                                <select name="" class="select-sort" id="">
+                                    <option value="">1</option>
+                                    <option value="">2</option>
+                                    <option value="">3</option>
+                                </select>
+                                <i class="bi bi-dash "></i> 
+                                <i class="bi bi-chevron-left "></i> 
+                                <i class="bi bi-chevron-right"></i> 
+                            </td>
+                        </tfoot>
+                    </table>
+                </div> 
+        </div>
+    </div>
+      
+    <div class="content" id="dueRetirement">
+      
+       <div class="lead-header">
+        <h3> due Retirement date</h3>
+        <i class="bi bi-person-circle"></i>
+    </div>
+    <div class="dashCont">
+        <form action="" class="form-header">
+            <div class="search-input-div">
+              <input type="text" class="search-input" placeholder="Search" >
+              <i class="bi bi-search icon-search"></i> 
+            </div>
+            <div class="btn-group">
+                <button class="search-btn" >print preview</button>
+                <button class="search-btn">export</button>
+            </div>
+            </form>
+        
+            <div style="overflow-x: auto;">
+                <table class="table-set">
+                    <thead class="table-head">
+                        <tr>
+                            <th> s/n </th>
+                            <th>  IPPIS </th>
+                            <th>  full name </th>
+                            <th> SGL </th>
+                            <th> SEX </th>
+                            <th> MDA </th>
+                            <th> CADRE </th>
+                            <th> last Posting date </th>
+                            <th> Retirement date </th>
+                        </tr>
+                    </thead>
+                    <tr>
+                        <td class="table-data"> 1 </td>
+                        <td class="table-data"> 0009 </td>
+                        <td class="table-data"> FATIMA HASSAN HARUNA </td>
+                        <td class="table-data"> GL17 </td>
+                        <td class="table-data"> Female </td>
+                        <td class="table-data"> MINISTRY OF DEFENCE </td>
+                        <td class="table-data"> Administrator </td>
+                        <td class="table-data">  </td>
+                        <td class="table-data">  </td>
+                    </tr>
+                    <tr>
+                        <td class="table-data"> 2 </td>
+                        <td class="table-data"> 001 </td>
+                        <td class="table-data"> JAFA BAWA </td>
+                        <td class="table-data"> GL17 </td>
+                        <td class="table-data"> Male </td>
+                        <td class="table-data"> OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION </td>
+                        <td class="table-data"> Administrator </td>
+                        <td class="table-data">  </td>
+                        <td class="table-data">  </td>
+                    </tr>
+                    <tr>
+                        <td class="table-data"> 3 </td>
+                        <td class="table-data"> 002 </td>
+                        <td class="table-data"> GIWA A </td>
+                        <td class="table-data"> GL17 </td>
+                        <td class="table-data"> Male </td>
+                        <td class="table-data"> OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERAION </td>
+                        <td class="table-data"> Administrator </td>
+                        <td class="table-data">  </td>
+                        <td class="table-data">  </td>
+                    </tr>
+                    <tr>
+                        <td class="table-data"> 4 </td>
+                        <td class="table-data"> 003 </td>
+                        <td class="table-data"> YAHAYA M A </td>
+                        <td class="table-data"> GL17 </td>
+                        <td class="table-data"> Male </td>
+                        <td class="table-data"> MINISTRY OF PETROLEUM RESOURCES </td>
+                        <td class="table-data"> Administrator </td>
+                        <td class="table-data">  </td>
+                        <td class="table-data">  </td>
+                    </tr>
+                    <tr>
+                        <td class="table-data"> 5 </td>
+                        <td class="table-data"> 004 </td>
+                        <td class="table-data"> OKOOGUA ABDULRAZ I </td>
+                        <td class="table-data"> GL17 </td>
+                        <td class="table-data"> Male </td>
+                        <td class="table-data"> OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION </td>
+                        <td class="table-data"> Administrator </td>
+                        <td class="table-data">  </td>
+                        <td class="table-data">  </td>
+                    </tr>
+                    <tfoot class="table-footer">
+                        <td colspan="7" class="table-foter-data ">
+                            Rows per page
+                            <select name="" class="select-sort" id="">
+                                <option value="">1</option>
+                                <option value="">2</option>
+                                <option value="">3</option>
+                            </select>
+                            <i class="bi bi-dash "></i> 
+                            <i class="bi bi-chevron-left "></i> 
+                            <i class="bi bi-chevron-right"></i> 
+                        </td>
+                    </tfoot>
+                </table>
+            </div> 
+    </div>
+    </div>
+      
+    <div class="content" id="management">  
+        <div class="lead-header">
+            <h3>user management </h3>
+            <i class="bi bi-person-circle"></i>
+        </div>
+        <div class="dashCont">
+            <form action="" class="form-header">
+                <div class="search-input-div">
+                    <select name="" class="search-input" id="">
+                        <option value="">Role</option>
+                        <option value="">Admin</option>
+                        <option value="">Sub Admin</option>
+                    </select>
+                   
+                </div>
+                
+                <div class="search-input-div">
+                  <input type="text" class="search-input" placeholder="Search" >
+                  <i class="bi bi-search icon-search"></i> 
+                </div>
+                </form>
+        <div style="overflow-x: auto;">
+            <table class="table-set">
+                <thead class="table-head">
+                    <tr>
+                        <th> s/n </th>
+                        <th>  Email  </th>
+                        <th> Role </th>
+                        <th> Enabled </th>
+                        <th>  </th>
+                    </tr>
+                </thead>
+                <tr>
+                    <td class="user-table-data" > 1 </td>
+                    <td class="user-table-data" > Mr  </td>
+                    <td class="user-table-data" > Admin </td>
+                    <td class="user-table-data" style="color: #008000; font-weight: bolder;" > <i class="bi bi-check-lg"></i> </td>
+                    <td class="user-table-data" > <i class="bi bi-three-dots"></i>  </td>
+                </tr>
+                <tr>
+                    <td class="user-table-data" > 2 </td>
+                    <td class="user-table-data" > Mrs  </td>
+                    <td class="user-table-data" > Sec </td>
+                    <td class="user-table-data" style="color: #008000; font-weight: bolder;" > <i class="bi bi-check-lg"></i> </td>
+                    <td class="user-table-data" > <i class="bi bi-three-dots"></i>  </td>
+                </tr>
+                <tfoot class="table-footer">
+                    <td colspan="7" class="table-foter-data ">
+                        Rows per page
+                        <select name="" class="select-sort" id="">
+                            <option value="">1</option>
+                            <option value="">2</option>
+                            <option value="">3</option>
+                        </select>
+                        <i class="bi bi-dash "></i> 
+                        <i class="bi bi-chevron-left "></i> 
+                        <i class="bi bi-chevron-right"></i> 
+                    </td>
+                </tfoot>
+            </table>
+        </div>
+    </div>
+    </div>
+
+
+      <script src="./assets/script.js"></script>
+</body>
+</html>
