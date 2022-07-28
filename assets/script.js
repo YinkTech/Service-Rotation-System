@@ -92,6 +92,37 @@ function sixShow() {
     management.style.display = 'block';
 }
 
+const success = document.getElementById("success");
+const failed = document.getElementById("failed");
+const waiting = document.getElementById("waiting");
+const thead = document.getElementById("table-head");
+
+const allshow = () => {
+    success.style.display = 'table-row-group';
+    failed.style.display = 'table-row-group';
+    thead.style.display = 'table-row-group';
+    waiting.style.display = 'table-row-group';
+}
+
+const successshow = () => {
+    thead.style.display = 'table-row-group';
+    success.style.display = 'table-row-group';
+    failed.style.display = 'none';
+    waiting.style.display = 'none';
+}
+const failedshow = () => {
+    success.style.display = 'none';
+    thead.style.display = 'table-row-group';
+    failed.style.display = 'table-row-group';
+    waiting.style.display = 'none';
+}
+
+const waitingshow = () => {
+    success.style.display = 'none';
+    failed.style.display = 'none';
+    thead.style.display = 'table-row-group';
+    waiting.style.display = 'table-row-group';
+}
 
 
 // Add active class to the current button (highlight it)
@@ -102,5 +133,16 @@ for (var i = 0; i < btns.length; i++) {
   var current = document.getElementsByClassName("active");
   current[0].className = current[0].className.replace(" active", "");
   this.className += " active";
+  });
+}
+
+// Add activ class to the current button (highlight it)
+var staBtn = document.getElementById("post-btn-group");
+var gBtns = staBtn.getElementsByClassName("post-btn");
+for (var i = 0; i < gBtns.length; i++) {
+  gBtns[i].addEventListener("click", function() {
+  var curent = document.getElementsByClassName("activ");
+  curent[0].className = curent[0].className.replace(" activ", "");
+  this.className += " activ";
   });
 }
