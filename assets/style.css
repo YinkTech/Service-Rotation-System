@@ -345,9 +345,21 @@ tr:nth-child(even) {
     margin-top: 20px;
 }
 
+.success {
+    font-size: 20px;
+    color: #00ff59;
+    text-align: center;
+}
+
 .circle {
     font-size: 20px;
     color: #ff0000;
+    text-align: center;
+}
+
+.waiting {
+    font-size: 20px;
+    color: #ffcc00;
     text-align: center;
 }
 
