@@ -146,13 +146,3 @@ for (var i = 0; i < gBtns.length; i++) {
   this.className += " activ";
   });
 }
-
-fetch("./database.json").then(
-    res=>{
-        res.json().then(
-            data=>{
-                console.log(Data);
-            }
-        )
-    }
-)
