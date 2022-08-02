@@ -146,3 +146,74 @@ for (var i = 0; i < gBtns.length; i++) {
   this.className += " activ";
   });
 }
+
+// TABLE DISPLAY
+
+$('#input-search').on('keyup', function(){
+    var value = $(this).val();
+    var data = searchTable(value, myArray);
+    buildTable(data)
+})
+
+$('#input-searc').on('keyup', function(){
+    var values = $(this).val();
+    var datas = searchTable(values, myArray);
+    console.log(values)
+    buildTable(datas)
+})
+
+buildTable(myArray)
+
+function searchTable (value, data){
+    var filterdData = []
+    for (var i = 0; i < data.length; i++){
+        value = value.toUpperCase()
+        var name = data[i].FULL_NAME
+
+        if (name.includes(value)){
+            filterdData.push(data[i])
+        }
+    }
+    return filterdData;
+}
+
+function buildTable(data) {
+    var table = document.getElementById('myTable');
+    var tables = document.getElementById('retirementTable');
+    table.innerHTML = "";
+    for (var i = 0; i < data.length; i++){
+        const date = new Date(data[i].DATE_OF_RETIREMENT);
+        date.setFullYear(date.getFullYear() + 20);
+
+        var rows = `<tr>
+                        <td class="table-data">${data[i].SNO}</td>
+                        <td class="table-data">${data[i].IPPIS_NO}</td>
+                        <td class="table-data">${data[i].FULL_NAME}</td>
+                        <td class="table-data">${data[i].RANK}</td>
+                        <td class="table-data">${data[i].SGL}</td>
+                        <td class="table-data">${data[i].PRESENT_MDA}</td>
+                        <td class="table-data">${data[i].PRESENT_MDA}</td>
+                        <td class="table-data">${data[i].DEPARTMENT}</td>
+                        <td class="table-data">${data[i].REMARK}</td>
+                        <td class="table-data">${data[i].CADRE}</td>
+                        <td class="table-data">${data[i].DATE_OF_APPOINTMENT}</td>
+                    </tr>`
+        table.innerHTML += rows
+
+        var row = `<tr>
+                        <td class="table-data">${data[i].SNO}</td>
+                        <td class="table-data">${data[i].IPPIS_NO}</td>
+                        <td class="table-data">${data[i].FULL_NAME}</td>
+                        <td class="table-data">${data[i].RANK}</td>
+                        <td class="table-data">${data[i].SGL}</td>
+                        <td class="table-data">${data[i].PRESENT_MDA}</td>
+                        <td class="table-data">${data[i].PRESENT_MDA}</td>
+                        <td class="table-data">${data[i].DEPARTMENT}</td>
+                        <td class="table-data">${data[i].REMARK}</td>
+                        <td class="table-data">${data[i].CADRE}</td>
+                        <td class="table-data">${date.toDateString()}</td>
+                    </tr>`
+        tables.innerHTML += row
+
+    }
+}

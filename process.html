@@ -234,7 +234,7 @@
         <div class="dashCont">
             <form action="" class="form-header">
                 <div class="search-input-div">
-                  <input type="text" class="search-input" placeholder="Search" >
+                  <input type="text" class="search-input" id="input-search" placeholder="Search" >
                   <i class="bi bi-search icon-search"></i> 
                 </div>
                 <div class="btn-group">
@@ -256,122 +256,12 @@
                             <th> DEPARTMENT </th>
                             <th> REMARK </th>
                             <th> CADRE </th>
+                            <th> DATE OF APPOINTMENT </th>
                         </tr>
                     </thead>
                     <tbody id="myTable">
 
                     </tbody>
-<!--                     
-                    <tr>
-                        <td class="table-data"> 1 </td>
-                        <td class="table-data"> 0009 </td>
-                        <td class="table-data"> FATIMA HASSAN HARUNA </td>
-                        <td class="table-data"> DIRECTOR </td>
-                        <td class="table-data"> GL17 </td>
-                        <td class="table-data"> Female </td>
-                        <td class="table-data"> MINISTRY OF DEFENCE </td>
-                        <td class="table-data"> Administrator </td>
-                        <td class="table-data">  </td>
-                    </tr>
-                    <tr>
-                        <td class="table-data"> 2 </td>
-                        <td class="table-data"> 001 </td>
-                        <td class="table-data"> JAFA BAWA </td>
-                        <td class="table-data"> DIRECTOR </td>
-                        <td class="table-data"> GL17 </td>
-                        <td class="table-data"> Male </td>
-                        <td class="table-data"> OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION </td>
-                        <td class="table-data"> Administrator </td>
-                        <td class="table-data">  </td>
-                    </tr>
-                    <tr>
-                        <td class="table-data"> 3 </td>
-                        <td class="table-data"> 002 </td>
-                        <td class="table-data"> GIWA A </td>
-                        <td class="table-data"> DIRECTOR </td>
-                        <td class="table-data"> GL17 </td>
-                        <td class="table-data"> Male </td>
-                        <td class="table-data"> OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERAION </td>
-                        <td class="table-data"> Administrator </td>
-                        <td class="table-data">  </td>
-                    </tr>
-                    <tr>
-                        <td class="table-data"> 4 </td>
-                        <td class="table-data"> 003 </td>
-                        <td class="table-data"> YAHAYA M A </td>
-                        <td class="table-data"> DIRECTOR </td>
-                        <td class="table-data"> GL17 </td>
-                        <td class="table-data"> Male </td>
-                        <td class="table-data"> MINISTRY OF PETROLEUM RESOURCES </td>
-                        <td class="table-data"> Administrator </td>
-                        <td class="table-data">  </td>
-                    </tr>
-                    <tr>
-                        <td class="table-data"> 5 </td>
-                        <td class="table-data"> 004 </td>
-                        <td class="table-data"> OKOOGUA ABDULRAZ I </td>
-                        <td class="table-data"> DIRECTOR </td>
-                        <td class="table-data"> GL17 </td>
-                        <td class="table-data"> Male </td>
-                        <td class="table-data"> OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION </td>
-                        <td class="table-data"> Administrator </td>
-                        <td class="table-data">  </td>
-                    </tr>
-                    <tr>
-                        <td class="table-data"> 6 </td>
-                        <td class="table-data"> 005 </td>
-                        <td class="table-data"> UMAR AISHA SHEHU </td>
-                        <td class="table-data"> DIRECTOR </td>
-                        <td class="table-data"> GL17 </td>
-                        <td class="table-data"> Female </td>
-                        <td class="table-data"> OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION </td>
-                        <td class="table-data"> Administrator </td>
-                        <td class="table-data">  </td>
-                    </tr>
-                    <tr>
-                        <td class="table-data"> 7 </td>
-                        <td class="table-data"> 006 </td>
-                        <td class="table-data"> OKOKON UDO EKANEM </td>
-                        <td class="table-data"> DIRECTOR </td>
-                        <td class="table-data"> GL17 </td>
-                        <td class="table-data"> Male </td>
-                        <td class="table-data"> OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION </td>
-                        <td class="table-data"> Administrator </td>
-                        <td class="table-data">  </td>
-                    </tr>
-                    <tr>
-                        <td class="table-data"> 8 </td>
-                        <td class="table-data"> 007 </td>
-                        <td class="table-data"> KILANI LUKMAN AKANDE </td>
-                        <td class="table-data"> DIRECTOR </td>
-                        <td class="table-data"> GL17 </td>
-                        <td class="table-data"> Male </td>
-                        <td class="table-data"> OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION </td>
-                        <td class="table-data"> Administrator </td>
-                        <td class="table-data">  </td>
-                    </tr>
-                    <tr>
-                        <td class="table-data"> 9 </td>
-                        <td class="table-data"> 008 </td>
-                        <td class="table-data"> BALA MOHAMMED </td>
-                        <td class="table-data"> DIRECTOR </td>
-                        <td class="table-data"> GL17 </td>
-                        <td class="table-data"> Male </td>
-                        <td class="table-data"> FEDERAL CIVIL SERVICE COMMISSION </td>
-                        <td class="table-data"> Administrator </td>
-                        <td class="table-data">  </td>
-                    </tr>
-                    <tr>
-                        <td class="table-data"> 10 </td>
-                        <td class="table-data"> 009 </td>
-                        <td class="table-data"> CHARLES UGWU </td>
-                        <td class="table-data"> DIRECTOR </td>
-                        <td class="table-data"> GL17 </td>
-                        <td class="table-data"> Male </td>
-                        <td class="table-data"> OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERAION </td>
-                        <td class="table-data"> Administrator </td>
-                        <td class="table-data">  </td>
-                    </tr> -->
 
                     <tfoot class="table-footer">
                         <td colspan="7" class="table-foter-data ">
@@ -401,7 +291,7 @@
         <div class="dashCont">
             <form action="" class="form-header">
                 <div class="search-input-div">
-                  <input type="text" class="search-input" placeholder="Search" >
+                  <input id="input-searc" type="text" class="search-input" placeholder="Search" >
                   <i class="bi bi-search icon-search"></i> 
                 </div>
                 <div class="btn-group">
@@ -413,72 +303,22 @@
                     <table class="table-set">
                         <thead class="table-head">
                             <tr>
-                                <th> s/n </th>
-                                <th>  IPPIS </th>
-                                <th>  full name </th>
+                                <th> S / N </th>
+                                <th> IPPIS NUMBER </th>
+                                <th> full name </th>
+                                <th> RANK </th>
                                 <th> SGL </th>
-                                <th> SEX </th>
-                                <th> MDA </th>
+                                <th> PRESENT MDA </th>
+                                <th> APPROVED MDA </th>
+                                <th> DEPARTMENT </th>
+                                <th> REMARK </th>
                                 <th> CADRE </th>
-                                <th> last Posting date </th>
-                                <th> Expected Retirement date </th>
+                                <th> DATE OF RETIREMENT </th>
                             </tr>
                         </thead>
-                        <tr>
-                            <td class="table-data"> 1 </td>
-                            <td class="table-data"> 0009 </td>
-                            <td class="table-data"> FATIMA HASSAN HARUNA </td>
-                            <td class="table-data"> GL17 </td>
-                            <td class="table-data"> Female </td>
-                            <td class="table-data"> MINISTRY OF DEFENCE </td>
-                            <td class="table-data"> Administrator </td>
-                            <td class="table-data">  </td>
-                            <td class="table-data">  </td>
-                        </tr>
-                        <tr>
-                            <td class="table-data"> 2 </td>
-                            <td class="table-data"> 001 </td>
-                            <td class="table-data"> JAFA BAWA </td>
-                            <td class="table-data"> GL17 </td>
-                            <td class="table-data"> Male </td>
-                            <td class="table-data"> OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION </td>
-                            <td class="table-data"> Administrator </td>
-                            <td class="table-data">  </td>
-                            <td class="table-data">  </td>
-                        </tr>
-                        <tr>
-                            <td class="table-data"> 3 </td>
-                            <td class="table-data"> 002 </td>
-                            <td class="table-data"> GIWA A </td>
-                            <td class="table-data"> GL17 </td>
-                            <td class="table-data"> Male </td>
-                            <td class="table-data"> OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERAION </td>
-                            <td class="table-data"> Administrator </td>
-                            <td class="table-data">  </td>
-                            <td class="table-data">  </td>
-                        </tr>
-                        <tr>
-                            <td class="table-data"> 4 </td>
-                            <td class="table-data"> 003 </td>
-                            <td class="table-data"> YAHAYA M A </td>
-                            <td class="table-data"> GL17 </td>
-                            <td class="table-data"> Male </td>
-                            <td class="table-data"> MINISTRY OF PETROLEUM RESOURCES </td>
-                            <td class="table-data"> Administrator </td>
-                            <td class="table-data">  </td>
-                            <td class="table-data">  </td>
-                        </tr>
-                        <tr>
-                            <td class="table-data"> 5 </td>
-                            <td class="table-data"> 004 </td>
-                            <td class="table-data"> OKOOGUA ABDULRAZ I </td>
-                            <td class="table-data"> GL17 </td>
-                            <td class="table-data"> Male </td>
-                            <td class="table-data"> OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION </td>
-                            <td class="table-data"> Administrator </td>
-                            <td class="table-data">  </td>
-                            <td class="table-data">  </td>
-                        </tr>
+                        <tbody id="retirementTable">
+
+                        </tbody>
                         <tfoot class="table-footer">
                             <td colspan="7" class="table-foter-data ">
                                 Rows per page
@@ -529,66 +369,13 @@
                             <th> DEPARTMENT </th>
                             <th> REMARK </th>
                             <th> CADRE </th>
+                            <th> DATE OF RETIREMENT </th>
+                            <th> DATE OF APPOINTMENT </th>
                         </tr>
                     </thead>
                     <tbody id="myData">
 
                     </tbody>
-                    <!-- <tr>
-                        <td class="table-data"> 1 </td>
-                        <td class="table-data"> 0009 </td>
-                        <td class="table-data"> FATIMA HASSAN HARUNA </td>
-                        <td class="table-data"> GL17 </td>
-                        <td class="table-data"> Female </td>
-                        <td class="table-data"> MINISTRY OF DEFENCE </td>
-                        <td class="table-data"> Administrator </td>
-                        <td class="table-data">  </td>
-                        <td class="table-data">  </td>
-                    </tr>
-                    <tr>
-                        <td class="table-data"> 2 </td>
-                        <td class="table-data"> 001 </td>
-                        <td class="table-data"> JAFA BAWA </td>
-                        <td class="table-data"> GL17 </td>
-                        <td class="table-data"> Male </td>
-                        <td class="table-data"> OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION </td>
-                        <td class="table-data"> Administrator </td>
-                        <td class="table-data">  </td>
-                        <td class="table-data">  </td>
-                    </tr>
-                    <tr>
-                        <td class="table-data"> 3 </td>
-                        <td class="table-data"> 002 </td>
-                        <td class="table-data"> GIWA A </td>
-                        <td class="table-data"> GL17 </td>
-                        <td class="table-data"> Male </td>
-                        <td class="table-data"> OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERAION </td>
-                        <td class="table-data"> Administrator </td>
-                        <td class="table-data">  </td>
-                        <td class="table-data">  </td>
-                    </tr>
-                    <tr>
-                        <td class="table-data"> 4 </td>
-                        <td class="table-data"> 003 </td>
-                        <td class="table-data"> YAHAYA M A </td>
-                        <td class="table-data"> GL17 </td>
-                        <td class="table-data"> Male </td>
-                        <td class="table-data"> MINISTRY OF PETROLEUM RESOURCES </td>
-                        <td class="table-data"> Administrator </td>
-                        <td class="table-data">  </td>
-                        <td class="table-data">  </td>
-                    </tr>
-                    <tr>
-                        <td class="table-data"> 5 </td>
-                        <td class="table-data"> 004 </td>
-                        <td class="table-data"> OKOOGUA ABDULRAZ I </td>
-                        <td class="table-data"> GL17 </td>
-                        <td class="table-data"> Male </td>
-                        <td class="table-data"> OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION </td>
-                        <td class="table-data"> Administrator </td>
-                        <td class="table-data">  </td>
-                        <td class="table-data">  </td>
-                    </tr> -->
                     <tfoot class="table-footer">
                         <td colspan="7" class="table-foter-data ">
                             Rows per page
@@ -671,7 +458,7 @@
     </div>
     </div>
 
-
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
       <script src="./database.js"></script>
       <script src="./assets/script.js"></script>
 </body>

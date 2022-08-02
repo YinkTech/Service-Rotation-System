@@ -6,10 +6,12 @@ var myArray = [
         "RANK": "CHIEF ADMIN OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
         "DEPARTMENT": "HRM",
         "REMARK": "Select Remark",
-        "CADRE": "ADMIN"
+        "CADRE": "ADMIN",
+        "DATE_OF_RETIREMENT": "5/1/2004",
+        "DATE_OF_APPOINTMENT": "5/1/04"
     },
     {
         "SNO": "75",
@@ -18,10 +20,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMIN"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMIN",
+        "DATE_OF_RETIREMENT": "5/2/04",
+        "DATE_OF_APPOINTMENT": "5/2/04"
     },
     {
         "SNO": "76",
@@ -30,10 +34,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "STATE HOUSE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
         "DEPARTMENT": "EMD (AOD)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMIN"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMIN",
+        "DATE_OF_RETIREMENT": "5/3/04",
+        "DATE_OF_APPOINTMENT": "5/3/04"
     },
     {
         "SNO": "77",
@@ -42,10 +48,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
+        "APPROVED_MDA": "BUDGET OFFICE OF THE FEDERATION",
         "DEPARTMENT": "REVENUE & FISCAL POLICY DEPARTMENT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMIN"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMIN",
+        "DATE_OF_RETIREMENT": "5/4/04",
+        "DATE_OF_APPOINTMENT": "5/4/04"
     },
     {
         "SNO": "78",
@@ -54,10 +62,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MENISTRY OF LABOUR AND EMPLOYMENT",
+        "APPROVED_MDA": "FEDERAL MENISTRY OF LABOUR AND EMPLOYMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMIN"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMIN",
+        "DATE_OF_RETIREMENT": "5/5/04",
+        "DATE_OF_APPOINTMENT": "5/5/04"
     },
     {
         "SNO": "80",
@@ -66,10 +76,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
-        "PRESENT_MDA": "NEW PARTNERSHIP FOR AFRICAS DEVELOPMENT NEPAD",
+        "APPROVED_MDA": "NEW PARTNERSHIP FOR AFRICAS DEVELOPMENT NEPAD",
         "DEPARTMENT": "PRSD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMIN"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMIN",
+        "DATE_OF_RETIREMENT": "5/6/04",
+        "DATE_OF_APPOINTMENT": "5/6/04"
     },
     {
         "SNO": "81",
@@ -78,10 +90,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTER-GOVERNMENTAL AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTER-GOVERNMENTAL AFFAIRS",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMIN"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMIN",
+        "DATE_OF_RETIREMENT": "5/7/04",
+        "DATE_OF_APPOINTMENT": "5/7/04"
     },
     {
         "SNO": "82",
@@ -90,10 +104,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AVIATION",
         "DEPARTMENT": "DATM (IR)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMIN"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMIN",
+        "DATE_OF_RETIREMENT": "5/8/04",
+        "DATE_OF_APPOINTMENT": "5/8/04"
     },
     {
         "SNO": "83",
@@ -102,10 +118,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "PRESENT_MDA": "OFFICE OF THE SENIOR SPECIAL ASSISTANT TO THE PRESIDENT ON SDGs",
+        "APPROVED_MDA": "OFFICE OF THE SENIOR SPECIAL ASSISTANT TO THE PRESIDENT ON SDGs",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMIN"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMIN",
+        "DATE_OF_RETIREMENT": "5/9/04",
+        "DATE_OF_APPOINTMENT": "5/9/04"
     },
     {
         "SNO": "85",
@@ -114,10 +132,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "STATE HOUSE",
+        "APPROVED_MDA": "STATE HOUSE",
         "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETRY",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/10/04",
+        "DATE_OF_APPOINTMENT": "5/10/04"
     },
     {
         "SNO": "86",
@@ -126,10 +146,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR  PRODUCTIVITY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
         "DEPARTMENT": "INFRASTRUCTURE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/11/04",
+        "DATE_OF_APPOINTMENT": "5/11/04"
     },
     {
         "SNO": "87",
@@ -138,10 +160,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "C&B",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMIN"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMIN",
+        "DATE_OF_RETIREMENT": "5/12/04",
+        "DATE_OF_APPOINTMENT": "5/12/04"
     },
     {
         "SNO": "88",
@@ -150,10 +174,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR  PRODUCTIVITY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
         "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/13/04",
+        "DATE_OF_APPOINTMENT": "5/13/04"
     },
     {
         "SNO": "89",
@@ -162,10 +188,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER CADRE",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/14/04",
+        "DATE_OF_APPOINTMENT": "5/14/04"
     },
     {
         "SNO": "90",
@@ -174,10 +202,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/15/04",
+        "DATE_OF_APPOINTMENT": "5/15/04"
     },
     {
         "SNO": "91",
@@ -186,10 +216,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMIN OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AVIATION",
         "DEPARTMENT": "DATM",
-        "REMARK": "To Vice  ()  ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To Vice  ()",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/16/04",
+        "DATE_OF_APPOINTMENT": "5/16/04"
     },
     {
         "SNO": "92",
@@ -198,10 +230,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR  PRODUCTIVITY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF EDUCATION",
         "DEPARTMENT": "HRM (PROMOTION)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/17/04",
+        "DATE_OF_APPOINTMENT": "5/17/04"
     },
     {
         "SNO": "93",
@@ -210,10 +244,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARISN AFFAIRS AD DISASTER MANAGEMENT",
-        "DEPARTMENT": "HRM ",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HUMANITARISN AFFAIRS AD DISASTER MANAGEMENT",
+        "DEPARTMENT": "HRM",
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/18/04",
+        "DATE_OF_APPOINTMENT": "5/18/04"
     },
     {
         "SNO": "94",
@@ -222,10 +258,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (PEAO)",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (PEAO)",
         "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/19/04",
+        "DATE_OF_APPOINTMENT": "5/19/04"
     },
     {
         "SNO": "95",
@@ -234,10 +272,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER CADRE",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (EFO)",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (EFO)",
         "DEPARTMENT": "SPECIAL DUTIES",
         "REMARK": "On Request",
-        "CADRE": "ADMIN"
+        "CADRE": "ADMIN",
+        "DATE_OF_RETIREMENT": "5/20/04",
+        "DATE_OF_APPOINTMENT": "5/20/04"
     },
     {
         "SNO": "96",
@@ -246,10 +286,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMIN OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MIN OF LANDS HOUSING AND URBAN DEV",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (CAO)",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (CAO)",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/21/04",
+        "DATE_OF_APPOINTMENT": "5/21/04"
     },
     {
         "SNO": "97",
@@ -258,10 +300,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "PRESENT_MDA": "OFFICE OF THE SENIOR SPECIAL ASSISTANT TO THE PRESIDENT ON SUSTAINABLE DEVELOPMENT GOALS",
+        "APPROVED_MDA": "OFFICE OF THE SENIOR SPECIAL ASSISTANT TO THE PRESIDENT ON SUSTAINABLE DEVELOPMENT GOALS",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/22/04",
+        "DATE_OF_APPOINTMENT": "5/22/04"
     },
     {
         "SNO": "98",
@@ -270,10 +314,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "STATE HOUSE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
         "DEPARTMENT": "HRM",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/23/04",
+        "DATE_OF_APPOINTMENT": "5/23/04"
     },
     {
         "SNO": "100",
@@ -282,10 +328,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION & CULTURE",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INFORMATION & CULTURE",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/24/04",
+        "DATE_OF_APPOINTMENT": "5/24/04"
     },
     {
         "SNO": "101",
@@ -294,10 +342,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMIN"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMIN",
+        "DATE_OF_RETIREMENT": "5/25/04",
+        "DATE_OF_APPOINTMENT": "5/25/04"
     },
     {
         "SNO": "102",
@@ -306,10 +356,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "STATE HOUSE",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
+        "APPROVED_MDA": "BUDGET OFFICE OF THE FEDERATION",
         "DEPARTMENT": "EXPENDITURE (SOCIAL)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/26/04",
+        "DATE_OF_APPOINTMENT": "5/26/04"
     },
     {
         "SNO": "103",
@@ -318,10 +370,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR  PRODUCTIVITY",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
+        "APPROVED_MDA": "MINISTRY OF DEFENCE  MOD",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/27/04",
+        "DATE_OF_APPOINTMENT": "5/27/04"
     },
     {
         "SNO": "104",
@@ -330,10 +384,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
         "DEPARTMENT": "POLICE INSPECTORATE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/28/04",
+        "DATE_OF_APPOINTMENT": "5/28/04"
     },
     {
         "SNO": "105",
@@ -342,10 +398,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AVIATION",
         "DEPARTMENT": "DATM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/29/04",
+        "DATE_OF_APPOINTMENT": "5/29/04"
     },
     {
         "SNO": "106",
@@ -354,10 +412,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMIN OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "STATE HOUSE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
         "DEPARTMENT": "IPPIS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/30/04",
+        "DATE_OF_APPOINTMENT": "5/30/04"
     },
     {
         "SNO": "107",
@@ -366,10 +426,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF TRANSPORT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/31/04",
+        "DATE_OF_APPOINTMENT": "5/31/04"
     },
     {
         "SNO": "108",
@@ -378,10 +440,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/31/05",
+        "DATE_OF_APPOINTMENT": "5/31/05"
     },
     {
         "SNO": "109",
@@ -390,10 +454,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/1/05",
+        "DATE_OF_APPOINTMENT": "6/1/05"
     },
     {
         "SNO": "110",
@@ -402,10 +468,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE",
         "DEPARTMENT": "HOME FINANCE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMIN"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMIN",
+        "DATE_OF_RETIREMENT": "6/2/05",
+        "DATE_OF_APPOINTMENT": "6/2/05"
     },
     {
         "SNO": "111",
@@ -414,10 +482,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "C&B",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMIN"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMIN",
+        "DATE_OF_RETIREMENT": "6/3/05",
+        "DATE_OF_APPOINTMENT": "6/3/05"
     },
     {
         "SNO": "112",
@@ -426,10 +496,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
         "DEPARTMENT": "OFFICE OF THE HONOURABLE MINISTER OF STATE",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/4/05",
+        "DATE_OF_APPOINTMENT": "6/4/05"
     },
     {
         "SNO": "113",
@@ -438,10 +510,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMIN OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "STATE HOUSE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HEALTH",
         "DEPARTMENT": "BUDGET",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/5/05",
+        "DATE_OF_APPOINTMENT": "6/5/05"
     },
     {
         "SNO": "114",
@@ -450,10 +524,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "PRESENT_MDA": "NIGERIA IN DIASPORA COMMISSION",
+        "APPROVED_MDA": "NIGERIA IN DIASPORA COMMISSION",
         "DEPARTMENT": "ADMINISTRATION",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/6/05",
+        "DATE_OF_APPOINTMENT": "6/6/05"
     },
     {
         "SNO": "115",
@@ -462,10 +538,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR  PRODUCTIVITY",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
         "DEPARTMENT": "EMD (POD)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/7/05",
+        "DATE_OF_APPOINTMENT": "6/7/05"
     },
     {
         "SNO": "116",
@@ -474,10 +552,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MIN OF LANDS HOUSING AND URBAN DEV",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (CAO)",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (CAO)",
         "DEPARTMENT": "CABINET AFFAIRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/8/05",
+        "DATE_OF_APPOINTMENT": "6/8/05"
     },
     {
         "SNO": "117",
@@ -486,10 +566,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HEALTH",
         "DEPARTMENT": "PPP",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/9/05",
+        "DATE_OF_APPOINTMENT": "6/9/05"
     },
     {
         "SNO": "118",
@@ -498,10 +580,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "BUDGET AND NATIONAL PLANNING (PLANNING)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/10/05",
+        "DATE_OF_APPOINTMENT": "6/10/05"
     },
     {
         "SNO": "119",
@@ -510,10 +594,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF EDUCATION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/11/05",
+        "DATE_OF_APPOINTMENT": "6/11/05"
     },
     {
         "SNO": "120",
@@ -522,10 +608,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
+        "APPROVED_MDA": "MINISTRY OF DEFENCE  MOD",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/12/05",
+        "DATE_OF_APPOINTMENT": "6/12/05"
     },
     {
         "SNO": "121",
@@ -534,10 +622,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMIN"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMIN",
+        "DATE_OF_RETIREMENT": "6/13/05",
+        "DATE_OF_APPOINTMENT": "6/13/05"
     },
     {
         "SNO": "122",
@@ -546,10 +636,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/14/05",
+        "DATE_OF_APPOINTMENT": "6/14/05"
     },
     {
         "SNO": "123",
@@ -558,10 +650,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/15/05",
+        "DATE_OF_APPOINTMENT": "6/15/05"
     },
     {
         "SNO": "124",
@@ -570,10 +664,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MIN OF LANDS HOUSING AND URBAN DEV",
-        "PRESENT_MDA": "FEDRAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDRAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "C&B",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/16/05",
+        "DATE_OF_APPOINTMENT": "6/16/05"
     },
     {
         "SNO": "125",
@@ -582,10 +678,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/17/05",
+        "DATE_OF_APPOINTMENT": "6/17/05"
     },
     {
         "SNO": "126",
@@ -594,10 +692,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/18/05",
+        "DATE_OF_APPOINTMENT": "6/18/05"
     },
     {
         "SNO": "127",
@@ -606,10 +706,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/19/05",
+        "DATE_OF_APPOINTMENT": "6/19/05"
     },
     {
         "SNO": "128",
@@ -618,10 +720,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/20/05",
+        "DATE_OF_APPOINTMENT": "6/20/05"
     },
     {
         "SNO": "129",
@@ -630,10 +734,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "PICA",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/21/05",
+        "DATE_OF_APPOINTMENT": "6/21/05"
     },
     {
         "SNO": "130",
@@ -642,10 +748,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AVIATION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/22/05",
+        "DATE_OF_APPOINTMENT": "6/22/05"
     },
     {
         "SNO": "132",
@@ -654,10 +762,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
         "DEPARTMENT": "PERFORMANCE MANAGEMENT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/23/05",
+        "DATE_OF_APPOINTMENT": "6/23/05"
     },
     {
         "SNO": "133",
@@ -666,10 +776,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF CULTURE TOURISM  NATIONAL ORIENTATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION (CMO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION (CMO)",
         "DEPARTMENT": "PERFORMANCE MANAGEMENT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/24/05",
+        "DATE_OF_APPOINTMENT": "6/24/05"
     },
     {
         "SNO": "134",
@@ -678,10 +790,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/25/05",
+        "DATE_OF_APPOINTMENT": "6/25/05"
     },
     {
         "SNO": "135",
@@ -690,10 +804,12 @@ var myArray = [
         "RANK": "SENIOR ADMIN OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF JUSTICE",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF JUSTICE",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/26/05",
+        "DATE_OF_APPOINTMENT": "6/26/05"
     },
     {
         "SNO": "136",
@@ -702,10 +818,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "BUDGET & NATIONAL PLANNING (HRM)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "6/27/05",
+        "DATE_OF_APPOINTMENT": "6/27/05"
     },
     {
         "SNO": "137",
@@ -714,10 +832,12 @@ var myArray = [
         "RANK": "SENIOR ADMIN OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/28/05",
+        "DATE_OF_APPOINTMENT": "6/28/05"
     },
     {
         "SNO": "138",
@@ -726,10 +846,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRADE AND INVESTMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF TRADE AND INVESTMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/29/05",
+        "DATE_OF_APPOINTMENT": "6/29/05"
     },
     {
         "SNO": "139",
@@ -738,10 +860,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/30/05",
+        "DATE_OF_APPOINTMENT": "6/30/05"
     },
     {
         "SNO": "140",
@@ -750,10 +874,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/1/10",
+        "DATE_OF_APPOINTMENT": "7/1/10"
     },
     {
         "SNO": "141",
@@ -762,10 +888,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/2/10",
+        "DATE_OF_APPOINTMENT": "7/2/10"
     },
     {
         "SNO": "142",
@@ -774,10 +902,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MIN OF LANDS HOUSING AND URBAN DEV",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION (CABINET OFFICE)",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION (CABINET OFFICE)",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/3/10",
+        "DATE_OF_APPOINTMENT": "7/3/10"
     },
     {
         "SNO": "143",
@@ -786,10 +916,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER CADRE",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/4/10",
+        "DATE_OF_APPOINTMENT": "7/4/10"
     },
     {
         "SNO": "144",
@@ -798,10 +930,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS & HOUSING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WORKS & HOUSING",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/5/10",
+        "DATE_OF_APPOINTMENT": "7/5/10"
     },
     {
         "SNO": "145",
@@ -810,10 +944,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AVIATION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/6/10",
+        "DATE_OF_APPOINTMENT": "7/6/10"
     },
     {
         "SNO": "147",
@@ -822,10 +958,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
         "DEPARTMENT": "",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/7/10",
+        "DATE_OF_APPOINTMENT": "7/7/10"
     },
     {
         "SNO": "148",
@@ -834,10 +972,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
         "DEPARTMENT": "",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/8/10",
+        "DATE_OF_APPOINTMENT": "7/8/10"
     },
     {
         "SNO": "149",
@@ -846,10 +986,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF EDUCATION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/9/10",
+        "DATE_OF_APPOINTMENT": "7/9/10"
     },
     {
         "SNO": "150",
@@ -858,10 +1000,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF POWER",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/10/10",
+        "DATE_OF_APPOINTMENT": "7/10/10"
     },
     {
         "SNO": "151",
@@ -870,10 +1014,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MIN OF LANDS HOUSING AND URBAN DEV",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION (EFO) OSGF",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION (EFO) OSGF",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/11/10",
+        "DATE_OF_APPOINTMENT": "7/11/10"
     },
     {
         "SNO": "153",
@@ -882,10 +1028,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/12/10",
+        "DATE_OF_APPOINTMENT": "7/12/10"
     },
     {
         "SNO": "154",
@@ -894,10 +1042,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/13/10",
+        "DATE_OF_APPOINTMENT": "7/13/10"
     },
     {
         "SNO": "155",
@@ -906,10 +1056,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION (EFO)",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION (EFO)",
         "DEPARTMENT": "SPECIAL DUTIES",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/14/10",
+        "DATE_OF_APPOINTMENT": "7/14/10"
     },
     {
         "SNO": "156",
@@ -918,10 +1070,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/15/10",
+        "DATE_OF_APPOINTMENT": "7/15/10"
     },
     {
         "SNO": "157",
@@ -930,10 +1084,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/16/10",
+        "DATE_OF_APPOINTMENT": "7/16/10"
     },
     {
         "SNO": "158",
@@ -942,10 +1098,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SURVEYOR GENERAL OF THE FEDERATION",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
+        "APPROVED_MDA": "BUDGET OFFICE OF THE FEDERATION",
         "DEPARTMENT": "EXPENDITURE (SOCIAL)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/17/10",
+        "DATE_OF_APPOINTMENT": "7/17/10"
     },
     {
         "SNO": "159",
@@ -954,10 +1112,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF POWER",
         "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/18/10",
+        "DATE_OF_APPOINTMENT": "7/18/10"
     },
     {
         "SNO": "160",
@@ -966,10 +1126,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MIN OF LANDS HOUSING AND URBAN DEV",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/19/10",
+        "DATE_OF_APPOINTMENT": "7/19/10"
     },
     {
         "SNO": "161",
@@ -978,10 +1140,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AVIATION",
         "DEPARTMENT": "HRM (APD)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/20/10",
+        "DATE_OF_APPOINTMENT": "7/20/10"
     },
     {
         "SNO": "162",
@@ -990,10 +1154,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING (HOUSING SECTOR)",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING (HOUSING SECTOR)",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/21/10",
+        "DATE_OF_APPOINTMENT": "7/21/10"
     },
     {
         "SNO": "163",
@@ -1002,10 +1168,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
         "DEPARTMENT": "EMPLOYEE MOBILITY",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/22/10",
+        "DATE_OF_APPOINTMENT": "7/22/10"
     },
     {
         "SNO": "164",
@@ -1014,10 +1182,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF EDUCATION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/23/10",
+        "DATE_OF_APPOINTMENT": "7/23/10"
     },
     {
         "SNO": "165",
@@ -1026,10 +1196,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORTATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF TRANSPORTATION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/24/10",
+        "DATE_OF_APPOINTMENT": "7/24/10"
     },
     {
         "SNO": "166",
@@ -1038,10 +1210,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
         "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/25/10",
+        "DATE_OF_APPOINTMENT": "7/25/10"
     },
     {
         "SNO": "167",
@@ -1050,10 +1224,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/26/10",
+        "DATE_OF_APPOINTMENT": "7/26/10"
     },
     {
         "SNO": "168",
@@ -1062,10 +1238,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HEALTH",
         "DEPARTMENT": "BUDGET",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/27/10",
+        "DATE_OF_APPOINTMENT": "7/27/10"
     },
     {
         "SNO": "169",
@@ -1074,10 +1252,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER II",
         "SGL": "GL08CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/28/10",
+        "DATE_OF_APPOINTMENT": "7/28/10"
     },
     {
         "SNO": "170",
@@ -1086,10 +1266,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER II",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
+        "APPROVED_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/29/10",
+        "DATE_OF_APPOINTMENT": "7/29/10"
     },
     {
         "SNO": "171",
@@ -1098,10 +1280,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER II",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/30/10",
+        "DATE_OF_APPOINTMENT": "7/30/10"
     },
     {
         "SNO": "172",
@@ -1110,10 +1294,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
         "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/31/10",
+        "DATE_OF_APPOINTMENT": "7/31/10"
     },
     {
         "SNO": "173",
@@ -1122,10 +1308,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER II",
         "SGL": "GL08CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE",
         "DEPARTMENT": "IERD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/1/12",
+        "DATE_OF_APPOINTMENT": "8/1/12"
     },
     {
         "SNO": "174",
@@ -1134,10 +1322,12 @@ var myArray = [
         "RANK": "CHIEF EXECUTIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH AND SPORT DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF YOUTH AND SPORT DEVELOPMENT",
         "DEPARTMENT": "EYD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "8/2/12",
+        "DATE_OF_APPOINTMENT": "8/2/12"
     },
     {
         "SNO": "175",
@@ -1146,10 +1336,12 @@ var myArray = [
         "RANK": "CHEIF EXECUTIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "CDFIPB",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "8/3/12",
+        "DATE_OF_APPOINTMENT": "8/3/12"
     },
     {
         "SNO": "176",
@@ -1158,10 +1350,12 @@ var myArray = [
         "RANK": "CHIEF EXECUTIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "8/4/12",
+        "DATE_OF_APPOINTMENT": "8/4/12"
     },
     {
         "SNO": "177",
@@ -1170,10 +1364,12 @@ var myArray = [
         "RANK": "CHIEF EXECUTIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "8/5/12",
+        "DATE_OF_APPOINTMENT": "8/5/12"
     },
     {
         "SNO": "178",
@@ -1182,10 +1378,12 @@ var myArray = [
         "RANK": "CHIEF EXECUTIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HEALTH",
         "DEPARTMENT": "(NURSING TUTOR) KADUNA",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "8/6/12",
+        "DATE_OF_APPOINTMENT": "8/6/12"
     },
     {
         "SNO": "179",
@@ -1194,10 +1392,12 @@ var myArray = [
         "RANK": "CHIEF EXECUTIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "8/7/12",
+        "DATE_OF_APPOINTMENT": "8/7/12"
     },
     {
         "SNO": "180",
@@ -1206,10 +1406,12 @@ var myArray = [
         "RANK": "CHIEF EXECUTIVE OFFICE",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE (GD)",
+        "DATE_OF_RETIREMENT": "8/8/12",
+        "DATE_OF_APPOINTMENT": "8/8/12"
     },
     {
         "SNO": "181",
@@ -1218,10 +1420,12 @@ var myArray = [
         "RANK": "CHIEF EXECUTIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "C&B (REG)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "8/9/12",
+        "DATE_OF_APPOINTMENT": "8/9/12"
     },
     {
         "SNO": "182",
@@ -1230,10 +1434,12 @@ var myArray = [
         "RANK": "CHIEF EXECUTIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "MIN OF COMMUNICATION TECHNOLOGY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
         "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "8/10/12",
+        "DATE_OF_APPOINTMENT": "8/10/12"
     },
     {
         "SNO": "183",
@@ -1242,10 +1448,12 @@ var myArray = [
         "RANK": "EXECUTIVE OFFICER GENERAL DUTIES",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
+        "APPROVED_MDA": "BUDGET OFFICE OF THE FEDERATION",
         "DEPARTMENT": "EXPENDITURE (SOCIAL)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "8/11/12",
+        "DATE_OF_APPOINTMENT": "8/11/12"
     },
     {
         "SNO": "184",
@@ -1254,10 +1462,12 @@ var myArray = [
         "RANK": "CHIEF EXECUTIVE OFFICEGD",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "8/12/12",
+        "DATE_OF_APPOINTMENT": "8/12/12"
     },
     {
         "SNO": "185",
@@ -1266,10 +1476,12 @@ var myArray = [
         "RANK": "CHIEF EXECUTIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF EDUCATION",
         "DEPARTMENT": "BUDGET",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "8/13/12",
+        "DATE_OF_APPOINTMENT": "8/13/12"
     },
     {
         "SNO": "186",
@@ -1278,10 +1490,12 @@ var myArray = [
         "RANK": "CHIEF EXECUTIVE OFFICER ACEO",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "SPECIAL DUTIES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "8/14/12",
+        "DATE_OF_APPOINTMENT": "8/14/12"
     },
     {
         "SNO": "187",
@@ -1290,10 +1504,12 @@ var myArray = [
         "RANK": "EXECUTIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "8/15/12",
+        "DATE_OF_APPOINTMENT": "8/15/12"
     },
     {
         "SNO": "188",
@@ -1302,10 +1518,12 @@ var myArray = [
         "RANK": "CHIEF EXECUTIVE OFFICER GENERAL DUTIES",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF EDUCATION",
         "DEPARTMENT": "BUDGET",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "8/16/12",
+        "DATE_OF_APPOINTMENT": "8/16/12"
     },
     {
         "SNO": "189",
@@ -1314,10 +1532,12 @@ var myArray = [
         "RANK": "CHIEF EDUCATION OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "PUBLIC SERVICE INSTITUTE OF NIGERIA",
+        "APPROVED_MDA": "PUBLIC SERVICE INSTITUTE OF NIGERIA",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EDUCATION"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EDUCATION",
+        "DATE_OF_RETIREMENT": "8/17/12",
+        "DATE_OF_APPOINTMENT": "8/17/12"
     },
     {
         "SNO": "190",
@@ -1326,10 +1546,12 @@ var myArray = [
         "RANK": "CHIEF EXECUTIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "8/18/12",
+        "DATE_OF_APPOINTMENT": "8/18/12"
     },
     {
         "SNO": "191",
@@ -1338,10 +1560,12 @@ var myArray = [
         "RANK": "CHIEF EXECUTIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MIN OF LANDS HOUSING AND URBAN DEV",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
         "DEPARTMENT": "EMD (POD)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "8/19/12",
+        "DATE_OF_APPOINTMENT": "8/19/12"
     },
     {
         "SNO": "192",
@@ -1350,10 +1574,12 @@ var myArray = [
         "RANK": "CHIEF EXECUTIVE OFFICE",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "8/20/12",
+        "DATE_OF_APPOINTMENT": "8/20/12"
     },
     {
         "SNO": "193",
@@ -1362,10 +1588,12 @@ var myArray = [
         "RANK": "CHIEF EXECUTIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "8/21/12",
+        "DATE_OF_APPOINTMENT": "8/21/12"
     },
     {
         "SNO": "194",
@@ -1374,10 +1602,12 @@ var myArray = [
         "RANK": "CHIEF EXECUTIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
+        "APPROVED_MDA": "BUDGET OFFICE OF THE FEDERATION",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "8/22/12",
+        "DATE_OF_APPOINTMENT": "8/22/12"
     },
     {
         "SNO": "195",
@@ -1386,10 +1616,12 @@ var myArray = [
         "RANK": "CHIEF EXECUTIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
+        "APPROVED_MDA": "BUDGET OFFICE OF THE FEDERATION",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "8/23/12",
+        "DATE_OF_APPOINTMENT": "8/23/12"
     },
     {
         "SNO": "196",
@@ -1398,10 +1630,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "8/24/12",
+        "DATE_OF_APPOINTMENT": "8/24/12"
     },
     {
         "SNO": "197",
@@ -1410,10 +1644,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER II",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "8/25/12",
+        "DATE_OF_APPOINTMENT": "8/25/12"
     },
     {
         "SNO": "198",
@@ -1422,10 +1658,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
         "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
         "REMARK": "On Request",
-        "CADRE": "EXECUTIVE OFFICER"
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "8/26/12",
+        "DATE_OF_APPOINTMENT": "8/26/12"
     },
     {
         "SNO": "199",
@@ -1434,10 +1672,12 @@ var myArray = [
         "RANK": "EXECUTIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
-        "PRESENT_MDA": "FEDERL MISTRY OF POLICE AFFAIRS",
+        "APPROVED_MDA": "FEDERL MISTRY OF POLICE AFFAIRS",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "8/27/12",
+        "DATE_OF_APPOINTMENT": "8/27/12"
     },
     {
         "SNO": "200",
@@ -1446,10 +1686,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "PRESENT_MDA": "OFFICE OF THE SENIOR SPECIAL ASSISTANT TO THE PRESIDENT ON SDGs",
+        "APPROVED_MDA": "OFFICE OF THE SENIOR SPECIAL ASSISTANT TO THE PRESIDENT ON SDGs",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "8/28/12",
+        "DATE_OF_APPOINTMENT": "8/28/12"
     },
     {
         "SNO": "201",
@@ -1458,10 +1700,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMIN OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "8/29/12",
+        "DATE_OF_APPOINTMENT": "8/29/12"
     },
     {
         "SNO": "202",
@@ -1470,10 +1714,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "8/30/12",
+        "DATE_OF_APPOINTMENT": "8/30/12"
     },
     {
         "SNO": "203",
@@ -1482,10 +1728,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/31/12",
+        "DATE_OF_APPOINTMENT": "8/31/12"
     },
     {
         "SNO": "204",
@@ -1494,10 +1742,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "9/1/12",
+        "DATE_OF_APPOINTMENT": "9/1/12"
     },
     {
         "SNO": "205",
@@ -1506,10 +1756,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
         "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
         "REMARK": "On Request",
-        "CADRE": "EXECUTIVE OFFICER"
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "9/2/12",
+        "DATE_OF_APPOINTMENT": "9/2/12"
     },
     {
         "SNO": "206",
@@ -1518,10 +1770,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
         "DEPARTMENT": "HRM",
         "REMARK": "To Remain",
-        "CADRE": "EXECUTIVE"
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "9/3/12",
+        "DATE_OF_APPOINTMENT": "9/3/12"
     },
     {
         "SNO": "207",
@@ -1530,10 +1784,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "9/4/12",
+        "DATE_OF_APPOINTMENT": "9/4/12"
     },
     {
         "SNO": "208",
@@ -1542,10 +1798,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "9/5/12",
+        "DATE_OF_APPOINTMENT": "9/5/12"
     },
     {
         "SNO": "209",
@@ -1554,10 +1812,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORTATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF TRANSPORTATION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "9/6/12",
+        "DATE_OF_APPOINTMENT": "9/6/12"
     },
     {
         "SNO": "210",
@@ -1566,10 +1826,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "9/7/12",
+        "DATE_OF_APPOINTMENT": "9/7/12"
     },
     {
         "SNO": "211",
@@ -1578,10 +1840,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "9/8/12",
+        "DATE_OF_APPOINTMENT": "9/8/12"
     },
     {
         "SNO": "212",
@@ -1590,10 +1854,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "9/9/12",
+        "DATE_OF_APPOINTMENT": "9/9/12"
     },
     {
         "SNO": "213",
@@ -1602,10 +1868,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF CULTURE TOURISM  NATIONAL ORIENTATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF POWER",
         "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "9/10/12",
+        "DATE_OF_APPOINTMENT": "9/10/12"
     },
     {
         "SNO": "214",
@@ -1614,10 +1882,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "9/11/12",
+        "DATE_OF_APPOINTMENT": "9/11/12"
     },
     {
         "SNO": "215",
@@ -1626,10 +1896,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
+        "APPROVED_MDA": "BUDGET OFFICE OF THE FEDERATION",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "9/12/12",
+        "DATE_OF_APPOINTMENT": "9/12/12"
     },
     {
         "SNO": "216",
@@ -1638,10 +1910,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
+        "APPROVED_MDA": "BUDGET OFFICE OF THE FEDERATION",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "9/13/12",
+        "DATE_OF_APPOINTMENT": "9/13/12"
     },
     {
         "SNO": "217",
@@ -1650,10 +1924,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
+        "APPROVED_MDA": "BUDGET OFFICE OF THE FEDERATION",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "9/14/12",
+        "DATE_OF_APPOINTMENT": "9/14/12"
     },
     {
         "SNO": "218",
@@ -1662,10 +1938,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
+        "APPROVED_MDA": "BUDGET OFFICE OF THE FEDERATION",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "9/15/12",
+        "DATE_OF_APPOINTMENT": "9/15/12"
     },
     {
         "SNO": "219",
@@ -1674,10 +1952,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "9/16/12",
+        "DATE_OF_APPOINTMENT": "9/16/12"
     },
     {
         "SNO": "220",
@@ -1686,10 +1966,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "9/17/12",
+        "DATE_OF_APPOINTMENT": "9/17/12"
     },
     {
         "SNO": "221",
@@ -1698,10 +1980,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "9/18/12",
+        "DATE_OF_APPOINTMENT": "9/18/12"
     },
     {
         "SNO": "222",
@@ -1710,10 +1994,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS & HOUSING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WORKS & HOUSING",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "9/19/12",
+        "DATE_OF_APPOINTMENT": "9/19/12"
     },
     {
         "SNO": "223",
@@ -1722,10 +2008,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
         "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETRY",
         "REMARK": "On Request",
-        "CADRE": "EXECUTIVE OFFICER"
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "9/20/12",
+        "DATE_OF_APPOINTMENT": "9/20/12"
     },
     {
         "SNO": "224",
@@ -1734,10 +2022,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "C&B",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "9/21/12",
+        "DATE_OF_APPOINTMENT": "9/21/12"
     },
     {
         "SNO": "225",
@@ -1746,10 +2036,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "9/22/12",
+        "DATE_OF_APPOINTMENT": "9/22/12"
     },
     {
         "SNO": "226",
@@ -1758,10 +2050,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "NATIONAL SPORTS COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "9/23/12",
+        "DATE_OF_APPOINTMENT": "9/23/12"
     },
     {
         "SNO": "227",
@@ -1770,10 +2064,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "9/24/12",
+        "DATE_OF_APPOINTMENT": "9/24/12"
     },
     {
         "SNO": "228",
@@ -1782,10 +2078,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORTATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF TRANSPORTATION",
         "DEPARTMENT": "RAILWAY",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "9/25/12",
+        "DATE_OF_APPOINTMENT": "9/25/12"
     },
     {
         "SNO": "229",
@@ -1794,10 +2092,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF CULTURE TOURISM  NATIONAL ORIENTATION",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
         "DEPARTMENT": "PCTM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "9/26/12",
+        "DATE_OF_APPOINTMENT": "9/26/12"
     },
     {
         "SNO": "230",
@@ -1806,10 +2106,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "9/27/12",
+        "DATE_OF_APPOINTMENT": "9/27/12"
     },
     {
         "SNO": "231",
@@ -1818,10 +2120,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "9/28/12",
+        "DATE_OF_APPOINTMENT": "9/28/12"
     },
     {
         "SNO": "235",
@@ -1830,10 +2134,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "9/29/12",
+        "DATE_OF_APPOINTMENT": "9/29/12"
     },
     {
         "SNO": "236",
@@ -1842,10 +2148,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AVIATION",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "9/30/12",
+        "DATE_OF_APPOINTMENT": "9/30/12"
     },
     {
         "SNO": "237",
@@ -1854,22 +2162,26 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "10/1/12",
+        "DATE_OF_APPOINTMENT": "10/1/12"
     },
     {
         "SNO": "238",
         "IPPIS_NO": "24446",
-        "FULL_NAME": " GODIT GABRIEL",
+        "FULL_NAME": "GODIT GABRIEL",
         "RANK": "EXECUTIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "10/2/12",
+        "DATE_OF_APPOINTMENT": "10/2/12"
     },
     {
         "SNO": "239",
@@ -1878,10 +2190,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "10/3/12",
+        "DATE_OF_APPOINTMENT": "10/3/12"
     },
     {
         "SNO": "240",
@@ -1890,10 +2204,12 @@ var myArray = [
         "RANK": "SENIOR EXECUTIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDRAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDRAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "C&B (REG)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "10/4/12",
+        "DATE_OF_APPOINTMENT": "10/4/12"
     },
     {
         "SNO": "241",
@@ -1902,10 +2218,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "C&B",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "10/5/12",
+        "DATE_OF_APPOINTMENT": "10/5/12"
     },
     {
         "SNO": "242",
@@ -1914,10 +2232,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
         "DEPARTMENT": "PLANNING RESEARCH AND STATISTICS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "10/6/12",
+        "DATE_OF_APPOINTMENT": "10/6/12"
     },
     {
         "SNO": "243",
@@ -1926,10 +2246,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF TRADE AND INVESTMENT",
-        "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
+        "APPROVED_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
         "DEPARTMENT": "INSPECTORATE DEPARTMENT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "10/7/12",
+        "DATE_OF_APPOINTMENT": "10/7/12"
     },
     {
         "SNO": "244",
@@ -1938,10 +2260,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AVIATION",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "10/8/12",
+        "DATE_OF_APPOINTMENT": "10/8/12"
     },
     {
         "SNO": "245",
@@ -1950,10 +2274,12 @@ var myArray = [
         "RANK": "HIGHER EXECUTIVE OFFICER",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "PRESENT_MDA": "FEDRAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDRAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "CDFIPB (A&P)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "10/9/12",
+        "DATE_OF_APPOINTMENT": "10/9/12"
     },
     {
         "SNO": "246",
@@ -1962,10 +2288,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "10/10/12",
+        "DATE_OF_APPOINTMENT": "10/10/12"
     },
     {
         "SNO": "247",
@@ -1974,10 +2302,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTER-GOVERNMENTAL AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTER-GOVERNMENTAL AFFAIRS",
         "DEPARTMENT": "PROGRAMMES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "10/11/12",
+        "DATE_OF_APPOINTMENT": "10/11/12"
     },
     {
         "SNO": "248",
@@ -1986,10 +2316,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HEALTH",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "10/12/12",
+        "DATE_OF_APPOINTMENT": "10/12/12"
     },
     {
         "SNO": "249",
@@ -1998,10 +2330,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS & HOUSING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WORKS & HOUSING",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE",
+        "DATE_OF_RETIREMENT": "10/13/12",
+        "DATE_OF_APPOINTMENT": "10/13/12"
     },
     {
         "SNO": "250",
@@ -2010,10 +2344,12 @@ var myArray = [
         "RANK": "SENIOR EXECUTIVE OFFICER GD",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "10/14/12",
+        "DATE_OF_APPOINTMENT": "10/14/12"
     },
     {
         "SNO": "251",
@@ -2022,10 +2358,12 @@ var myArray = [
         "RANK": "SENIOR EXECUTIVE OFFICER ACCT",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "10/15/12",
+        "DATE_OF_APPOINTMENT": "10/15/12"
     },
     {
         "SNO": "252",
@@ -2034,10 +2372,12 @@ var myArray = [
         "RANK": "SENIOR EXECUTIVE OFFICER GD",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
         "DEPARTMENT": "HUMMANITARIAN",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE (GD)",
+        "DATE_OF_RETIREMENT": "10/16/12",
+        "DATE_OF_APPOINTMENT": "10/16/12"
     },
     {
         "SNO": "253",
@@ -2046,10 +2386,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF CULTURE TOURISM  NATIONAL ORIENTATION",
-        "PRESENT_MDA": "FEDRAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDRAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE (GD)",
+        "DATE_OF_RETIREMENT": "10/17/12",
+        "DATE_OF_APPOINTMENT": "10/17/12"
     },
     {
         "SNO": "254",
@@ -2058,10 +2400,12 @@ var myArray = [
         "RANK": "SENIOR EXECUTIVE OFFICER",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION",
-        "PRESENT_MDA": "FEDRAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDRAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "CDFIPB",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE (GD)",
+        "DATE_OF_RETIREMENT": "10/18/12",
+        "DATE_OF_APPOINTMENT": "10/18/12"
     },
     {
         "SNO": "255",
@@ -2070,10 +2414,12 @@ var myArray = [
         "RANK": "EXECUTIVE OFFICER",
         "SGL": "GL08CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDRAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDRAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "C&B",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE (GD)",
+        "DATE_OF_RETIREMENT": "10/19/12",
+        "DATE_OF_APPOINTMENT": "10/19/12"
     },
     {
         "SNO": "256",
@@ -2082,10 +2428,12 @@ var myArray = [
         "RANK": "SENIOR EXECUTIVE OFFICER",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE (MOD)",
+        "APPROVED_MDA": "MINISTRY OF DEFENCE (MOD)",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE (GD)",
+        "DATE_OF_RETIREMENT": "10/20/12",
+        "DATE_OF_APPOINTMENT": "10/20/12"
     },
     {
         "SNO": "257",
@@ -2094,10 +2442,12 @@ var myArray = [
         "RANK": "HIGHER EXECUTIVE OFFICER",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HEALTH",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE (GD)",
+        "DATE_OF_RETIREMENT": "10/21/12",
+        "DATE_OF_APPOINTMENT": "10/21/12"
     },
     {
         "SNO": "258",
@@ -2106,10 +2456,12 @@ var myArray = [
         "RANK": "HIGHER EXECUTIVE OFFICERGD",
         "SGL": "GL08CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE (GD)",
+        "DATE_OF_RETIREMENT": "10/22/12",
+        "DATE_OF_APPOINTMENT": "10/22/12"
     },
     {
         "SNO": "259",
@@ -2118,10 +2470,12 @@ var myArray = [
         "RANK": "HIGHER EXECUTIVE OFFICER",
         "SGL": "GL08CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HEALTH",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE (GD)",
+        "DATE_OF_RETIREMENT": "10/23/12",
+        "DATE_OF_APPOINTMENT": "10/23/12"
     },
     {
         "SNO": "260",
@@ -2130,10 +2484,12 @@ var myArray = [
         "RANK": "HIGHER EXECUTIVE OFFICER",
         "SGL": "GL08CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE (GD)",
+        "DATE_OF_RETIREMENT": "10/24/12",
+        "DATE_OF_APPOINTMENT": "10/24/12"
     },
     {
         "SNO": "261",
@@ -2142,10 +2498,12 @@ var myArray = [
         "RANK": "HIGHER EXECUTIVE OFFICER",
         "SGL": "GL08CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
         "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
         "REMARK": "On Request",
-        "CADRE": "EXECUTIVE OFFICER"
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "10/25/12",
+        "DATE_OF_APPOINTMENT": "10/25/12"
     },
     {
         "SNO": "262",
@@ -2154,10 +2512,12 @@ var myArray = [
         "RANK": "HIGHER EXECUTIVE OFFICER",
         "SGL": "GL08CONPSS",
         "PRESENT_MDA": "FTC JALINGO",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE (GD)",
+        "DATE_OF_RETIREMENT": "10/26/12",
+        "DATE_OF_APPOINTMENT": "10/26/12"
     },
     {
         "SNO": "263",
@@ -2166,10 +2526,12 @@ var myArray = [
         "RANK": "EXECUTIVE OFFICER GENERAL DUTIES",
         "SGL": "GL08CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR  PRODUCTIVITY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE (GD)",
+        "DATE_OF_RETIREMENT": "10/27/12",
+        "DATE_OF_APPOINTMENT": "10/27/12"
     },
     {
         "SNO": "264",
@@ -2178,10 +2540,12 @@ var myArray = [
         "RANK": "HIGHER EXECUTIVE OFFICER",
         "SGL": "GL08CONPSS",
         "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE (GD)",
+        "DATE_OF_RETIREMENT": "10/28/12",
+        "DATE_OF_APPOINTMENT": "10/28/12"
     },
     {
         "SNO": "265",
@@ -2190,10 +2554,12 @@ var myArray = [
         "RANK": "EXECUTIVE OFFICER",
         "SGL": "GL07CONPSS",
         "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE",
         "DEPARTMENT": "PPP TECH. SERV.",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE (GD)",
+        "DATE_OF_RETIREMENT": "10/29/12",
+        "DATE_OF_APPOINTMENT": "10/29/12"
     },
     {
         "SNO": "267",
@@ -2202,10 +2568,12 @@ var myArray = [
         "RANK": "CHIEF CONFIDENTIAL SECRETARY",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "10/30/12",
+        "DATE_OF_APPOINTMENT": "10/30/12"
     },
     {
         "SNO": "268",
@@ -2214,10 +2582,12 @@ var myArray = [
         "RANK": "CHIEF CONFIDENTIAL SECRETARY",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "OFFICE OF THE SENIOR SPECIAL ASSISTANT TO THE PRESIDENT ON SDGs",
+        "APPROVED_MDA": "OFFICE OF THE SENIOR SPECIAL ASSISTANT TO THE PRESIDENT ON SDGs",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "10/31/12",
+        "DATE_OF_APPOINTMENT": "10/31/12"
     },
     {
         "SNO": "269",
@@ -2226,10 +2596,12 @@ var myArray = [
         "RANK": "CHIEF CONFIDENTIAL SECRETARY",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS & HOUSING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WORKS & HOUSING",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/1/12",
+        "DATE_OF_APPOINTMENT": "11/1/12"
     },
     {
         "SNO": "271",
@@ -2238,10 +2610,12 @@ var myArray = [
         "RANK": "CHIEF CONFIDENTIAL SECRETARY",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF TRADE AND INVESTMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/2/12",
+        "DATE_OF_APPOINTMENT": "11/2/12"
     },
     {
         "SNO": "272",
@@ -2250,10 +2624,12 @@ var myArray = [
         "RANK": "CHIEF CONFIDENTIAL SECRETARY",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
         "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
         "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/3/12",
+        "DATE_OF_APPOINTMENT": "11/3/12"
     },
     {
         "SNO": "273",
@@ -2262,10 +2638,12 @@ var myArray = [
         "RANK": "CONFIDENTIAL SECRETARY CADRE",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/4/12",
+        "DATE_OF_APPOINTMENT": "11/4/12"
     },
     {
         "SNO": "274",
@@ -2274,10 +2652,12 @@ var myArray = [
         "RANK": "CONFIDENTIAL SECRETARY",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION (SWO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION (SWO)",
         "DEPARTMENT": "",
         "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/5/12",
+        "DATE_OF_APPOINTMENT": "11/5/12"
     },
     {
         "SNO": "275",
@@ -2286,10 +2666,12 @@ var myArray = [
         "RANK": "SECRETARIAL",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (CABINET OFFICE)",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (CABINET OFFICE)",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/6/12",
+        "DATE_OF_APPOINTMENT": "11/6/12"
     },
     {
         "SNO": "276",
@@ -2298,10 +2680,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF CONFIDENTIAL SECRETARY",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION",
         "DEPARTMENT": "LM&SP",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/7/12",
+        "DATE_OF_APPOINTMENT": "11/7/12"
     },
     {
         "SNO": "277",
@@ -2310,10 +2694,12 @@ var myArray = [
         "RANK": "CONFIDENTIAL SECRETARY",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR  PRODUCTIVITY",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
         "DEPARTMENT": "EMD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/8/12",
+        "DATE_OF_APPOINTMENT": "11/8/12"
     },
     {
         "SNO": "278",
@@ -2322,10 +2708,12 @@ var myArray = [
         "RANK": "ASST CHIEF CONF SECRETARY",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/9/12",
+        "DATE_OF_APPOINTMENT": "11/9/12"
     },
     {
         "SNO": "279",
@@ -2334,10 +2722,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MIN OF LANDS HOUSING AND URBAN DEV",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/10/12",
+        "DATE_OF_APPOINTMENT": "11/10/12"
     },
     {
         "SNO": "280",
@@ -2346,10 +2736,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF CONFIDENTIAL SECRETARY",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE SENIOR SPECIAL ASSISTANT TO THE PRESIDENT ON SDGs",
-        "DEPARTMENT": "SOP'S OFFICE ",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "APPROVED_MDA": "OFFICE OF THE SENIOR SPECIAL ASSISTANT TO THE PRESIDENT ON SDGs",
+        "DEPARTMENT": "SOP'S OFFICE",
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/11/12",
+        "DATE_OF_APPOINTMENT": "11/11/12"
     },
     {
         "SNO": "281",
@@ -2358,10 +2750,12 @@ var myArray = [
         "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY I",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF TRADE AND INVESTMENT",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
         "DEPARTMENT": "EMD (ECM)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/12/12",
+        "DATE_OF_APPOINTMENT": "11/12/12"
     },
     {
         "SNO": "282",
@@ -2370,10 +2764,12 @@ var myArray = [
         "RANK": "CONFIDENTIAL SECRETARY CADRE",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF EDUCATION",
         "DEPARTMENT": "DFA OFFICE",
         "REMARK": "To Remain",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/13/12",
+        "DATE_OF_APPOINTMENT": "11/13/12"
     },
     {
         "SNO": "284",
@@ -2382,10 +2778,12 @@ var myArray = [
         "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY I",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
         "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
         "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/13/13",
+        "DATE_OF_APPOINTMENT": "11/13/13"
     },
     {
         "SNO": "286",
@@ -2394,10 +2792,12 @@ var myArray = [
         "RANK": "SECRETARIAL ASSISTANT",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
         "DEPARTMENT": "",
         "REMARK": "Select Remark",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/14/13",
+        "DATE_OF_APPOINTMENT": "11/14/13"
     },
     {
         "SNO": "287",
@@ -2406,10 +2806,12 @@ var myArray = [
         "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "PRESENT_MDA": "NIGERIA IN DIASPORA COMMISSION",
+        "APPROVED_MDA": "NIGERIA IN DIASPORA COMMISSION",
         "DEPARTMENT": "ADMINISTRATION",
         "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/15/13",
+        "DATE_OF_APPOINTMENT": "11/15/13"
     },
     {
         "SNO": "288",
@@ -2418,10 +2820,12 @@ var myArray = [
         "RANK": "PRINCIPAL CONFIDENTIAL SCRETARY II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/16/13",
+        "DATE_OF_APPOINTMENT": "11/16/13"
     },
     {
         "SNO": "289",
@@ -2430,10 +2834,12 @@ var myArray = [
         "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
         "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/17/13",
+        "DATE_OF_APPOINTMENT": "11/17/13"
     },
     {
         "SNO": "290",
@@ -2442,10 +2848,12 @@ var myArray = [
         "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY  II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
         "DEPARTMENT": "MINISTER'S OFFICE",
         "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/18/13",
+        "DATE_OF_APPOINTMENT": "11/18/13"
     },
     {
         "SNO": "291",
@@ -2454,10 +2862,12 @@ var myArray = [
         "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY  II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "PRESENT_MDA": "SERVICOM",
+        "APPROVED_MDA": "SERVICOM",
         "DEPARTMENT": "",
         "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/19/13",
+        "DATE_OF_APPOINTMENT": "11/19/13"
     },
     {
         "SNO": "292",
@@ -2466,10 +2876,12 @@ var myArray = [
         "RANK": "SENIOR CONFIDENTIAL SECRETARY",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FTC OROZO",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
         "DEPARTMENT": "PRS",
         "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/20/13",
+        "DATE_OF_APPOINTMENT": "11/20/13"
     },
     {
         "SNO": "293",
@@ -2478,10 +2890,12 @@ var myArray = [
         "RANK": "SENIOR CONFIDENTIAL SECRETARY",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
+        "APPROVED_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/21/13",
+        "DATE_OF_APPOINTMENT": "11/21/13"
     },
     {
         "SNO": "294",
@@ -2490,10 +2904,12 @@ var myArray = [
         "RANK": "SENIOR CONF SECRETARY",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERL MISTRY OF POLICE AFFAIRS",
+        "APPROVED_MDA": "FEDERL MISTRY OF POLICE AFFAIRS",
         "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
         "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/22/13",
+        "DATE_OF_APPOINTMENT": "11/22/13"
     },
     {
         "SNO": "295",
@@ -2502,10 +2918,12 @@ var myArray = [
         "RANK": "SENIOR CONFIDENTIAL SECRETARY",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
         "DEPARTMENT": "PRS",
         "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/23/13",
+        "DATE_OF_APPOINTMENT": "11/23/13"
     },
     {
         "SNO": "296",
@@ -2514,10 +2932,12 @@ var myArray = [
         "RANK": "SENIOR CONFIDENTIAL SECRETARY",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
         "DEPARTMENT": "EMD (POD)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/24/13",
+        "DATE_OF_APPOINTMENT": "11/24/13"
     },
     {
         "SNO": "297",
@@ -2526,10 +2946,12 @@ var myArray = [
         "RANK": "SENIOR CONFIDENTIAL SECRETARY",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTER-GOVERNMENTAL AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTER-GOVERNMENTAL AFFAIRS",
         "DEPARTMENT": "P&P",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/25/13",
+        "DATE_OF_APPOINTMENT": "11/25/13"
     },
     {
         "SNO": "298",
@@ -2538,10 +2960,12 @@ var myArray = [
         "RANK": "SENIOR CONFIDENTIAL SECRETARY",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
         "DEPARTMENT": "AFHOS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "CONFIDENTIAL SECRETARY",
+        "DATE_OF_RETIREMENT": "11/26/13",
+        "DATE_OF_APPOINTMENT": "11/26/13"
     },
     {
         "SNO": "300",
@@ -2550,10 +2974,12 @@ var myArray = [
         "RANK": "DIRECTOR ADMINISTRATION",
         "SGL": "GL17CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF TRADE AND INVESTMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To Understudy  (NWACHUKWU)  ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To Understudy  (NWACHUKWU)",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "11/27/13",
+        "DATE_OF_APPOINTMENT": "11/27/13"
     },
     {
         "SNO": "301",
@@ -2562,10 +2988,12 @@ var myArray = [
         "RANK": "DIRECTOR",
         "SGL": "GL17CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF COMMUNICATIONS AND DIGITAL ECONOMY",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF COMMUNICATIONS AND DIGITAL ECONOMY",
         "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "PROGRAMME ANALYST",
+        "DATE_OF_RETIREMENT": "11/28/13",
+        "DATE_OF_APPOINTMENT": "11/28/13"
     },
     {
         "SNO": "302",
@@ -2574,10 +3002,12 @@ var myArray = [
         "RANK": "DEPUTY DIRECTOR",
         "SGL": "GL16CONHESS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HEALTH",
         "DEPARTMENT": "PUBLIC HEALTH",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "HEALTH EDUCATION OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "HEALTH EDUCATION OFFICER",
+        "DATE_OF_RETIREMENT": "11/29/13",
+        "DATE_OF_APPOINTMENT": "11/29/13"
     },
     {
         "SNO": "303",
@@ -2586,10 +3016,12 @@ var myArray = [
         "RANK": "DEPUTY DIRECTOR",
         "SGL": "GL16CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HEALTH",
         "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "COMPUTER ENGINEER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "COMPUTER ENGINEER",
+        "DATE_OF_RETIREMENT": "11/30/13",
+        "DATE_OF_APPOINTMENT": "11/30/13"
     },
     {
         "SNO": "304",
@@ -2598,10 +3030,12 @@ var myArray = [
         "RANK": "DEPUTY DIRECTOR",
         "SGL": "GL16CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "PLANNING RESEARCH AND STATISTICS",
-        "REMARK": "To Understudy  (ABUGU)  ",
-        "CADRE": "STATISTICIAN"
+        "REMARK": "To Understudy  (ABUGU)",
+        "CADRE": "STATISTICIAN",
+        "DATE_OF_RETIREMENT": "12/1/13",
+        "DATE_OF_APPOINTMENT": "12/1/13"
     },
     {
         "SNO": "305",
@@ -2610,10 +3044,12 @@ var myArray = [
         "RANK": "ASSISTANT DIRECTOR",
         "SGL": "GL15CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS & HOUSING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WORKS & HOUSING",
         "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "PROGRAMME ANALYST",
+        "DATE_OF_RETIREMENT": "12/2/13",
+        "DATE_OF_APPOINTMENT": "12/2/13"
     },
     {
         "SNO": "306",
@@ -2622,10 +3058,12 @@ var myArray = [
         "RANK": "ASSISTANT DIRECTOR",
         "SGL": "GL15CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
         "DEPARTMENT": "ICT",
-        "REMARK": "To Vice  (A.O MARCUS)  ",
-        "CADRE": "COMPUTER ENGINEER"
+        "REMARK": "To Vice  (A.O MARCUS)",
+        "CADRE": "COMPUTER ENGINEER",
+        "DATE_OF_RETIREMENT": "12/3/13",
+        "DATE_OF_APPOINTMENT": "12/3/13"
     },
     {
         "SNO": "307",
@@ -2634,10 +3072,12 @@ var myArray = [
         "RANK": "MEDICAL OFFICER",
         "SGL": "GL14CONMESS",
         "PRESENT_MDA": "STATE HOUSE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HEALTH",
         "DEPARTMENT": "",
         "REMARK": "On Request",
-        "CADRE": "MEDICAL OFFICER"
+        "CADRE": "MEDICAL OFFICER",
+        "DATE_OF_RETIREMENT": "12/4/13",
+        "DATE_OF_APPOINTMENT": "12/4/13"
     },
     {
         "SNO": "308",
@@ -2646,10 +3086,12 @@ var myArray = [
         "RANK": "CHIEF STORE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF ",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
         "DEPARTMENT": "GENERAL SERVICES",
         "REMARK": "On Request",
-        "CADRE": "STORE OFFICER"
+        "CADRE": "STORE OFFICER",
+        "DATE_OF_RETIREMENT": "12/5/13",
+        "DATE_OF_APPOINTMENT": "12/5/13"
     },
     {
         "SNO": "309",
@@ -2658,10 +3100,12 @@ var myArray = [
         "RANK": "STORE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION (GSO)",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION (GSO)",
         "DEPARTMENT": "GENERAL SERVICES",
         "REMARK": "To Remain",
-        "CADRE": "STORE OFFICER"
+        "CADRE": "STORE OFFICER",
+        "DATE_OF_RETIREMENT": "12/6/13",
+        "DATE_OF_APPOINTMENT": "12/6/13"
     },
     {
         "SNO": "310",
@@ -2670,10 +3114,12 @@ var myArray = [
         "RANK": "CHIEF STORE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF POWER",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "STORE OFFICER",
+        "DATE_OF_RETIREMENT": "12/7/13",
+        "DATE_OF_APPOINTMENT": "12/7/13"
     },
     {
         "SNO": "311",
@@ -2682,10 +3128,12 @@ var myArray = [
         "RANK": "CHIEF STORES OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "STATE HOUSE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AVIATION",
         "DEPARTMENT": "STORE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "STORE OFFICER",
+        "DATE_OF_RETIREMENT": "12/8/13",
+        "DATE_OF_APPOINTMENT": "12/8/13"
     },
     {
         "SNO": "313",
@@ -2694,10 +3142,12 @@ var myArray = [
         "RANK": "CHIEF EDUCATION OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF EDUCATION",
         "DEPARTMENT": "TERTIARY",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EDUCATION"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EDUCATION",
+        "DATE_OF_RETIREMENT": "12/9/13",
+        "DATE_OF_APPOINTMENT": "12/9/13"
     },
     {
         "SNO": "314",
@@ -2706,10 +3156,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF STORE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "STATE HOUSE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
         "DEPARTMENT": "STORE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "STORE OFFICER",
+        "DATE_OF_RETIREMENT": "12/10/13",
+        "DATE_OF_APPOINTMENT": "12/10/13"
     },
     {
         "SNO": "316",
@@ -2718,10 +3170,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF PROGRAMME ANALYST",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
+        "APPROVED_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
         "DEPARTMENT": "IPPIS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "PROGRAMME ANALYST",
+        "DATE_OF_RETIREMENT": "12/11/13",
+        "DATE_OF_APPOINTMENT": "12/11/13"
     },
     {
         "SNO": "318",
@@ -2730,10 +3184,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF PROGRAMME OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "ICT",
-        "REMARK": "To Vice  ()  ",
-        "CADRE": "PROGRAMME OFFICER"
+        "REMARK": "To Vice  ()",
+        "CADRE": "PROGRAMME OFFICER",
+        "DATE_OF_RETIREMENT": "12/12/13",
+        "DATE_OF_APPOINTMENT": "12/12/13"
     },
     {
         "SNO": "319",
@@ -2742,10 +3198,12 @@ var myArray = [
         "RANK": "PRINCIPAL STORE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To Vice  ()  ",
-        "CADRE": "STORE OFFICER"
+        "REMARK": "To Vice  ()",
+        "CADRE": "STORE OFFICER",
+        "DATE_OF_RETIREMENT": "12/13/13",
+        "DATE_OF_APPOINTMENT": "12/13/13"
     },
     {
         "SNO": "320",
@@ -2754,10 +3212,12 @@ var myArray = [
         "RANK": "PRIN STORES OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF EDUCATION",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "STORE OFFICER",
+        "DATE_OF_RETIREMENT": "12/14/13",
+        "DATE_OF_APPOINTMENT": "12/14/13"
     },
     {
         "SNO": "321",
@@ -2766,10 +3226,12 @@ var myArray = [
         "RANK": "PRINCIPAL STORE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "STATE HOUSE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTER-GOVERNMENTAL AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTER-GOVERNMENTAL AFFAIRS",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "STORE OFFICER",
+        "DATE_OF_RETIREMENT": "12/15/13",
+        "DATE_OF_APPOINTMENT": "12/15/13"
     },
     {
         "SNO": "323",
@@ -2778,10 +3240,12 @@ var myArray = [
         "RANK": "PRINCIPAL STORES OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To Vice  ()  ",
-        "CADRE": "STORE OFFICER"
+        "REMARK": "To Vice  ()",
+        "CADRE": "STORE OFFICER",
+        "DATE_OF_RETIREMENT": "12/16/13",
+        "DATE_OF_APPOINTMENT": "12/16/13"
     },
     {
         "SNO": "324",
@@ -2790,10 +3254,12 @@ var myArray = [
         "RANK": "PRINCIPAL PROGRAMME ANALYST",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "MIN OF COMMUNICATION TECHNOLOGY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORTATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF TRANSPORTATION",
         "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "PROGRAMME ANALYST",
+        "DATE_OF_RETIREMENT": "12/17/13",
+        "DATE_OF_APPOINTMENT": "12/17/13"
     },
     {
         "SNO": "325",
@@ -2802,10 +3268,12 @@ var myArray = [
         "RANK": "SENIOR PROGRAMME ANALYST",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF CULTURE TOURISM  NATIONAL ORIENTATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION",
         "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "PROGRAMME ANALYST",
+        "DATE_OF_RETIREMENT": "12/18/13",
+        "DATE_OF_APPOINTMENT": "12/18/13"
     },
     {
         "SNO": "326",
@@ -2814,10 +3282,12 @@ var myArray = [
         "RANK": "SENIOR PROGRAMME OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS & HOUSING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WORKS & HOUSING",
         "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "PROGRAMME ANALYST",
+        "DATE_OF_RETIREMENT": "12/19/13",
+        "DATE_OF_APPOINTMENT": "12/19/13"
     },
     {
         "SNO": "327",
@@ -2826,10 +3296,12 @@ var myArray = [
         "RANK": "SENIOR PROGRAMME ANALYSIST",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "MIN OF COMMUNICATION TECHNOLOGY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
         "DEPARTMENT": "ICT",
         "REMARK": "On Request",
-        "CADRE": "PROGRAMME ANALYST"
+        "CADRE": "PROGRAMME ANALYST",
+        "DATE_OF_RETIREMENT": "12/20/13",
+        "DATE_OF_APPOINTMENT": "12/20/13"
     },
     {
         "SNO": "328",
@@ -2838,10 +3310,12 @@ var myArray = [
         "RANK": "SENIOR PROGRAMME ANALYST CADRE",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
+        "APPROVED_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
         "DEPARTMENT": "ICT (GIFMIS)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "PROGRAMME ANALYST",
+        "DATE_OF_RETIREMENT": "12/21/13",
+        "DATE_OF_APPOINTMENT": "12/21/13"
     },
     {
         "SNO": "329",
@@ -2850,10 +3324,12 @@ var myArray = [
         "RANK": "SENIOR COMPUTER ANALYST",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF COMMUNICATIONS AND DIGITAL ECONOMY",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF COMMUNICATIONS AND DIGITAL ECONOMY",
         "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "PROGRAMME ANALYST",
+        "DATE_OF_RETIREMENT": "12/22/13",
+        "DATE_OF_APPOINTMENT": "12/22/13"
     },
     {
         "SNO": "330",
@@ -2862,10 +3338,12 @@ var myArray = [
         "RANK": "SENIOR PROGRAMME ANALYST",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "PRESENT_MDA": "NEW PARTNERSHIP FOR AFRICAS DEVELOPMENT NEPAD",
+        "APPROVED_MDA": "NEW PARTNERSHIP FOR AFRICAS DEVELOPMENT NEPAD",
         "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "PROGRAMME ANALYST",
+        "DATE_OF_RETIREMENT": "12/23/13",
+        "DATE_OF_APPOINTMENT": "12/23/13"
     },
     {
         "SNO": "331",
@@ -2874,10 +3352,12 @@ var myArray = [
         "RANK": "SENIOR EDUCATION OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "PUBLIC SERVICE INSTITUTE OF NIGERIA",
+        "APPROVED_MDA": "PUBLIC SERVICE INSTITUTE OF NIGERIA",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EDUCATION OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EDUCATION OFFICER",
+        "DATE_OF_RETIREMENT": "12/24/13",
+        "DATE_OF_APPOINTMENT": "12/24/13"
     },
     {
         "SNO": "332",
@@ -2886,10 +3366,12 @@ var myArray = [
         "RANK": "PRIN STORES OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION (EFO)",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION (EFO)",
         "DEPARTMENT": "STORE",
         "REMARK": "On Request",
-        "CADRE": "STORE OFFICER"
+        "CADRE": "STORE OFFICER",
+        "DATE_OF_RETIREMENT": "12/25/13",
+        "DATE_OF_APPOINTMENT": "12/25/13"
     },
     {
         "SNO": "333",
@@ -2898,10 +3380,12 @@ var myArray = [
         "RANK": "PRINCIPAL STORE OFFICER I",
         "SGL": "GL10CONRAISS",
         "PRESENT_MDA": "PUBLIC SERVICE INSTITUTE OF NIGERIA",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRADE AND INVESTMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF TRADE AND INVESTMENT",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "STORE OFFICER",
+        "DATE_OF_RETIREMENT": "12/26/13",
+        "DATE_OF_APPOINTMENT": "12/26/13"
     },
     {
         "SNO": "334",
@@ -2910,10 +3394,12 @@ var myArray = [
         "RANK": "PRINCIPAL STORE OFFICER II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF EDUCATION",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "STORE OFFICER",
+        "DATE_OF_RETIREMENT": "12/26/14",
+        "DATE_OF_APPOINTMENT": "12/26/14"
     },
     {
         "SNO": "335",
@@ -2922,10 +3408,12 @@ var myArray = [
         "RANK": "PRINCIPAL STORES OFFICER II",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "STORE OFFICER",
+        "DATE_OF_RETIREMENT": "12/27/14",
+        "DATE_OF_APPOINTMENT": "12/27/14"
     },
     {
         "SNO": "336",
@@ -2934,10 +3422,12 @@ var myArray = [
         "RANK": "PRINCIPAL PROGRAMME OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF CULTURE TOURISM  NATIONAL ORIENTATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AVIATION",
         "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "PROGRAMME OFFICER",
+        "DATE_OF_RETIREMENT": "12/28/14",
+        "DATE_OF_APPOINTMENT": "12/28/14"
     },
     {
         "SNO": "337",
@@ -2946,10 +3436,12 @@ var myArray = [
         "RANK": "SENIOR COMPUTER ENGINEER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
         "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "COMPUTER ENGINEER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "COMPUTER ENGINEER",
+        "DATE_OF_RETIREMENT": "12/29/14",
+        "DATE_OF_APPOINTMENT": "12/29/14"
     },
     {
         "SNO": "338",
@@ -2958,10 +3450,12 @@ var myArray = [
         "RANK": "SNR SCIENTIFIC OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HEALTH",
         "DEPARTMENT": "PUBLIC HEALTH",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "SCIENTIFIC OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "SCIENTIFIC OFFICER",
+        "DATE_OF_RETIREMENT": "12/30/14",
+        "DATE_OF_APPOINTMENT": "12/30/14"
     },
     {
         "SNO": "339",
@@ -2970,10 +3464,12 @@ var myArray = [
         "RANK": "PRINCIPAL LIBRARY OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS & HOUSING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WORKS & HOUSING",
         "DEPARTMENT": "PLANNING RESEARCH AND STATISTICS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "LIBRARY OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "LIBRARY OFFICER",
+        "DATE_OF_RETIREMENT": "12/31/14",
+        "DATE_OF_APPOINTMENT": "12/31/14"
     },
     {
         "SNO": "340",
@@ -2982,10 +3478,12 @@ var myArray = [
         "RANK": "PRINCIPAL STOCK VERIFIER I",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF CULTURE TOURISM  NATIONAL ORIENTATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "STOCK VERIFIER",
+        "DATE_OF_RETIREMENT": "1/1/15",
+        "DATE_OF_APPOINTMENT": "1/1/15"
     },
     {
         "SNO": "341",
@@ -2994,10 +3492,12 @@ var myArray = [
         "RANK": "SENIOR STOCK VERIFIER",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (EFO)",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (EFO)",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "STOCK VERIFIER",
+        "DATE_OF_RETIREMENT": "1/2/15",
+        "DATE_OF_APPOINTMENT": "1/2/15"
     },
     {
         "SNO": "342",
@@ -3006,22 +3506,26 @@ var myArray = [
         "RANK": "SENIOR STOCK VERIFIER",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HEALTH",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "STOCK VERIFIER",
+        "DATE_OF_RETIREMENT": "1/3/15",
+        "DATE_OF_APPOINTMENT": "1/3/15"
     },
     {
         "SNO": "343",
         "IPPIS_NO": "386572",
         "FULL_NAME": "OGBEWO PETER",
-        "RANK": " HIGHER STOCK VERIFIER ",
+        "RANK": "HIGHER STOCK VERIFIER",
         "SGL": "GL08CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF CULTURE TOURISM  NATIONAL ORIENTATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "STOCK VERIFIER",
+        "DATE_OF_RETIREMENT": "1/4/15",
+        "DATE_OF_APPOINTMENT": "1/4/15"
     },
     {
         "SNO": "344",
@@ -3030,10 +3534,12 @@ var myArray = [
         "RANK": "SENIOR STOCK VERIFIER",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INFORMATION",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "STOCK VERIFIER",
+        "DATE_OF_RETIREMENT": "1/5/15",
+        "DATE_OF_APPOINTMENT": "1/5/15"
     },
     {
         "SNO": "345",
@@ -3042,10 +3548,12 @@ var myArray = [
         "RANK": "PROGRAMME ANALYST I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
         "DEPARTMENT": "PLANNING RESEARCH AND STATISTICS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "PROGRAMME ANALYST",
+        "DATE_OF_RETIREMENT": "1/6/15",
+        "DATE_OF_APPOINTMENT": "1/6/15"
     },
     {
         "SNO": "346",
@@ -3054,10 +3562,12 @@ var myArray = [
         "RANK": "PROGRAMME ANALYST I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
+        "APPROVED_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
         "DEPARTMENT": "IPPIS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "PROGRAMME ANALYST",
+        "DATE_OF_RETIREMENT": "1/7/15",
+        "DATE_OF_APPOINTMENT": "1/7/15"
     },
     {
         "SNO": "347",
@@ -3066,10 +3576,12 @@ var myArray = [
         "RANK": "SENIOR PROGRAMME OFFICER",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF JUSTICE",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF JUSTICE",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "PROGRAMME OFFICER",
+        "DATE_OF_RETIREMENT": "1/8/15",
+        "DATE_OF_APPOINTMENT": "1/8/15"
     },
     {
         "SNO": "348",
@@ -3078,10 +3590,12 @@ var myArray = [
         "RANK": "SENIOR STORE OFFICER",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "PRESENT_MDA": "BUREAU OF PUBLIC SERVICE REFORMS",
+        "APPROVED_MDA": "BUREAU OF PUBLIC SERVICE REFORMS",
         "DEPARTMENT": "GENERAL SERVICES",
         "REMARK": "On Request",
-        "CADRE": "STORE OFFICER"
+        "CADRE": "STORE OFFICER",
+        "DATE_OF_RETIREMENT": "1/9/15",
+        "DATE_OF_APPOINTMENT": "1/9/15"
     },
     {
         "SNO": "349",
@@ -3090,10 +3604,12 @@ var myArray = [
         "RANK": "HIGHER STOCK VERIFIER",
         "SGL": "GL08CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HEALTH",
         "DEPARTMENT": "STORE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "STOCK VERIFIER",
+        "DATE_OF_RETIREMENT": "1/10/15",
+        "DATE_OF_APPOINTMENT": "1/10/15"
     },
     {
         "SNO": "350",
@@ -3102,10 +3618,12 @@ var myArray = [
         "RANK": "SENIOR STOCK VERIFIER",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "STOCK VERIFIER",
+        "DATE_OF_RETIREMENT": "1/11/15",
+        "DATE_OF_APPOINTMENT": "1/11/15"
     },
     {
         "SNO": "351",
@@ -3114,10 +3632,12 @@ var myArray = [
         "RANK": "HIGHER STOCK VERIFIER",
         "SGL": "GL08CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR  PRODUCTIVITY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HEALTH",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "STOCK VERIFIER",
+        "DATE_OF_RETIREMENT": "1/12/15",
+        "DATE_OF_APPOINTMENT": "1/12/15"
     },
     {
         "SNO": "352",
@@ -3126,10 +3646,12 @@ var myArray = [
         "RANK": "EXECUTIVE OFFICER II",
         "SGL": "GL08CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
         "DEPARTMENT": "L&D(FTC LAGOS)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "1/13/15",
+        "DATE_OF_APPOINTMENT": "1/13/15"
     },
     {
         "SNO": "353",
@@ -3138,10 +3660,12 @@ var myArray = [
         "RANK": "HIGHER PROGRAMME OFFICER",
         "SGL": "GL08CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
         "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "PROGRAMME OFFICER",
+        "DATE_OF_RETIREMENT": "1/14/15",
+        "DATE_OF_APPOINTMENT": "1/14/15"
     },
     {
         "SNO": "354",
@@ -3150,10 +3674,12 @@ var myArray = [
         "RANK": "HIGHER STORES OFFICER",
         "SGL": "GL08CONPSS",
         "PRESENT_MDA": "FGC GARKI",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE (MOD)",
+        "APPROVED_MDA": "MINISTRY OF DEFENCE (MOD)",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "STORE OFFICER",
+        "DATE_OF_RETIREMENT": "1/15/15",
+        "DATE_OF_APPOINTMENT": "1/15/15"
     },
     {
         "SNO": "355",
@@ -3162,10 +3688,12 @@ var myArray = [
         "RANK": "PROGRAMME OFFICER II",
         "SGL": "GL07CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORTATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF TRANSPORTATION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "PROGRAMME OFFICER",
+        "DATE_OF_RETIREMENT": "1/16/15",
+        "DATE_OF_APPOINTMENT": "1/16/15"
     },
     {
         "SNO": "356",
@@ -3174,10 +3702,12 @@ var myArray = [
         "RANK": "PROGRAMME OFFICER",
         "SGL": "GL08CONPSS",
         "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
+        "APPROVED_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
         "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "PROGRAMME OFFICER",
+        "DATE_OF_RETIREMENT": "1/17/15",
+        "DATE_OF_APPOINTMENT": "1/17/15"
     },
     {
         "SNO": "357",
@@ -3186,10 +3716,12 @@ var myArray = [
         "RANK": "EXECUTIVE OFFICER GENERAL DUTIES",
         "SGL": "GL07CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
         "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
         "REMARK": "On Request",
-        "CADRE": "EXECUTIVE OFFICER"
+        "CADRE": "EXECUTIVE OFFICER",
+        "DATE_OF_RETIREMENT": "1/18/15",
+        "DATE_OF_APPOINTMENT": "1/18/15"
     },
     {
         "SNO": "358",
@@ -3198,10 +3730,12 @@ var myArray = [
         "RANK": "PROGRAMME OFFICER II",
         "SGL": "GL07CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "ICT",
-        "REMARK": "To Vice  ()  ",
-        "CADRE": "PROGRAMME OFFICER"
+        "REMARK": "To Vice  ()",
+        "CADRE": "PROGRAMME OFFICER",
+        "DATE_OF_RETIREMENT": "1/19/15",
+        "DATE_OF_APPOINTMENT": "1/19/15"
     },
     {
         "SNO": "359",
@@ -3210,10 +3744,12 @@ var myArray = [
         "RANK": "SENIOR PROGRAMME ANALYSIST",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "MIN OF COMMUNICATION TECHNOLOGY",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
         "DEPARTMENT": "",
         "REMARK": "On Request",
-        "CADRE": "PROGRAMME ANALYST"
+        "CADRE": "PROGRAMME ANALYST",
+        "DATE_OF_RETIREMENT": "1/20/15",
+        "DATE_OF_APPOINTMENT": "1/20/15"
     },
     {
         "SNO": "360",
@@ -3222,10 +3758,12 @@ var myArray = [
         "RANK": "SENIOR STORE OFFICER",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "PRESENT_MDA": "GREAT GREEN WALL",
+        "APPROVED_MDA": "GREAT GREEN WALL",
         "DEPARTMENT": "GENERAL SERVICES",
         "REMARK": "On Request",
-        "CADRE": "STORE OFFICER"
+        "CADRE": "STORE OFFICER",
+        "DATE_OF_RETIREMENT": "1/21/15",
+        "DATE_OF_APPOINTMENT": "1/21/15"
     },
     {
         "SNO": "361",
@@ -3234,10 +3772,12 @@ var myArray = [
         "RANK": "PROGRAMME ANALYST",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "MIN OF COMMUNICATION TECHNOLOGY",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION (SDO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION (SDO)",
         "DEPARTMENT": "",
         "REMARK": "On Request",
-        "CADRE": "PROGRAMME ANALYST"
+        "CADRE": "PROGRAMME ANALYST",
+        "DATE_OF_RETIREMENT": "1/22/15",
+        "DATE_OF_APPOINTMENT": "1/22/15"
     },
     {
         "SNO": "362",
@@ -3246,10 +3786,12 @@ var myArray = [
         "RANK": "SYSTEM ANALYST II",
         "SGL": "GL08CONPSS",
         "PRESENT_MDA": "MIN OF COMMUNICATION TECHNOLOGY",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
         "DEPARTMENT": "SID",
         "REMARK": "On Request",
-        "CADRE": "PROGRAMME ANALYST"
+        "CADRE": "PROGRAMME ANALYST",
+        "DATE_OF_RETIREMENT": "1/23/15",
+        "DATE_OF_APPOINTMENT": "1/23/15"
     },
     {
         "SNO": "363",
@@ -3258,10 +3800,12 @@ var myArray = [
         "RANK": "SYSTEM ANALYST II",
         "SGL": "GL08CONPSS",
         "PRESENT_MDA": "MIN OF COMMUNICATION TECHNOLOGY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HEALTH",
         "DEPARTMENT": "ICT",
         "REMARK": "On Request",
-        "CADRE": "PROGRAMME ANALYST"
+        "CADRE": "PROGRAMME ANALYST",
+        "DATE_OF_RETIREMENT": "1/24/15",
+        "DATE_OF_APPOINTMENT": "1/24/15"
     },
     {
         "SNO": "364",
@@ -3270,10 +3814,12 @@ var myArray = [
         "RANK": "DIRECTOR",
         "SGL": "GL17CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF TRADE AND INVESTMENT",
-        "PRESENT_MDA": "NATIONAL COMMISSION FOR REFUGEES",
+        "APPROVED_MDA": "NATIONAL COMMISSION FOR REFUGEES",
         "DEPARTMENT": "HR/ADMIN",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "1/25/15",
+        "DATE_OF_APPOINTMENT": "1/25/15"
     },
     {
         "SNO": "365",
@@ -3282,10 +3828,12 @@ var myArray = [
         "RANK": "DIRECTOR ADMINISTRATION",
         "SGL": "GL17CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF TRADE AND INVESTMENT",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To Vice  (EJIBUNU)  ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To Vice  (EJIBUNU)",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "1/26/15",
+        "DATE_OF_APPOINTMENT": "1/26/15"
     },
     {
         "SNO": "366",
@@ -3294,10 +3842,12 @@ var myArray = [
         "RANK": "DIRECTOR ADMINISTRATION",
         "SGL": "GL17CONPSS",
         "PRESENT_MDA": "MINISTRY OF HUMANITARIAN AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION AND CULTURE",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INFORMATION AND CULTURE",
         "DEPARTMENT": "HRM",
-        "REMARK": "To Vice  (ULU EWA SUNDAY)  ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To Vice  (ULU EWA SUNDAY)",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "1/27/15",
+        "DATE_OF_APPOINTMENT": "1/27/15"
     },
     {
         "SNO": "367",
@@ -3306,10 +3856,12 @@ var myArray = [
         "RANK": "DIRECTOR",
         "SGL": "GL17CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "PRESENT_MDA": "NIGERIA INVESTMENT PROMOTION COUNCIL",
+        "APPROVED_MDA": "NIGERIA INVESTMENT PROMOTION COUNCIL",
         "DEPARTMENT": "HR/ADMIN",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "1/28/15",
+        "DATE_OF_APPOINTMENT": "1/28/15"
     },
     {
         "SNO": "368",
@@ -3318,10 +3870,12 @@ var myArray = [
         "RANK": "DIRECTOR",
         "SGL": "GL17CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "CHAIRMAN'S OFFICE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "1/29/15",
+        "DATE_OF_APPOINTMENT": "1/29/15"
     },
     {
         "SNO": "369",
@@ -3330,10 +3884,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF STOCK VERIFIER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF EDUCATION",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "STOCK VERIFIER",
+        "DATE_OF_RETIREMENT": "1/30/15",
+        "DATE_OF_APPOINTMENT": "1/30/15"
     },
     {
         "SNO": "370",
@@ -3342,10 +3898,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "1/31/15",
+        "DATE_OF_APPOINTMENT": "1/31/15"
     },
     {
         "SNO": "371",
@@ -3354,10 +3912,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION",
-        "PRESENT_MDA": "BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE (GD)",
+        "DATE_OF_RETIREMENT": "2/1/15",
+        "DATE_OF_APPOINTMENT": "2/1/15"
     },
     {
         "SNO": "372",
@@ -3366,10 +3926,12 @@ var myArray = [
         "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE (GD)",
+        "DATE_OF_RETIREMENT": "2/2/15",
+        "DATE_OF_APPOINTMENT": "2/2/15"
     },
     {
         "SNO": "374",
@@ -3378,10 +3940,12 @@ var myArray = [
         "RANK": "CHIEF STOCK VERIFIER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "PRESENT_MDA": "MINISTRY OF FOREIGN AFFAIRS",
+        "APPROVED_MDA": "MINISTRY OF FOREIGN AFFAIRS",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "STOCK VERIFIER",
+        "DATE_OF_RETIREMENT": "2/3/15",
+        "DATE_OF_APPOINTMENT": "2/3/15"
     },
     {
         "SNO": "375",
@@ -3390,10 +3954,12 @@ var myArray = [
         "RANK": "EXECUTIVE OFFICER CADRE",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE (GD)",
+        "DATE_OF_RETIREMENT": "2/4/15",
+        "DATE_OF_APPOINTMENT": "2/4/15"
     },
     {
         "SNO": "378",
@@ -3402,10 +3968,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "PRESENT_MDA": "NEW PARTNERSHIP FOR AFRICAS DEVELOPMENT NEPAD",
+        "APPROVED_MDA": "NEW PARTNERSHIP FOR AFRICAS DEVELOPMENT NEPAD",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/5/15",
+        "DATE_OF_APPOINTMENT": "2/5/15"
     },
     {
         "SNO": "379",
@@ -3414,10 +3982,12 @@ var myArray = [
         "RANK": "CHIEF ADMIN OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
         "DEPARTMENT": "EMD (POD)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/6/15",
+        "DATE_OF_APPOINTMENT": "2/6/15"
     },
     {
         "SNO": "380",
@@ -3426,10 +3996,12 @@ var myArray = [
         "RANK": "CHIEF ADMIN OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/7/15",
+        "DATE_OF_APPOINTMENT": "2/7/15"
     },
     {
         "SNO": "381",
@@ -3438,10 +4010,12 @@ var myArray = [
         "RANK": "CHIEF ADMIN OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORTATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF TRANSPORTATION",
         "DEPARTMENT": "RT&MTA",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/8/15",
+        "DATE_OF_APPOINTMENT": "2/8/15"
     },
     {
         "SNO": "382",
@@ -3450,10 +4024,12 @@ var myArray = [
         "RANK": "CHIEF ADMIN OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION (GSO)",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION (GSO)",
         "DEPARTMENT": "HRM",
-        "REMARK": "To Vice  (NOEL LAMAYI LADI)  ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To Vice  (NOEL LAMAYI LADI)",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/9/15",
+        "DATE_OF_APPOINTMENT": "2/9/15"
     },
     {
         "SNO": "383",
@@ -3462,10 +4038,12 @@ var myArray = [
         "RANK": "CHIEF ADMIN OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/10/15",
+        "DATE_OF_APPOINTMENT": "2/10/15"
     },
     {
         "SNO": "384",
@@ -3474,10 +4052,12 @@ var myArray = [
         "RANK": "CHIEF ADMIN OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (PEAO)",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (PEAO)",
         "DEPARTMENT": "IOD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/11/15",
+        "DATE_OF_APPOINTMENT": "2/11/15"
     },
     {
         "SNO": "385",
@@ -3486,10 +4066,12 @@ var myArray = [
         "RANK": "CHIEF ADMIN OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/12/15",
+        "DATE_OF_APPOINTMENT": "2/12/15"
     },
     {
         "SNO": "386",
@@ -3498,10 +4080,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMIN OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/13/15",
+        "DATE_OF_APPOINTMENT": "2/13/15"
     },
     {
         "SNO": "387",
@@ -3510,10 +4094,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/14/15",
+        "DATE_OF_APPOINTMENT": "2/14/15"
     },
     {
         "SNO": "388",
@@ -3522,10 +4108,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
         "DEPARTMENT": "INFRASTRUCTURE DEVELOPMENT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/15/15",
+        "DATE_OF_APPOINTMENT": "2/15/15"
     },
     {
         "SNO": "389",
@@ -3534,10 +4122,12 @@ var myArray = [
         "RANK": "CHIEF ADMIN OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SWO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SWO)",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/16/15",
+        "DATE_OF_APPOINTMENT": "2/16/15"
     },
     {
         "SNO": "390",
@@ -3546,10 +4136,12 @@ var myArray = [
         "RANK": "CHIEF ADMIN OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/17/15",
+        "DATE_OF_APPOINTMENT": "2/17/15"
     },
     {
         "SNO": "391",
@@ -3558,10 +4150,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/18/15",
+        "DATE_OF_APPOINTMENT": "2/18/15"
     },
     {
         "SNO": "392",
@@ -3570,10 +4164,12 @@ var myArray = [
         "RANK": "CHIEF ADMIN OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
+        "APPROVED_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/19/15",
+        "DATE_OF_APPOINTMENT": "2/19/15"
     },
     {
         "SNO": "393",
@@ -3582,10 +4178,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
+        "APPROVED_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/20/15",
+        "DATE_OF_APPOINTMENT": "2/20/15"
     },
     {
         "SNO": "394",
@@ -3594,10 +4192,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE",
         "DEPARTMENT": "TAX POLICY (TSD)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/21/15",
+        "DATE_OF_APPOINTMENT": "2/21/15"
     },
     {
         "SNO": "395",
@@ -3606,10 +4206,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
+        "APPROVED_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
         "DEPARTMENT": "HR/ADMIN",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/22/15",
+        "DATE_OF_APPOINTMENT": "2/22/15"
     },
     {
         "SNO": "396",
@@ -3618,10 +4220,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER CADRE",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE",
         "DEPARTMENT": "IERD (AFI)",
-        "REMARK": "To Vice  (UDO DOMICA BENJAMIN)  ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To Vice  (UDO DOMICA BENJAMIN)",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/23/15",
+        "DATE_OF_APPOINTMENT": "2/23/15"
     },
     {
         "SNO": "397",
@@ -3630,10 +4234,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF EDUCATION",
         "DEPARTMENT": "HRM (APPOINTMENT)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/24/15",
+        "DATE_OF_APPOINTMENT": "2/24/15"
     },
     {
         "SNO": "398",
@@ -3642,10 +4248,12 @@ var myArray = [
         "RANK": "CHIEF ADMIN OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "PRESENT_MDA": "NIGERIAN POLICE TRUST FUND",
+        "APPROVED_MDA": "NIGERIAN POLICE TRUST FUND",
         "DEPARTMENT": "HR/ADMIN",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/25/15",
+        "DATE_OF_APPOINTMENT": "2/25/15"
     },
     {
         "SNO": "399",
@@ -3654,10 +4262,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "NEW PARTNERSHIP FOR AFRICAS DEVELOPMENT NEPAD",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE (MOD)",
+        "APPROVED_MDA": "MINISTRY OF DEFENCE (MOD)",
         "DEPARTMENT": "JSD (PARA/SS)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/26/15",
+        "DATE_OF_APPOINTMENT": "2/26/15"
     },
     {
         "SNO": "400",
@@ -3666,10 +4276,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE (MOD)",
+        "APPROVED_MDA": "MINISTRY OF DEFENCE (MOD)",
         "DEPARTMENT": "JSD (C&L)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/27/15",
+        "DATE_OF_APPOINTMENT": "2/27/15"
     },
     {
         "SNO": "401",
@@ -3678,10 +4290,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION AND CULTURE",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INFORMATION AND CULTURE",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "2/28/15",
+        "DATE_OF_APPOINTMENT": "2/28/15"
     },
     {
         "SNO": "402",
@@ -3690,10 +4304,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
+        "APPROVED_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
         "DEPARTMENT": "IPPIS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/1/15",
+        "DATE_OF_APPOINTMENT": "3/1/15"
     },
     {
         "SNO": "403",
@@ -3702,10 +4318,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/2/15",
+        "DATE_OF_APPOINTMENT": "3/2/15"
     },
     {
         "SNO": "404",
@@ -3714,10 +4332,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AVIATION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/3/15",
+        "DATE_OF_APPOINTMENT": "3/3/15"
     },
     {
         "SNO": "405",
@@ -3726,10 +4346,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICERTIES",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/4/15",
+        "DATE_OF_APPOINTMENT": "3/4/15"
     },
     {
         "SNO": "406",
@@ -3738,10 +4360,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/5/15",
+        "DATE_OF_APPOINTMENT": "3/5/15"
     },
     {
         "SNO": "407",
@@ -3750,10 +4374,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE (MOD)",
+        "APPROVED_MDA": "MINISTRY OF DEFENCE (MOD)",
         "DEPARTMENT": "JSD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/6/15",
+        "DATE_OF_APPOINTMENT": "3/6/15"
     },
     {
         "SNO": "408",
@@ -3762,10 +4388,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "MIN OF COMMUNICATION TECHNOLOGY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE",
         "DEPARTMENT": "IERD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/7/15",
+        "DATE_OF_APPOINTMENT": "3/7/15"
     },
     {
         "SNO": "409",
@@ -3774,10 +4402,12 @@ var myArray = [
         "RANK": "CHIEF ADMIN OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
         "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/8/15",
+        "DATE_OF_APPOINTMENT": "3/8/15"
     },
     {
         "SNO": "410",
@@ -3786,10 +4416,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/9/15",
+        "DATE_OF_APPOINTMENT": "3/9/15"
     },
     {
         "SNO": "411",
@@ -3798,10 +4430,12 @@ var myArray = [
         "RANK": "CHIEF ADMIN OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
         "DEPARTMENT": "IMD",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/10/15",
+        "DATE_OF_APPOINTMENT": "3/10/15"
     },
     {
         "SNO": "412",
@@ -3810,10 +4444,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "PROMOTION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/11/15",
+        "DATE_OF_APPOINTMENT": "3/11/15"
     },
     {
         "SNO": "413",
@@ -3822,10 +4458,12 @@ var myArray = [
         "RANK": "CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL14CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/12/15",
+        "DATE_OF_APPOINTMENT": "3/12/15"
     },
     {
         "SNO": "414",
@@ -3834,10 +4472,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMIN OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SWO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SWO)",
         "DEPARTMENT": "ERW/HRMIS",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/13/15",
+        "DATE_OF_APPOINTMENT": "3/13/15"
     },
     {
         "SNO": "415",
@@ -3846,10 +4486,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMIN OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "C&B",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/14/15",
+        "DATE_OF_APPOINTMENT": "3/14/15"
     },
     {
         "SNO": "416",
@@ -3858,10 +4500,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMIN OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SWO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SWO)",
         "DEPARTMENT": "ERW/GLA",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/15/15",
+        "DATE_OF_APPOINTMENT": "3/15/15"
     },
     {
         "SNO": "417",
@@ -3870,10 +4514,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
         "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE OFFICER"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE OFFICER",
+        "DATE_OF_RETIREMENT": "3/16/15",
+        "DATE_OF_APPOINTMENT": "3/16/15"
     },
     {
         "SNO": "418",
@@ -3882,10 +4528,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "HRM",
         "REMARK": "Select Remark",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/17/15",
+        "DATE_OF_APPOINTMENT": "3/17/15"
     },
     {
         "SNO": "419",
@@ -3894,10 +4542,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF TRANSPORT",
         "DEPARTMENT": "F&A (BUDGET)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/18/15",
+        "DATE_OF_APPOINTMENT": "3/18/15"
     },
     {
         "SNO": "420",
@@ -3906,10 +4556,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
+        "APPROVED_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/19/15",
+        "DATE_OF_APPOINTMENT": "3/19/15"
     },
     {
         "SNO": "421",
@@ -3918,10 +4570,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
+        "APPROVED_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/20/15",
+        "DATE_OF_APPOINTMENT": "3/20/15"
     },
     {
         "SNO": "422",
@@ -3930,10 +4584,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMIN OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/21/15",
+        "DATE_OF_APPOINTMENT": "3/21/15"
     },
     {
         "SNO": "423",
@@ -3942,10 +4598,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/22/15",
+        "DATE_OF_APPOINTMENT": "3/22/15"
     },
     {
         "SNO": "424",
@@ -3954,10 +4612,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HEALTH",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/23/15",
+        "DATE_OF_APPOINTMENT": "3/23/15"
     },
     {
         "SNO": "425",
@@ -3966,10 +4626,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMIN OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF EDUCATION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/24/15",
+        "DATE_OF_APPOINTMENT": "3/24/15"
     },
     {
         "SNO": "426",
@@ -3978,10 +4640,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMIN OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/25/15",
+        "DATE_OF_APPOINTMENT": "3/25/15"
     },
     {
         "SNO": "427",
@@ -3990,10 +4654,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/26/15",
+        "DATE_OF_APPOINTMENT": "3/26/15"
     },
     {
         "SNO": "428",
@@ -4002,10 +4668,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/27/15",
+        "DATE_OF_APPOINTMENT": "3/27/15"
     },
     {
         "SNO": "429",
@@ -4014,10 +4682,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF COMMUNICATION AND DIGITAL ECONOMY",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF COMMUNICATION AND DIGITAL ECONOMY",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/28/15",
+        "DATE_OF_APPOINTMENT": "3/28/15"
     },
     {
         "SNO": "430",
@@ -4026,10 +4696,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/29/15",
+        "DATE_OF_APPOINTMENT": "3/29/15"
     },
     {
         "SNO": "435",
@@ -4038,10 +4710,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "HOME FINANCE (SFI)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/30/15",
+        "DATE_OF_APPOINTMENT": "3/30/15"
     },
     {
         "SNO": "436",
@@ -4050,10 +4724,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (PEAO)",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (PEAO)",
         "DEPARTMENT": "IOD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "3/31/15",
+        "DATE_OF_APPOINTMENT": "3/31/15"
     },
     {
         "SNO": "437",
@@ -4062,10 +4738,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
         "DEPARTMENT": "OFFICE OF THE HONOURABLE MINISTER",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/1/15",
+        "DATE_OF_APPOINTMENT": "4/1/15"
     },
     {
         "SNO": "438",
@@ -4074,10 +4752,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
         "DEPARTMENT": "EMD (POD)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/2/15",
+        "DATE_OF_APPOINTMENT": "4/2/15"
     },
     {
         "SNO": "439",
@@ -4086,10 +4766,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
         "DEPARTMENT": "EMD (POD)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/3/15",
+        "DATE_OF_APPOINTMENT": "4/3/15"
     },
     {
         "SNO": "440",
@@ -4098,10 +4780,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF TRANSPORT",
         "DEPARTMENT": "RT&MTA",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/4/15",
+        "DATE_OF_APPOINTMENT": "4/4/15"
     },
     {
         "SNO": "441",
@@ -4110,10 +4794,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "HOME FINANCE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/5/15",
+        "DATE_OF_APPOINTMENT": "4/5/15"
     },
     {
         "SNO": "442",
@@ -4122,10 +4808,12 @@ var myArray = [
         "RANK": "ASST CHIEF EXECUTIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "NEW PARTNERSHIP FOR AFRICAS DEVELOPMENT NEPAD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "EXECUTIVE (GD)",
+        "DATE_OF_RETIREMENT": "4/6/15",
+        "DATE_OF_APPOINTMENT": "4/6/15"
     },
     {
         "SNO": "443",
@@ -4134,10 +4822,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER CADRE",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HEALTH",
         "DEPARTMENT": "PRS (INTERNATIONAL COOPERATION)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/7/15",
+        "DATE_OF_APPOINTMENT": "4/7/15"
     },
     {
         "SNO": "444",
@@ -4146,10 +4836,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "HOME FINANCE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/8/15",
+        "DATE_OF_APPOINTMENT": "4/8/15"
     },
     {
         "SNO": "445",
@@ -4158,10 +4850,12 @@ var myArray = [
         "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
         "SGL": "GL13CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF TRANSPORT",
         "DEPARTMENT": "MSSD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/9/15",
+        "DATE_OF_APPOINTMENT": "4/9/15"
     },
     {
         "SNO": "446",
@@ -4170,10 +4864,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF TRANSPORT",
         "DEPARTMENT": "MSSD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/10/15",
+        "DATE_OF_APPOINTMENT": "4/10/15"
     },
     {
         "SNO": "447",
@@ -4182,10 +4878,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
+        "APPROVED_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
         "DEPARTMENT": "OFFICE OF THE EXECUTIVE SECRETARY",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/11/15",
+        "DATE_OF_APPOINTMENT": "4/11/15"
     },
     {
         "SNO": "448",
@@ -4194,10 +4892,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR  PRODUCTIVITY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
         "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETRY",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/12/15",
+        "DATE_OF_APPOINTMENT": "4/12/15"
     },
     {
         "SNO": "449",
@@ -4206,10 +4906,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "C&B",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/13/15",
+        "DATE_OF_APPOINTMENT": "4/13/15"
     },
     {
         "SNO": "450",
@@ -4218,10 +4920,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF POWER",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/14/15",
+        "DATE_OF_APPOINTMENT": "4/14/15"
     },
     {
         "SNO": "451",
@@ -4230,10 +4934,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/15/15",
+        "DATE_OF_APPOINTMENT": "4/15/15"
     },
     {
         "SNO": "452",
@@ -4242,10 +4948,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "C&B",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/16/15",
+        "DATE_OF_APPOINTMENT": "4/16/15"
     },
     {
         "SNO": "453",
@@ -4254,10 +4962,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "SPECIAL DUTIES",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/17/15",
+        "DATE_OF_APPOINTMENT": "4/17/15"
     },
     {
         "SNO": "454",
@@ -4266,10 +4976,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF POWER",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/18/15",
+        "DATE_OF_APPOINTMENT": "4/18/15"
     },
     {
         "SNO": "455",
@@ -4278,10 +4990,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTERGOVERNMENTAL AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTERGOVERNMENTAL AFFAIRS",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/19/15",
+        "DATE_OF_APPOINTMENT": "4/19/15"
     },
     {
         "SNO": "456",
@@ -4290,10 +5004,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/20/15",
+        "DATE_OF_APPOINTMENT": "4/20/15"
     },
     {
         "SNO": "457",
@@ -4302,10 +5018,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/21/15",
+        "DATE_OF_APPOINTMENT": "4/21/15"
     },
     {
         "SNO": "458",
@@ -4314,10 +5032,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARISN AFFAIRS AND DISASTER MANAGEMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HUMANITARISN AFFAIRS AND DISASTER MANAGEMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/22/15",
+        "DATE_OF_APPOINTMENT": "4/22/15"
     },
     {
         "SNO": "459",
@@ -4326,10 +5046,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMIN OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/23/15",
+        "DATE_OF_APPOINTMENT": "4/23/15"
     },
     {
         "SNO": "460",
@@ -4338,10 +5060,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF EDUCATION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/24/15",
+        "DATE_OF_APPOINTMENT": "4/24/15"
     },
     {
         "SNO": "461",
@@ -4350,10 +5074,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF JUSTICE",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF JUSTICE",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/25/15",
+        "DATE_OF_APPOINTMENT": "4/25/15"
     },
     {
         "SNO": "462",
@@ -4362,10 +5088,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HEALTH",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/26/15",
+        "DATE_OF_APPOINTMENT": "4/26/15"
     },
     {
         "SNO": "463",
@@ -4374,10 +5102,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/27/15",
+        "DATE_OF_APPOINTMENT": "4/27/15"
     },
     {
         "SNO": "464",
@@ -4386,10 +5116,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "POLICE SERVICE COMMISSION",
+        "APPROVED_MDA": "POLICE SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/28/15",
+        "DATE_OF_APPOINTMENT": "4/28/15"
     },
     {
         "SNO": "465",
@@ -4398,10 +5130,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/29/15",
+        "DATE_OF_APPOINTMENT": "4/29/15"
     },
     {
         "SNO": "466",
@@ -4410,10 +5144,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF EDUCATION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "4/30/15",
+        "DATE_OF_APPOINTMENT": "4/30/15"
     },
     {
         "SNO": "467",
@@ -4422,10 +5158,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMIN OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
-        "PRESENT_MDA": "POLICE SERVICE COMMISSION",
+        "APPROVED_MDA": "POLICE SERVICE COMMISSION",
         "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETRY",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/1/15",
+        "DATE_OF_APPOINTMENT": "5/1/15"
     },
     {
         "SNO": "468",
@@ -4434,10 +5172,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
-        "PRESENT_MDA": "POLICE SERVICE COMMISSION",
+        "APPROVED_MDA": "POLICE SERVICE COMMISSION",
         "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETRY",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/2/15",
+        "DATE_OF_APPOINTMENT": "5/2/15"
     },
     {
         "SNO": "469",
@@ -4446,10 +5186,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
         "DEPARTMENT": "EMD (CPA)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/3/15",
+        "DATE_OF_APPOINTMENT": "5/3/15"
     },
     {
         "SNO": "470",
@@ -4458,10 +5200,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/4/15",
+        "DATE_OF_APPOINTMENT": "5/4/15"
     },
     {
         "SNO": "471",
@@ -4470,10 +5214,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "PICA (SPECIAL SERVICES)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/5/15",
+        "DATE_OF_APPOINTMENT": "5/5/15"
     },
     {
         "SNO": "472",
@@ -4482,10 +5228,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
+        "APPROVED_MDA": "MINISTRY OF DEFENCE  MOD",
         "DEPARTMENT": "MILITARY PENSION BOARD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/6/15",
+        "DATE_OF_APPOINTMENT": "5/6/15"
     },
     {
         "SNO": "473",
@@ -4494,10 +5242,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "NEW PARTNERSHIP FOR AFRICAS DEVELOPMENT NEPAD",
+        "APPROVED_MDA": "NEW PARTNERSHIP FOR AFRICAS DEVELOPMENT NEPAD",
         "DEPARTMENT": "AUDA",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/7/15",
+        "DATE_OF_APPOINTMENT": "5/7/15"
     },
     {
         "SNO": "474",
@@ -4506,10 +5256,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (CAO)",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (CAO)",
         "DEPARTMENT": "CABINET AFFAIRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/8/15",
+        "DATE_OF_APPOINTMENT": "5/8/15"
     },
     {
         "SNO": "475",
@@ -4518,10 +5270,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
         "DEPARTMENT": "HRM",
         "REMARK": "To Remain",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/9/15",
+        "DATE_OF_APPOINTMENT": "5/9/15"
     },
     {
         "SNO": "476",
@@ -4530,10 +5284,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF CULTURE TOURISM  NATIONAL ORIENTATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "CDFIPB",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/10/15",
+        "DATE_OF_APPOINTMENT": "5/10/15"
     },
     {
         "SNO": "477",
@@ -4542,10 +5298,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMIN OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
+        "APPROVED_MDA": "MINISTRY OF DEFENCE  MOD",
         "DEPARTMENT": "SS",
-        "REMARK": "To Vice  ()  ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To Vice  ()",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/11/15",
+        "DATE_OF_APPOINTMENT": "5/11/15"
     },
     {
         "SNO": "478",
@@ -4554,10 +5312,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
         "DEPARTMENT": "HRM",
-        "REMARK": "To Vice  ()  ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To Vice  ()",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/12/15",
+        "DATE_OF_APPOINTMENT": "5/12/15"
     },
     {
         "SNO": "479",
@@ -4566,10 +5326,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (PEAO)",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (PEAO)",
         "DEPARTMENT": "IOD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/13/15",
+        "DATE_OF_APPOINTMENT": "5/13/15"
     },
     {
         "SNO": "480",
@@ -4578,10 +5340,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/14/15",
+        "DATE_OF_APPOINTMENT": "5/14/15"
     },
     {
         "SNO": "481",
@@ -4590,10 +5354,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "HOME FINANCE (TRADE)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/15/15",
+        "DATE_OF_APPOINTMENT": "5/15/15"
     },
     {
         "SNO": "482",
@@ -4602,10 +5368,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/16/15",
+        "DATE_OF_APPOINTMENT": "5/16/15"
     },
     {
         "SNO": "483",
@@ -4614,10 +5382,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/17/15",
+        "DATE_OF_APPOINTMENT": "5/17/15"
     },
     {
         "SNO": "484",
@@ -4626,10 +5396,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF POWER",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/18/15",
+        "DATE_OF_APPOINTMENT": "5/18/15"
     },
     {
         "SNO": "485",
@@ -4638,10 +5410,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH DEVELOPMENT",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/19/15",
+        "DATE_OF_APPOINTMENT": "5/19/15"
     },
     {
         "SNO": "486",
@@ -4650,10 +5424,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "NALDA",
+        "APPROVED_MDA": "NALDA",
         "DEPARTMENT": "HRM",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/20/15",
+        "DATE_OF_APPOINTMENT": "5/20/15"
     },
     {
         "SNO": "487",
@@ -4662,10 +5438,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MIN OF LANDS HOUSING AND URBAN DEV",
-        "PRESENT_MDA": "PUBLIC SERVICE INSTITUTE OF NIGERIA",
+        "APPROVED_MDA": "PUBLIC SERVICE INSTITUTE OF NIGERIA",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/21/15",
+        "DATE_OF_APPOINTMENT": "5/21/15"
     },
     {
         "SNO": "488",
@@ -4674,10 +5452,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
+        "APPROVED_MDA": "BUDGET OFFICE OF THE FEDERATION",
         "DEPARTMENT": "EXPENDITURE (ECONS)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/22/15",
+        "DATE_OF_APPOINTMENT": "5/22/15"
     },
     {
         "SNO": "489",
@@ -4686,10 +5466,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
         "DEPARTMENT": "DISASTER MANAGEMENT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/23/15",
+        "DATE_OF_APPOINTMENT": "5/23/15"
     },
     {
         "SNO": "490",
@@ -4698,10 +5480,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH AND SPORT DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF YOUTH AND SPORT DEVELOPMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/24/15",
+        "DATE_OF_APPOINTMENT": "5/24/15"
     },
     {
         "SNO": "491",
@@ -4710,10 +5494,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION (EFO)",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION (EFO)",
         "DEPARTMENT": "",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/25/15",
+        "DATE_OF_APPOINTMENT": "5/25/15"
     },
     {
         "SNO": "492",
@@ -4722,10 +5508,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF TRANSPORT",
         "DEPARTMENT": "MSSD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/26/15",
+        "DATE_OF_APPOINTMENT": "5/26/15"
     },
     {
         "SNO": "493",
@@ -4734,10 +5522,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMIN OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
         "DEPARTMENT": "POLICE TRUST FUND",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/27/15",
+        "DATE_OF_APPOINTMENT": "5/27/15"
     },
     {
         "SNO": "494",
@@ -4746,10 +5536,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "IERD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/28/15",
+        "DATE_OF_APPOINTMENT": "5/28/15"
     },
     {
         "SNO": "495",
@@ -4758,10 +5550,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "PRESENT_MDA": "MINISTRY OF FOREIGN AFFAIRS",
+        "APPROVED_MDA": "MINISTRY OF FOREIGN AFFAIRS",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/29/15",
+        "DATE_OF_APPOINTMENT": "5/29/15"
     },
     {
         "SNO": "496",
@@ -4770,10 +5564,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MIN OF LANDS HOUSING AND URBAN DEV",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (PEAO)",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (PEAO)",
         "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/30/15",
+        "DATE_OF_APPOINTMENT": "5/30/15"
     },
     {
         "SNO": "497",
@@ -4782,10 +5578,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
         "DEPARTMENT": "CMO",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "5/31/15",
+        "DATE_OF_APPOINTMENT": "5/31/15"
     },
     {
         "SNO": "498",
@@ -4794,10 +5592,12 @@ var myArray = [
         "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
         "SGL": "GL12CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTERGOVERNMENTAL AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTERGOVERNMENTAL AFFAIRS",
         "DEPARTMENT": "STATE AND LOCAL GOVERNMENT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/1/15",
+        "DATE_OF_APPOINTMENT": "6/1/15"
     },
     {
         "SNO": "499",
@@ -4806,10 +5606,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "BUDGET AND NATIONAL PLANNING (OFFICE OF THE PERMANENT SECRETARY)",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/2/15",
+        "DATE_OF_APPOINTMENT": "6/2/15"
     },
     {
         "SNO": "500",
@@ -4818,10 +5620,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/3/15",
+        "DATE_OF_APPOINTMENT": "6/3/15"
     },
     {
         "SNO": "501",
@@ -4830,10 +5634,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "NATIONAL COMMISSION FOR REFUGEES, MIGRANTS AND INTERNALLY DISPLACED PERSONS",
+        "APPROVED_MDA": "NATIONAL COMMISSION FOR REFUGEES, MIGRANTS AND INTERNALLY DISPLACED PERSONS",
         "DEPARTMENT": "PLANNING RESEARCH AND DOCUMENTATION",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/4/15",
+        "DATE_OF_APPOINTMENT": "6/4/15"
     },
     {
         "SNO": "502",
@@ -4842,10 +5648,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH AND SPORT DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF YOUTH AND SPORT DEVELOPMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/5/15",
+        "DATE_OF_APPOINTMENT": "6/5/15"
     },
     {
         "SNO": "503",
@@ -4854,10 +5662,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/6/15",
+        "DATE_OF_APPOINTMENT": "6/6/15"
     },
     {
         "SNO": "504",
@@ -4866,10 +5676,12 @@ var myArray = [
         "RANK": "SENIOR ADMIN OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTERGOVERNMENTAL AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTERGOVERNMENTAL AFFAIRS",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/7/15",
+        "DATE_OF_APPOINTMENT": "6/7/15"
     },
     {
         "SNO": "505",
@@ -4878,10 +5690,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SWO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SWO)",
         "DEPARTMENT": "OHSE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/8/15",
+        "DATE_OF_APPOINTMENT": "6/8/15"
     },
     {
         "SNO": "506",
@@ -4890,10 +5704,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH DEVELOPMENT",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SWO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SWO)",
         "DEPARTMENT": "OHSE/RECREATION",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/9/15",
+        "DATE_OF_APPOINTMENT": "6/9/15"
     },
     {
         "SNO": "507",
@@ -4902,10 +5718,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
+        "APPROVED_MDA": "BUDGET OFFICE OF THE FEDERATION",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/10/15",
+        "DATE_OF_APPOINTMENT": "6/10/15"
     },
     {
         "SNO": "508",
@@ -4914,10 +5732,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MIN OF LANDS HOUSING AND URBAN DEV",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SPSO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SPSO)",
         "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETRY",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/11/15",
+        "DATE_OF_APPOINTMENT": "6/11/15"
     },
     {
         "SNO": "509",
@@ -4926,10 +5746,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AVIATION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/12/15",
+        "DATE_OF_APPOINTMENT": "6/12/15"
     },
     {
         "SNO": "510",
@@ -4938,10 +5760,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF POWER",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/13/15",
+        "DATE_OF_APPOINTMENT": "6/13/15"
     },
     {
         "SNO": "511",
@@ -4950,10 +5774,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/14/15",
+        "DATE_OF_APPOINTMENT": "6/14/15"
     },
     {
         "SNO": "512",
@@ -4962,10 +5788,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/15/15",
+        "DATE_OF_APPOINTMENT": "6/15/15"
     },
     {
         "SNO": "513",
@@ -4974,10 +5802,12 @@ var myArray = [
         "RANK": "SENIOR ADMIN OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/16/15",
+        "DATE_OF_APPOINTMENT": "6/16/15"
     },
     {
         "SNO": "514",
@@ -4986,10 +5816,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/17/15",
+        "DATE_OF_APPOINTMENT": "6/17/15"
     },
     {
         "SNO": "515",
@@ -4998,10 +5830,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/18/15",
+        "DATE_OF_APPOINTMENT": "6/18/15"
     },
     {
         "SNO": "516",
@@ -5010,10 +5844,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/19/15",
+        "DATE_OF_APPOINTMENT": "6/19/15"
     },
     {
         "SNO": "517",
@@ -5022,10 +5858,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/20/15",
+        "DATE_OF_APPOINTMENT": "6/20/15"
     },
     {
         "SNO": "518",
@@ -5034,10 +5872,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/21/15",
+        "DATE_OF_APPOINTMENT": "6/21/15"
     },
     {
         "SNO": "519",
@@ -5046,10 +5886,12 @@ var myArray = [
         "RANK": "SENIOR ADMIN OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/22/15",
+        "DATE_OF_APPOINTMENT": "6/22/15"
     },
     {
         "SNO": "520",
@@ -5058,10 +5900,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/23/15",
+        "DATE_OF_APPOINTMENT": "6/23/15"
     },
     {
         "SNO": "521",
@@ -5070,10 +5914,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/24/15",
+        "DATE_OF_APPOINTMENT": "6/24/15"
     },
     {
         "SNO": "522",
@@ -5082,10 +5928,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/25/15",
+        "DATE_OF_APPOINTMENT": "6/25/15"
     },
     {
         "SNO": "523",
@@ -5094,10 +5942,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/26/15",
+        "DATE_OF_APPOINTMENT": "6/26/15"
     },
     {
         "SNO": "524",
@@ -5106,10 +5956,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/27/15",
+        "DATE_OF_APPOINTMENT": "6/27/15"
     },
     {
         "SNO": "525",
@@ -5118,10 +5970,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/28/15",
+        "DATE_OF_APPOINTMENT": "6/28/15"
     },
     {
         "SNO": "526",
@@ -5130,10 +5984,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/29/15",
+        "DATE_OF_APPOINTMENT": "6/29/15"
     },
     {
         "SNO": "527",
@@ -5142,10 +5998,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "6/30/15",
+        "DATE_OF_APPOINTMENT": "6/30/15"
     },
     {
         "SNO": "528",
@@ -5154,10 +6012,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/1/15",
+        "DATE_OF_APPOINTMENT": "7/1/15"
     },
     {
         "SNO": "529",
@@ -5166,10 +6026,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/2/15",
+        "DATE_OF_APPOINTMENT": "7/2/15"
     },
     {
         "SNO": "530",
@@ -5178,10 +6040,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
+        "APPROVED_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/3/15",
+        "DATE_OF_APPOINTMENT": "7/3/15"
     },
     {
         "SNO": "531",
@@ -5190,10 +6054,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF TRANSPORT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/4/15",
+        "DATE_OF_APPOINTMENT": "7/4/15"
     },
     {
         "SNO": "532",
@@ -5202,10 +6068,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
+        "APPROVED_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/5/15",
+        "DATE_OF_APPOINTMENT": "7/5/15"
     },
     {
         "SNO": "533",
@@ -5214,10 +6082,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
+        "APPROVED_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/6/15",
+        "DATE_OF_APPOINTMENT": "7/6/15"
     },
     {
         "SNO": "534",
@@ -5226,10 +6096,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/7/15",
+        "DATE_OF_APPOINTMENT": "7/7/15"
     },
     {
         "SNO": "535",
@@ -5238,10 +6110,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF COMMUNICATION AND DIGITAL ECONOMY",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF COMMUNICATION AND DIGITAL ECONOMY",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/8/15",
+        "DATE_OF_APPOINTMENT": "7/8/15"
     },
     {
         "SNO": "536",
@@ -5250,10 +6124,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH AND SPORT DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF YOUTH AND SPORT DEVELOPMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/9/15",
+        "DATE_OF_APPOINTMENT": "7/9/15"
     },
     {
         "SNO": "537",
@@ -5262,10 +6138,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
+        "APPROVED_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/10/15",
+        "DATE_OF_APPOINTMENT": "7/10/15"
     },
     {
         "SNO": "538",
@@ -5274,10 +6152,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "HOME FINANCE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/11/15",
+        "DATE_OF_APPOINTMENT": "7/11/15"
     },
     {
         "SNO": "539",
@@ -5286,10 +6166,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF TRANSPORT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/12/15",
+        "DATE_OF_APPOINTMENT": "7/12/15"
     },
     {
         "SNO": "540",
@@ -5298,10 +6180,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
         "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/13/15",
+        "DATE_OF_APPOINTMENT": "7/13/15"
     },
     {
         "SNO": "541",
@@ -5310,10 +6194,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/14/15",
+        "DATE_OF_APPOINTMENT": "7/14/15"
     },
     {
         "SNO": "542",
@@ -5322,10 +6208,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/15/15",
+        "DATE_OF_APPOINTMENT": "7/15/15"
     },
     {
         "SNO": "543",
@@ -5334,10 +6222,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
+        "APPROVED_MDA": "BUDGET OFFICE OF THE FEDERATION",
         "DEPARTMENT": "EXPENDITURE (ECONS)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/16/15",
+        "DATE_OF_APPOINTMENT": "7/16/15"
     },
     {
         "SNO": "544",
@@ -5346,10 +6236,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "C&B",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/17/15",
+        "DATE_OF_APPOINTMENT": "7/17/15"
     },
     {
         "SNO": "545",
@@ -5358,10 +6250,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
         "DEPARTMENT": "HRM",
         "REMARK": "To Remain",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/18/15",
+        "DATE_OF_APPOINTMENT": "7/18/15"
     },
     {
         "SNO": "546",
@@ -5370,10 +6264,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SPSO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SPSO)",
         "DEPARTMENT": "ODD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/19/15",
+        "DATE_OF_APPOINTMENT": "7/19/15"
     },
     {
         "SNO": "547",
@@ -5382,10 +6278,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FGC MAIDUGURI",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HEALTH",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/20/15",
+        "DATE_OF_APPOINTMENT": "7/20/15"
     },
     {
         "SNO": "548",
@@ -5394,10 +6292,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH DEVELOPMENT",
-        "PRESENT_MDA": "COUNCIL OF NIGERIAN MINING ENGINEERS AND GEOSCIENTISTS",
+        "APPROVED_MDA": "COUNCIL OF NIGERIAN MINING ENGINEERS AND GEOSCIENTISTS",
         "DEPARTMENT": "REGISTRAR/CEO'S OFFICE",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/21/15",
+        "DATE_OF_APPOINTMENT": "7/21/15"
     },
     {
         "SNO": "549",
@@ -5406,10 +6306,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION",
+        "APPROVED_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION",
         "DEPARTMENT": "SSO",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/22/15",
+        "DATE_OF_APPOINTMENT": "7/22/15"
     },
     {
         "SNO": "550",
@@ -5418,10 +6320,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
+        "APPROVED_MDA": "BUDGET OFFICE OF THE FEDERATION",
         "DEPARTMENT": "EXPENDITURE (SOCIAL)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/23/15",
+        "DATE_OF_APPOINTMENT": "7/23/15"
     },
     {
         "SNO": "551",
@@ -5430,10 +6334,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/24/15",
+        "DATE_OF_APPOINTMENT": "7/24/15"
     },
     {
         "SNO": "552",
@@ -5442,10 +6348,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "HOME FINANCE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/25/15",
+        "DATE_OF_APPOINTMENT": "7/25/15"
     },
     {
         "SNO": "553",
@@ -5454,10 +6362,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
+        "APPROVED_MDA": "BUDGET OFFICE OF THE FEDERATION",
         "DEPARTMENT": "EXPENDITURE (ECONS)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/26/15",
+        "DATE_OF_APPOINTMENT": "7/26/15"
     },
     {
         "SNO": "554",
@@ -5466,10 +6376,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF CULTURE TOURISM  NATIONAL ORIENTATION",
-        "PRESENT_MDA": "PUBLIC SERVICE INSTITUTE OF NIGERIA",
+        "APPROVED_MDA": "PUBLIC SERVICE INSTITUTE OF NIGERIA",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/27/15",
+        "DATE_OF_APPOINTMENT": "7/27/15"
     },
     {
         "SNO": "555",
@@ -5478,10 +6390,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "IERD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/28/15",
+        "DATE_OF_APPOINTMENT": "7/28/15"
     },
     {
         "SNO": "556",
@@ -5490,10 +6404,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/29/15",
+        "DATE_OF_APPOINTMENT": "7/29/15"
     },
     {
         "SNO": "557",
@@ -5502,10 +6418,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/30/15",
+        "DATE_OF_APPOINTMENT": "7/30/15"
     },
     {
         "SNO": "558",
@@ -5514,10 +6432,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF TRANSPORT",
         "DEPARTMENT": "MSSD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "7/31/15",
+        "DATE_OF_APPOINTMENT": "7/31/15"
     },
     {
         "SNO": "559",
@@ -5526,10 +6446,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
+        "APPROVED_MDA": "BUDGET OFFICE OF THE FEDERATION",
         "DEPARTMENT": "EXPENDITURE (SOCIAL)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/1/15",
+        "DATE_OF_APPOINTMENT": "8/1/15"
     },
     {
         "SNO": "560",
@@ -5538,10 +6460,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF POWER",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/2/15",
+        "DATE_OF_APPOINTMENT": "8/2/15"
     },
     {
         "SNO": "561",
@@ -5550,10 +6474,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/3/15",
+        "DATE_OF_APPOINTMENT": "8/3/15"
     },
     {
         "SNO": "562",
@@ -5562,10 +6488,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/4/15",
+        "DATE_OF_APPOINTMENT": "8/4/15"
     },
     {
         "SNO": "563",
@@ -5574,10 +6502,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MIN OF LANDS HOUSING AND URBAN DEV",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "IERD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/5/15",
+        "DATE_OF_APPOINTMENT": "8/5/15"
     },
     {
         "SNO": "564",
@@ -5586,10 +6516,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OF1FICER I",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
         "DEPARTMENT": "HOME FINANCE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/6/15",
+        "DATE_OF_APPOINTMENT": "8/6/15"
     },
     {
         "SNO": "565",
@@ -5598,10 +6530,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
         "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/7/15",
+        "DATE_OF_APPOINTMENT": "8/7/15"
     },
     {
         "SNO": "566",
@@ -5610,10 +6544,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/8/15",
+        "DATE_OF_APPOINTMENT": "8/8/15"
     },
     {
         "SNO": "567",
@@ -5622,10 +6558,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/9/15",
+        "DATE_OF_APPOINTMENT": "8/9/15"
     },
     {
         "SNO": "568",
@@ -5634,10 +6572,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "OFFICE OF THE SURVEYOR GENERAL OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/10/15",
+        "DATE_OF_APPOINTMENT": "8/10/15"
     },
     {
         "SNO": "569",
@@ -5646,10 +6586,12 @@ var myArray = [
         "RANK": "SENIOR ADMIN OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MIN OF LANDS HOUSING AND URBAN DEV",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF POWER",
         "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/11/15",
+        "DATE_OF_APPOINTMENT": "8/11/15"
     },
     {
         "SNO": "570",
@@ -5658,10 +6600,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/12/15",
+        "DATE_OF_APPOINTMENT": "8/12/15"
     },
     {
         "SNO": "571",
@@ -5670,10 +6614,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
         "DEPARTMENT": "L&D",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/13/15",
+        "DATE_OF_APPOINTMENT": "8/13/15"
     },
     {
         "SNO": "572",
@@ -5682,10 +6628,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
+        "APPROVED_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
         "DEPARTMENT": "INFRASTRUCTURE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/14/15",
+        "DATE_OF_APPOINTMENT": "8/14/15"
     },
     {
         "SNO": "573",
@@ -5694,10 +6642,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF INTERIOR",
         "DEPARTMENT": "C&B",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/15/15",
+        "DATE_OF_APPOINTMENT": "8/15/15"
     },
     {
         "SNO": "574",
@@ -5706,10 +6656,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF COMMUNICATION AND DIGITAL ECONOMY",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF COMMUNICATION AND DIGITAL ECONOMY",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/16/15",
+        "DATE_OF_APPOINTMENT": "8/16/15"
     },
     {
         "SNO": "575",
@@ -5718,10 +6670,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/17/15",
+        "DATE_OF_APPOINTMENT": "8/17/15"
     },
     {
         "SNO": "576",
@@ -5730,10 +6684,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/18/15",
+        "DATE_OF_APPOINTMENT": "8/18/15"
     },
     {
         "SNO": "577",
@@ -5742,10 +6698,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/19/15",
+        "DATE_OF_APPOINTMENT": "8/19/15"
     },
     {
         "SNO": "578",
@@ -5754,10 +6712,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/20/15",
+        "DATE_OF_APPOINTMENT": "8/20/15"
     },
     {
         "SNO": "579",
@@ -5766,10 +6726,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/21/15",
+        "DATE_OF_APPOINTMENT": "8/21/15"
     },
     {
         "SNO": "580",
@@ -5778,10 +6740,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
+        "APPROVED_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/22/15",
+        "DATE_OF_APPOINTMENT": "8/22/15"
     },
     {
         "SNO": "581",
@@ -5790,10 +6754,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/23/15",
+        "DATE_OF_APPOINTMENT": "8/23/15"
     },
     {
         "SNO": "582",
@@ -5802,10 +6768,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/24/15",
+        "DATE_OF_APPOINTMENT": "8/24/15"
     },
     {
         "SNO": "583",
@@ -5814,10 +6782,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER",
         "SGL": "GL10CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
+        "APPROVED_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/25/15",
+        "DATE_OF_APPOINTMENT": "8/25/15"
     },
     {
         "SNO": "584",
@@ -5826,10 +6796,12 @@ var myArray = [
         "RANK": "SENIOR ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
+        "APPROVED_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/26/15",
+        "DATE_OF_APPOINTMENT": "8/26/15"
     },
     {
         "SNO": "585",
@@ -5838,10 +6810,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
+        "APPROVED_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
         "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/27/15",
+        "DATE_OF_APPOINTMENT": "8/27/15"
     },
     {
         "SNO": "586",
@@ -5850,10 +6824,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER II",
         "SGL": "GL08CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/28/15",
+        "DATE_OF_APPOINTMENT": "8/28/15"
     },
     {
         "SNO": "587",
@@ -5862,10 +6838,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/29/15",
+        "DATE_OF_APPOINTMENT": "8/29/15"
     },
     {
         "SNO": "588",
@@ -5874,10 +6852,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER II",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/30/15",
+        "DATE_OF_APPOINTMENT": "8/30/15"
     },
     {
         "SNO": "589",
@@ -5886,10 +6866,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WORKS",
         "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "8/31/15",
+        "DATE_OF_APPOINTMENT": "8/31/15"
     },
     {
         "SNO": "590",
@@ -5898,10 +6880,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
         "DEPARTMENT": "HOUSING SECTOR (PRS)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "9/1/15",
+        "DATE_OF_APPOINTMENT": "9/1/15"
     },
     {
         "SNO": "591",
@@ -5910,10 +6894,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "9/2/19",
+        "DATE_OF_APPOINTMENT": "9/2/19"
     },
     {
         "SNO": "592",
@@ -5922,10 +6908,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "9/3/19",
+        "DATE_OF_APPOINTMENT": "9/3/19"
     },
     {
         "SNO": "593",
@@ -5934,10 +6922,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF POWER",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "9/4/19",
+        "DATE_OF_APPOINTMENT": "9/4/19"
     },
     {
         "SNO": "594",
@@ -5946,10 +6936,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER1R II",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "STATE HOUSE",
+        "APPROVED_MDA": "STATE HOUSE",
         "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETRY",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "9/5/19",
+        "DATE_OF_APPOINTMENT": "9/5/19"
     },
     {
         "SNO": "595",
@@ -5958,10 +6950,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
         "DEPARTMENT": "NIGERIA POLICE TRUST FUND",
         "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "9/6/19",
+        "DATE_OF_APPOINTMENT": "9/6/19"
     },
     {
         "SNO": "596",
@@ -5970,10 +6964,12 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER II",
         "SGL": "GL08CONPSS",
         "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTERGOVERNMENTAL AFFAIRS",
+        "APPROVED_MDA": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTERGOVERNMENTAL AFFAIRS",
         "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "9/7/19",
+        "DATE_OF_APPOINTMENT": "9/7/19"
     },
     {
         "SNO": "597",
@@ -5982,6559 +6978,11 @@ var myArray = [
         "RANK": "ADMINISTRATIVE OFFICER I",
         "SGL": "GL09CONPSS",
         "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "598",
-        "IPPIS_NO": "207920",
-        "FULL_NAME": "ARINZE NWIGBO UCHENNA",
-        "RANK": "ADMINISTRATIVE OFFICER I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
-        "DEPARTMENT": "PROCUREMENT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "599",
-        "IPPIS_NO": "392321",
-        "FULL_NAME": "EKONG BOCO MBANG",
-        "RANK": "ADMINISTRATIVE OFFICER I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "PRESENT_MDA": "NALDA",
-        "DEPARTMENT": "",
-        "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "600",
-        "IPPIS_NO": "64379",
-        "FULL_NAME": "UCHECHI OCHUNGE JUDITH",
-        "RANK": "ADMINISTRATIVE OFFICER I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "PUBLIC SERVICE INSTITUTE OF NIGERIA",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "601",
-        "IPPIS_NO": "162016",
-        "FULL_NAME": "ADAMU AMINU",
-        "RANK": "ADMINISTRATIVE OFFICER I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "NEW PARTNERSHIP FOR AFRICAS DEVELOPMENT NEPAD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "602",
-        "IPPIS_NO": "153548",
-        "FULL_NAME": "VIVIAN DAVID DORCAS",
-        "RANK": "ADMINISTRATIVE OFFICER I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "NEW PARTNERSHIP FOR AFRICAS DEVELOPMENT NEPAD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "603",
-        "IPPIS_NO": "52990",
-        "FULL_NAME": "OLANNYE MARIA",
-        "RANK": "ADMINISTRATIVE OFFICER I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "604",
-        "IPPIS_NO": "60020",
-        "FULL_NAME": "JOHN BRAIMOH CECILIA",
-        "RANK": "ADMINISTRATIVE OFFICER I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "605",
-        "IPPIS_NO": "86717",
-        "FULL_NAME": "EKAEMAN BASSEY",
-        "RANK": "ADMINISTRATIVE OFFICER I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "606",
-        "IPPIS_NO": "436557",
-        "FULL_NAME": "GERALD ANIERE ELOKA",
-        "RANK": "ADMINISTRATIVE OFFICER I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR  PRODUCTIVITY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "607",
-        "IPPIS_NO": "56707",
-        "FULL_NAME": "ELECHI  NWADIKE CECILIA",
-        "RANK": "ADMINISTRATIVE OFFICER I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "608",
-        "IPPIS_NO": "74346",
-        "FULL_NAME": "CHUKWUNAGOLUM  NWAFOR AMBROSE",
-        "RANK": "ADMINISTRATIVE OFFICER I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "609",
-        "IPPIS_NO": "154740",
-        "FULL_NAME": "ALIYU MASHOOD SHINA",
-        "RANK": "SENIOR ADMIN OFFICER",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
-        "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "610",
-        "IPPIS_NO": "94683",
-        "FULL_NAME": "OGBUEHI  KANU EMMANUEL",
-        "RANK": "ADMINISTRATIVE OFFICER I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "611",
-        "IPPIS_NO": "340143",
-        "FULL_NAME": "OYAKEMEAGBEGHA EBIMIYEI",
-        "RANK": "ADMINISTRATIVE OFFICER I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "612",
-        "IPPIS_NO": "390689",
-        "FULL_NAME": "EMMANUEL HUNSU OLUWAFEMI",
-        "RANK": "ADMINISTRATIVE OFFICER I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "PRESENT_MDA": "NIGERIA IN DIASPORA COMMISSION",
-        "DEPARTMENT": "",
-        "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "613",
-        "IPPIS_NO": "87254",
-        "FULL_NAME": "ENUMAH DANIEL",
-        "RANK": "ADMINISTRATIVE OFFICER II",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "614",
-        "IPPIS_NO": "388763",
-        "FULL_NAME": "NELLY ERIVWODE OGAGA",
-        "RANK": "ADMINISTRATIVE OFFICER II",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FCTA",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "615",
-        "IPPIS_NO": "388756",
-        "FULL_NAME": "PHILEMON MARTINS TOMBRAPADE",
-        "RANK": "ADMINISTRATIVE OFFICER II",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "616",
-        "IPPIS_NO": "47184",
-        "FULL_NAME": "CHINYERE  NKWOCHA KEYNA",
-        "RANK": "ADMINISTRATIVE OFFICER II",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "617",
-        "IPPIS_NO": "375312",
-        "FULL_NAME": "CHINENYE ONYEANUSI CHIDIOGO",
-        "RANK": "ADMINISTRATIVE OFFICER II",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "618",
-        "IPPIS_NO": "282070",
-        "FULL_NAME": "TITILAYO ADEKUNLE ABOSEDE",
-        "RANK": "ADMINISTRATIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "619",
-        "IPPIS_NO": "278337",
-        "FULL_NAME": "VICTORIA MAKANJUOLA OYEBANKE",
-        "RANK": "ADMINISTRATIVE OFFICER II",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "620",
-        "IPPIS_NO": "327868",
-        "FULL_NAME": "AUSTIN ISHOLA SHEM",
-        "RANK": "ADMINISTRATIVE OFFICER II",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "621",
-        "IPPIS_NO": "282069",
-        "FULL_NAME": "FISAYO ADEKUNLE ARAMIDE",
-        "RANK": "ADMINISTRATIVE OFFICER II",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "622",
-        "IPPIS_NO": "161489",
-        "FULL_NAME": "TOCHUKWU CHENDO FRANCIS",
-        "RANK": "ADMINISTRATIVE OFFICER II",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "POLICE SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "623",
-        "IPPIS_NO": "53972",
-        "FULL_NAME": "UCHENNA  UKAMBA PHINA",
-        "RANK": "ADMINISTRATIVE OFFICER II",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "624",
-        "IPPIS_NO": "455676",
-        "FULL_NAME": "JOYCE ANORUO CHINONSO",
-        "RANK": "ADMINISTRATIVE OFFICER II",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "625",
-        "IPPIS_NO": "54057",
-        "FULL_NAME": "OYINNEM  NWAMBA RITA",
-        "RANK": "ADMINISTRATIVE OFFICER II",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF JUSTICE",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "626",
-        "IPPIS_NO": "370690",
-        "FULL_NAME": "NIMZING NANCHAK DINCI",
-        "RANK": "ADMINISTRATIVE OFFICER II",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "627",
-        "IPPIS_NO": "45432",
-        "FULL_NAME": "MUSA  MONDAY HANNATU",
-        "RANK": "ADMINISTRATIVE OFFICER II",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "628",
-        "IPPIS_NO": "45446",
-        "FULL_NAME": "CHIGOZIE  ANYASOR ISABELLA",
-        "RANK": "ADMINISTRATIVE OFFICER I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
-        "DEPARTMENT": "EMD (POD)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "629",
-        "IPPIS_NO": "76789",
-        "FULL_NAME": "AIGBIKE  IMHENSI LAWRENCE",
-        "RANK": "ADMINISTRATIVE OFFICER II",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "630",
-        "IPPIS_NO": "45437",
-        "FULL_NAME": "UMA  UDUMA MAUREEN",
-        "RANK": "ADMINISTRATIVE OFFICER II",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "631",
-        "IPPIS_NO": "455876",
-        "FULL_NAME": "ESTHER HOSEA ATAJIRI",
-        "RANK": "ADMINISTRATIVE OFFICER II",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "IERD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "632",
-        "IPPIS_NO": "8063",
-        "FULL_NAME": "JONAH USEH UWEM",
-        "RANK": "CHIEF  SCIENTIFIC OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "SCIENTIFIC OFFICER"
-    },
-    {
-        "SNO": "633",
-        "IPPIS_NO": "68251",
-        "FULL_NAME": "LUCKY OGHOGHO OWRAIGBO BERNARD",
-        "RANK": "CHIEF LIBRARIAN",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "DEPARTMENT": "LIBRARY",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "LIBRARIAN"
-    },
-    {
-        "SNO": "634",
-        "IPPIS_NO": "66024",
-        "FULL_NAME": "OBE  AMEH PATRICK",
-        "RANK": "CHIEF STORE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "BUDGET AND NATIONAL PLANNING (GS)",
-        "REMARK": "On Request",
-        "CADRE": "STORE OFFICER"
-    },
-    {
-        "SNO": "635",
-        "IPPIS_NO": "66068",
-        "FULL_NAME": "INUWA  KURASON BATURE",
-        "RANK": "CHIEF STORE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
-    },
-    {
-        "SNO": "636",
-        "IPPIS_NO": "78852",
-        "FULL_NAME": "SHEIKH UTHMAN A IBRAHIM",
-        "RANK": "CHIEF STORE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "STORE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
-    },
-    {
-        "SNO": "637",
-        "IPPIS_NO": "1373",
-        "FULL_NAME": "AGHALELEGHIAN OMOREGIE EMMANUEL",
-        "RANK": "CHIEF STORE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "PRESENT_MDA": "BUREAU OF PUBLIC SERVICE REFORMS",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "On Request",
-        "CADRE": "STORE OFFICER"
-    },
-    {
-        "SNO": "638",
-        "IPPIS_NO": "53384",
-        "FULL_NAME": "ONYEMA  OMELIKO COMFORT",
-        "RANK": "CHIEF STORE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "NEW PARTNERSHIP FOR AFRICAS DEVELOPMENT NEPAD",
-        "DEPARTMENT": "STORE",
-        "REMARK": "To Vice  (OGUNGBEMI)  ",
-        "CADRE": "STORE OFFICER"
-    },
-    {
-        "SNO": "639",
-        "IPPIS_NO": "70123",
-        "FULL_NAME": "ADEREMI  SAKA DAUDA",
-        "RANK": "CHIEF STORE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "DEPARTMENT": "STORE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
-    },
-    {
-        "SNO": "640",
-        "IPPIS_NO": "84673",
-        "FULL_NAME": "NANGANG  DASHE MOSES",
-        "RANK": "CHIEF STOCK VERIFIER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "641",
-        "IPPIS_NO": "50423",
-        "FULL_NAME": "OLASUNKANMI  FASHOLA CAROLINE",
-        "RANK": "CHIEF STOCK VERIFIER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF JUSTICE",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "642",
-        "IPPIS_NO": "18769",
-        "FULL_NAME": "IGHO OKPOTU BASSEY",
-        "RANK": "CHIEF STOCK VERIFIER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "643",
-        "IPPIS_NO": "53967",
-        "FULL_NAME": "LOUISA  HARRY CHINELO",
-        "RANK": "CHIEF PROGRAMME ANALYST",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "644",
-        "IPPIS_NO": "53516",
-        "FULL_NAME": "ROWLAND  UWAKWE JUSTINA",
-        "RANK": "CHIEF PROGRAMME ANALYST",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "OFFICE OF THE SENIOR SPECIAL ASSISTANT TO THE PRESIDENT ON SUSTAINABLE DEVELOPMENT GOALS",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "645",
-        "IPPIS_NO": "58777",
-        "FULL_NAME": "NWAKAEGO  ONYEACHOLEM MABEL",
-        "RANK": "CHIEF PROGRAMME OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
-    },
-    {
-        "SNO": "646",
-        "IPPIS_NO": "81836",
-        "FULL_NAME": "IGGA  SADIQ DAUDA",
-        "RANK": "CHIEF PROGRAMME OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
-    },
-    {
-        "SNO": "647",
-        "IPPIS_NO": "8090",
-        "FULL_NAME": "EMMANUEL ONWE CHIKEZIE",
-        "RANK": "CHIEF COMPUTER ENGINEER",
-        "SGL": "GL14CONRAISS",
-        "PRESENT_MDA": "PUBLIC SERVICE INSTITUTE OF NIGERIA",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "COMPUTER ENGINEER"
-    },
-    {
-        "SNO": "648",
-        "IPPIS_NO": "47053",
-        "FULL_NAME": "OLAYINKA KINGS OLUWATOYIN",
-        "RANK": "ASSISTANT CHIEF STORE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To Remain",
-        "CADRE": "STORE OFFICER"
-    },
-    {
-        "SNO": "649",
-        "IPPIS_NO": "91005",
-        "FULL_NAME": "ISAIAH  ANDEMUN JOEL",
-        "RANK": "ASSISTANT CHIEF PROGRAMME ANALYST",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "DEPARTMENT": "ICT",
-        "REMARK": "On Request",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "650",
-        "IPPIS_NO": "95559",
-        "FULL_NAME": "MARY  ONI OMOLAYO",
-        "RANK": "ASSISTANT CHIEF PROGRMME OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
-    },
-    {
-        "SNO": "651",
-        "IPPIS_NO": "76766",
-        "FULL_NAME": "FESTUS  AZONABOR OSAMHENKE",
-        "RANK": "ASSISTANT CHIEF PROGRAMME OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
-    },
-    {
-        "SNO": "652",
-        "IPPIS_NO": "193505",
-        "FULL_NAME": "OLORUNGBON YETUNDE",
-        "RANK": "CHIEF STOCK VERIFIER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "SD-STOCK VERIFICATION UNIT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "653",
-        "IPPIS_NO": "374665",
-        "FULL_NAME": "STEPHENDOUGLAS IBINABO",
-        "RANK": "ASSISTANT CHIEF STATISTICIAN",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR  PRODUCTIVITY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "DEPARTMENT": "PRS",
-        "REMARK": "On Request",
-        "CADRE": "STATISTICIAN"
-    },
-    {
-        "SNO": "654",
-        "IPPIS_NO": "60873",
-        "FULL_NAME": "GOLAR KISITMWA",
-        "RANK": "PRIN STORES OFFICER",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
-    },
-    {
-        "SNO": "655",
-        "IPPIS_NO": "73226",
-        "FULL_NAME": "MUYIWA  OLAITAN TUNJI",
-        "RANK": "PRINCIPAL STORE OFFICER",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
-    },
-    {
-        "SNO": "656",
-        "IPPIS_NO": "44722",
-        "FULL_NAME": "NWAMALUBIA  IFEZUE CHINYERE",
-        "RANK": "PRINCIPAL PROGRAMME ANALYST",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF COMMUNICATION AND DIGITAL ECONOMY",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To Vice  (IGWE S.C)  ",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "657",
-        "IPPIS_NO": "324255",
-        "FULL_NAME": "GRACE BAMIGBOLA OLUSOLA",
-        "RANK": "PRINCIPAL PROGRAMME ANALYST",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ICT",
-        "REMARK": "On Request",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "658",
-        "IPPIS_NO": "60981",
-        "FULL_NAME": "MASSA  YUSUF DALUNGA",
-        "RANK": "PRINCIPAL PROGRAMME OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH DEVELOPMENT",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
-    },
-    {
-        "SNO": "659",
-        "IPPIS_NO": "92407",
-        "FULL_NAME": "ABUBAKAR  SALISU YAQUB",
-        "RANK": "PRINCIPAL PROGRAMME OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
-    },
-    {
-        "SNO": "660",
-        "IPPIS_NO": "193821",
-        "FULL_NAME": "GEORGE UKWUEZE NNAMDI",
-        "RANK": "PRICIPAL CIVIL ENGINEER",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
-        "DEPARTMENT": "",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CIVIL ENGINEER"
-    },
-    {
-        "SNO": "661",
-        "IPPIS_NO": "368936",
-        "FULL_NAME": "ABIMBOLA SOBANDE ADESINA",
-        "RANK": "PRINCIPAL STOCK VERIFIER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "DEPARTMENT": "SD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "662",
-        "IPPIS_NO": "350785",
-        "FULL_NAME": "ABIMBOLA AWOFESO TAWAKALITU",
-        "RANK": "PRINCIPAL STOCK VERIFIER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "DEPARTMENT": "SD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "663",
-        "IPPIS_NO": "281077",
-        "FULL_NAME": "TSAFE SANI AISHA",
-        "RANK": "SENIOR PROGRAMME ANALYSIST",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "PICA",
-        "REMARK": "On Request",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "664",
-        "IPPIS_NO": "135304",
-        "FULL_NAME": "BAH IBRAHIM DAUDA",
-        "RANK": "SENIOR PROGRAMME ANALYSIST",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "MIN OF COMMUNICATION TECHNOLOGY",
-        "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
-        "DEPARTMENT": "IPPIS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "665",
-        "IPPIS_NO": "353315",
-        "FULL_NAME": "IVIE OGBETUO NINA",
-        "RANK": "SENIOR PROGRAMME ANALYST",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "666",
-        "IPPIS_NO": "46993",
-        "FULL_NAME": "ADLINE IBENYEH OKWUCHUKWU",
-        "RANK": "SENIOR PROGRAMME ANALYST",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "667",
-        "IPPIS_NO": "315756",
-        "FULL_NAME": "AKINKUNMI BABATUNDE FATAI",
-        "RANK": "SENIOR PROGRAMME ANALYST",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR  PRODUCTIVITY",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "668",
-        "IPPIS_NO": "110416",
-        "FULL_NAME": "AKOZOR NKOYENUM",
-        "RANK": "SENIOR PROGRAMME ANALYST",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ICT",
-        "REMARK": "On Request",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "669",
-        "IPPIS_NO": "351019",
-        "FULL_NAME": "UCHENNA CHINEDU PASCHAL",
-        "RANK": "SENIOR PROGRAMME ANALYST",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "MIN OF COMMUNICATION TECHNOLOGY",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "670",
-        "IPPIS_NO": "16645",
-        "FULL_NAME": "SADIQ ABDULLAHI ABUBAKAR",
-        "RANK": "PRINCIPAL STORE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
-    },
-    {
-        "SNO": "671",
-        "IPPIS_NO": "66087",
-        "FULL_NAME": "EZENWA CHIMEZIE",
-        "RANK": "PRINCIPAL PROGRAMME IIOFFICER",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ICT",
-        "REMARK": "On Request",
-        "CADRE": "PROGRAMME OFFICER"
-    },
-    {
-        "SNO": "672",
-        "IPPIS_NO": "59922",
-        "FULL_NAME": "JANET  ADEYEMI ONAYIMI",
-        "RANK": "PRINCIPAL PROGRAMME OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
-    },
-    {
-        "SNO": "673",
-        "IPPIS_NO": "170389",
-        "FULL_NAME": "AYORINDE AYEDERO BABS",
-        "RANK": "PRINCIPAL PROGRAMME OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
-    },
-    {
-        "SNO": "674",
-        "IPPIS_NO": "66085",
-        "FULL_NAME": "GIREI  BELLO ABBA",
-        "RANK": "PRINCIPAL PROGRAMME OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
-    },
-    {
-        "SNO": "675",
-        "IPPIS_NO": "251130",
-        "FULL_NAME": "OLAJIDE ADEBAYO ADEBUKOLA",
-        "RANK": "SENIOR COMPUTER ENGINEER",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH AND SPORT DEVELOPMENT",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "COMPUTER ENGINEER"
-    },
-    {
-        "SNO": "676",
-        "IPPIS_NO": "444118",
-        "FULL_NAME": "ADEWALE OBAFEMI OLUWASEUN",
-        "RANK": "SENIOR COMPUTER ENGINEER",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
-        "REMARK": "On Request",
-        "CADRE": "COMPUTER ENGINEER"
-    },
-    {
-        "SNO": "677",
-        "IPPIS_NO": "327513",
-        "FULL_NAME": "IBUKUNOLUWA WUSHISHI ADAMU",
-        "RANK": "SENIOR SCIENTIFIC OFFICER",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION (EFO)",
-        "DEPARTMENT": "SOIL EROSION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "SCIENTIFIC OFFICER"
-    },
-    {
-        "SNO": "678",
-        "IPPIS_NO": "194700",
-        "FULL_NAME": "IDOKO JOSEPH",
-        "RANK": "PRINCIPAL STOCK VERIFIER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "MIN OF COMMUNICATION TECHNOLOGY",
-        "PRESENT_MDA": "MINISTRY OF FOREIGN AFFAIRS",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "679",
-        "IPPIS_NO": "371392",
-        "FULL_NAME": "BUKKY OYEWOLE RAMAT",
-        "RANK": "PRINCIPAL STOCK VERIFIER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "680",
-        "IPPIS_NO": "309835",
-        "FULL_NAME": "CHINENYE AHURUEZENMA CHRISTIANA",
-        "RANK": "PRINCIPAL STOCK VERIFIER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "681",
-        "IPPIS_NO": "95622",
-        "FULL_NAME": "EBANEHITA OZINEGBE CLARA",
-        "RANK": "PRINCIPAL STOCK VERIFIER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF JUSTICE",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "682",
-        "IPPIS_NO": "427135",
-        "FULL_NAME": "EKENE ERHABOR PRESLEY",
-        "RANK": "PRINCIPAL STOCK VERIFIER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "683",
-        "IPPIS_NO": "337276",
-        "FULL_NAME": "MOHAMMED ADAMU ISA",
-        "RANK": "PRINCIPAL STOCK VERIFIER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION & CULTURE",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "684",
-        "IPPIS_NO": "309785",
-        "FULL_NAME": "AYANTUNJI JAMES OLUSHOLA",
-        "RANK": "PRINCIPAL STOCK VERIFIER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "SD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "685",
-        "IPPIS_NO": "322856",
-        "FULL_NAME": "WURANJIYA MUSA SIMON",
-        "RANK": "PRINCIPAL STOCK VERIFIER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRADE AND INVESTMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "SD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "686",
-        "IPPIS_NO": "153476",
-        "FULL_NAME": "DAVID ABENA OCHE",
-        "RANK": "PRINCIPAL STATISTICAL OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "PRS (R&S)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STATISTICAL OFFICER"
-    },
-    {
-        "SNO": "687",
-        "IPPIS_NO": "348852",
-        "FULL_NAME": "GARKO HARUNA AMINU",
-        "RANK": "SENIOR STOCK VERIFIER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "688",
-        "IPPIS_NO": "404537",
-        "FULL_NAME": "ANYA IFEYINWA",
-        "RANK": "SENIOR STOCK VERIFIER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "SD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "689",
-        "IPPIS_NO": "329407",
-        "FULL_NAME": "CHRISTIATUS EZE OBINNA",
-        "RANK": "SENIOR STOCK VERIFIER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "SD",
-        "REMARK": "On Request",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "690",
-        "IPPIS_NO": "383697",
-        "FULL_NAME": "TIMOTHY FRANSISCA",
-        "RANK": "SENIOR STOCK VERIFIER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "SD",
-        "REMARK": "On Request",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "691",
-        "IPPIS_NO": "456018",
-        "FULL_NAME": "FEMI OJO SAMUEL",
-        "RANK": "SENIOR STOCK VERIFIER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION (EFO)",
-        "DEPARTMENT": "STORE",
-        "REMARK": "On Request",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "692",
-        "IPPIS_NO": "222985",
-        "FULL_NAME": "UMAR FARUK MUHAMMED",
-        "RANK": "SENIOR PROGRAMME ANALYST",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MIN OF LANDS HOUSING AND URBAN DEV",
-        "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
-        "DEPARTMENT": "IPPIS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "693",
-        "IPPIS_NO": "358705",
-        "FULL_NAME": "TEMITOPE SOWEMIMO TAIWO",
-        "RANK": "SENIOR PROGRAMME ANALYST",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "MIN OF COMMUNICATION TECHNOLOGY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "694",
-        "IPPIS_NO": "161725",
-        "FULL_NAME": "ALABA EMUREN SPLENDOUR",
-        "RANK": "SENIOR PROGRAMME ANALYST",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "695",
-        "IPPIS_NO": "353324",
-        "FULL_NAME": "REGINALD CHILAKA CHIJIOKE",
-        "RANK": "SENIOR PROGRAMME ANALYST",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "696",
-        "IPPIS_NO": "291640",
-        "FULL_NAME": "EMMANUEL EKANEM UDUAKOBONG",
-        "RANK": "PROGRAMME ANALYST I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
-        "REMARK": "On Request",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "697",
-        "IPPIS_NO": "196190",
-        "FULL_NAME": "ALEWA EZEKIEL DOLLE",
-        "RANK": "PROGRAMME ANALYST I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ICT",
-        "REMARK": "On Request",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "698",
-        "IPPIS_NO": "60027",
-        "FULL_NAME": "HOPE  OKPARA IJEOMA",
-        "RANK": "SENIOR PROGRAMME OFFICER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
-    },
-    {
-        "SNO": "699",
-        "IPPIS_NO": "99547",
-        "FULL_NAME": "DANIEL DAVID",
-        "RANK": "SENIOR STORE OFFICER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "PRESENT_MDA": "NIGERIAN SECURITIES AND CIVIL DEFENCE CORPS",
-        "DEPARTMENT": "CENTRAL STORE",
-        "REMARK": "On Request",
-        "CADRE": "STORE OFFICER"
-    },
-    {
-        "SNO": "700",
-        "IPPIS_NO": "70537",
-        "FULL_NAME": "TAMBURA  SANI USMAN",
-        "RANK": "SENIOR STORE OFFICER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
-    },
-    {
-        "SNO": "701",
-        "IPPIS_NO": "229457",
-        "FULL_NAME": "IYE ODUSOLASTEVENSON JUSTINA",
-        "RANK": "STATISTICIAN I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SPSO)",
-        "DEPARTMENT": "ODD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STATISTITIAN"
-    },
-    {
-        "SNO": "702",
-        "IPPIS_NO": "291758",
-        "FULL_NAME": "ENIKANOLAIYE MOSHOOD",
-        "RANK": "HIGHER STOCK VERIFIER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "703",
-        "IPPIS_NO": "444110",
-        "FULL_NAME": "ABDULSALAM JAMILA",
-        "RANK": "PROGRAMME ANALYST II",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
-        "DEPARTMENT": "SID",
-        "REMARK": "On Request",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "704",
-        "IPPIS_NO": "153999",
-        "FULL_NAME": "SAMUEL  ITODO SOLOMON",
-        "RANK": "PROGRAMME OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "NEW PARTNERSHIP FOR AFRICAS DEVELOPMENT NEPAD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH AND SPORT DEVELOPMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
-    },
-    {
-        "SNO": "705",
-        "IPPIS_NO": "45114",
-        "FULL_NAME": "IME  EDEMEKA DORCAS",
-        "RANK": "PROGRAMME OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
-    },
-    {
-        "SNO": "706",
-        "IPPIS_NO": "160726",
-        "FULL_NAME": "LIGHT EMMANUEL",
-        "RANK": "PROGRAMME OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
-    },
-    {
-        "SNO": "707",
-        "IPPIS_NO": "375100",
-        "FULL_NAME": "CAROLINE FATUROTI TITILAYO",
-        "RANK": "PROGRAMME OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "MIN OF COMMUNICATION TECHNOLOGY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF COMMUNICATION AND DIGITAL ECONOMY",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
-    },
-    {
-        "SNO": "708",
-        "IPPIS_NO": "88929",
-        "FULL_NAME": "MARVELLOUS  EDIBO MONDAY",
-        "RANK": "HIGHER STORE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
-    },
-    {
-        "SNO": "709",
-        "IPPIS_NO": "45159",
-        "FULL_NAME": "KALU ROSELINE",
-        "RANK": "HIGHER STORE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FTC OHANSO",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
-    },
-    {
-        "SNO": "710",
-        "IPPIS_NO": "61521",
-        "FULL_NAME": "CHRISTINA  UMORU JUMMAT",
-        "RANK": "PROGRAMME OFFICER II",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
-    },
-    {
-        "SNO": "711",
-        "IPPIS_NO": "223371",
-        "FULL_NAME": "ABIDEMI AYANDA SOFIYAT",
-        "RANK": "PROGRAMME OFFICER II",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR  PRODUCTIVITY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
-    },
-    {
-        "SNO": "712",
-        "IPPIS_NO": "44551",
-        "FULL_NAME": "AKUJIOBI MGBECHIKWERE",
-        "RANK": "STORE OFFICER",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "FGGC UMUAHIA",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
-    },
-    {
-        "SNO": "713",
-        "IPPIS_NO": "99505",
-        "FULL_NAME": "HAMIDU ADO",
-        "RANK": "STORE OFFICER",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "PRESENT_MDA": "NIGERIAN SECURITIES AND CIVIL DEFENCE CORPS",
-        "DEPARTMENT": "CENTRAL STORES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
-    },
-    {
-        "SNO": "714",
-        "IPPIS_NO": "44708",
-        "FULL_NAME": "ISTIFANUS  PWASPO HADASSAH",
-        "RANK": "CHIEF EXECUTIVE OFFICE",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "715",
-        "IPPIS_NO": "84764",
-        "FULL_NAME": "ALBERT  ESSIEN ANTHONY",
-        "RANK": "CHIEF EXECUTIVE OFFICE",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "716",
-        "IPPIS_NO": "52911",
-        "FULL_NAME": "ANTHONY  ZITTA ESTHER",
-        "RANK": "CHIEF EXECUTIVE OFFICE",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
-        "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
-        "REMARK": "On Request",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "717",
-        "IPPIS_NO": "24813",
-        "FULL_NAME": "FRIDAY OKENWA PETER",
-        "RANK": "CHIEF EXECUTIVE OFFICE",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
-        "REMARK": "On Request",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "718",
-        "IPPIS_NO": "80907",
-        "FULL_NAME": "OLUMIDE  RAJI TAJUDEEN",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "719",
-        "IPPIS_NO": "64064",
-        "FULL_NAME": "REMILEKUN  NWODO REBECCA",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "720",
-        "IPPIS_NO": "59041",
-        "FULL_NAME": "TANKO  AINGE MARY",
-        "RANK": "CHIEF EXECUTIVE OFFICE",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "721",
-        "IPPIS_NO": "55331",
-        "FULL_NAME": "BLESSING  EBI REGINA",
-        "RANK": "CHIEF EXECUTIVE OFFICE",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "722",
-        "IPPIS_NO": "93397",
-        "FULL_NAME": "NKEMAKONAM  OGWULU GREGORY",
-        "RANK": "CHIEF EXECUTIVE OFFICE",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "723",
-        "IPPIS_NO": "85292",
-        "FULL_NAME": "LAWRENCE  ODIAKA IKECHUKWU",
-        "RANK": "CHIEF EXECUTIVE OFFICE",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
-        "DEPARTMENT": "INFRASTRUCTURE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "724",
-        "IPPIS_NO": "84791",
-        "FULL_NAME": "NNACHI  IGBO GABRIEL",
-        "RANK": "CHIEF EXECUTIVE OFFICE",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
-        "DEPARTMENT": "L&D",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "725",
-        "IPPIS_NO": "64066",
-        "FULL_NAME": "OGOCHUKWU AKOR CAROLINE",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SPSO)",
-        "DEPARTMENT": "ODD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "726",
-        "IPPIS_NO": "53286",
-        "FULL_NAME": "TITILAYO  EDOPAI IGE",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "727",
-        "IPPIS_NO": "56977",
-        "FULL_NAME": "GYANG VICTORIA",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "728",
-        "IPPIS_NO": "76758",
-        "FULL_NAME": "ILIYA  SEKYU ISHAKU",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "729",
-        "IPPIS_NO": "93396",
-        "FULL_NAME": "GIMBA  GUGA DOW",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "730",
-        "IPPIS_NO": "66684",
-        "FULL_NAME": "BISHOP JACOB ITODO UROKO",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "731",
-        "IPPIS_NO": "76583",
-        "FULL_NAME": "MAINU  GAMBO IBRAHIM",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
-        "DEPARTMENT": "IPPIS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "732",
-        "IPPIS_NO": "74333",
-        "FULL_NAME": "OKEFIE  ONWE JACOB",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "733",
-        "IPPIS_NO": "86586",
-        "FULL_NAME": "IFEANYICHUKWU  EKWEBELEM EBENEZER",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "734",
-        "IPPIS_NO": "86594",
-        "FULL_NAME": "GODWIN  AVOH ANTHONY",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "735",
-        "IPPIS_NO": "59842",
-        "FULL_NAME": "ADEBISI  OSENI KHADIJAT",
-        "RANK": "CHIEF EXECUTIVE OFFICEGD",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "736",
-        "IPPIS_NO": "45109",
-        "FULL_NAME": "AFUSAT  SALAMI MOJIRAYO",
-        "RANK": "CHIEF EXECUTIVE OFFICEGD",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "BUREAU OF PUBLIC SERVICE REFORMS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "737",
-        "IPPIS_NO": "88707",
-        "FULL_NAME": "CHUKWUEMEKA  NSAKA SAMUEL",
-        "RANK": "CHIEF EXECUTIVE OFFICEGD",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "738",
-        "IPPIS_NO": "88653",
-        "FULL_NAME": "ORVANYA  IYOH OLIVER",
-        "RANK": "CHIEF EXECUTIVE OFFICERGD",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "739",
-        "IPPIS_NO": "90714",
-        "FULL_NAME": "GANA JOSIAH JACOB",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "740",
-        "IPPIS_NO": "78856",
-        "FULL_NAME": "MAMMAN  OZIGIS ADAMS",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MIN OF LANDS HOUSING AND URBAN DEV",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "741",
-        "IPPIS_NO": "74020",
-        "FULL_NAME": "JOSEPH PETER UPAH ONYA",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "742",
-        "IPPIS_NO": "32782",
-        "FULL_NAME": "TSEGBA SIMON",
-        "RANK": "CHIEF EXECUTIVE OFFICEGD",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION & CULTURE",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "743",
-        "IPPIS_NO": "58833",
-        "FULL_NAME": "IKWUBIELLA  ABAH JANET",
-        "RANK": "CHIEF EXECUTIVE OFFICE",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "744",
-        "IPPIS_NO": "53988",
-        "FULL_NAME": "OKENE  SANNUSI BILKISU",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "745",
-        "IPPIS_NO": "77585",
-        "FULL_NAME": "MAIKANO SADA",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "746",
-        "IPPIS_NO": "66011",
-        "FULL_NAME": "OLAYEMI  FOWOSERE ABIODUN",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "747",
-        "IPPIS_NO": "88519",
-        "FULL_NAME": "OLOJEDE KOLAWOLE",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "748",
-        "IPPIS_NO": "77591",
-        "FULL_NAME": "AKINBOADE  ADEDOKUN JACOB",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "749",
-        "IPPIS_NO": "97864",
-        "FULL_NAME": "FOLASHADE  WATTI BEATRICE",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "750",
-        "IPPIS_NO": "91479",
-        "FULL_NAME": "JOSEPH  ANDREW PASCHAL",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "751",
-        "IPPIS_NO": "45080",
-        "FULL_NAME": "OLERU CORDELIA",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
-        "DEPARTMENT": "SERVICE DELIVERY",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "752",
-        "IPPIS_NO": "60723",
-        "FULL_NAME": "AYISHAT  SOLOMON RUTH",
-        "RANK": "CHIEF EXECUTIVE OFFICERACCT",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
-        "DEPARTMENT": "CIVIL SERVICE INSPECTORATE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "753",
-        "IPPIS_NO": "77592",
-        "FULL_NAME": "OSUOHA REGINALD",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
-        "DEPARTMENT": "SERVICE DELIVERY",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "754",
-        "IPPIS_NO": "54013",
-        "FULL_NAME": "JULIE  DESH JAN KATMA",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "755",
-        "IPPIS_NO": "84694",
-        "FULL_NAME": "SAMPSON  IBRAHIM EMMANUEL",
-        "RANK": "CHIEF EXECUTIVE OFFICERGD",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "756",
-        "IPPIS_NO": "88688",
-        "FULL_NAME": "OYINEBI  IBRAHIM DAVID",
-        "RANK": "CHIEF EXECUTIVE OFFICERGD",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "757",
-        "IPPIS_NO": "66000",
-        "FULL_NAME": "ABDULKARIM ALI",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "758",
-        "IPPIS_NO": "76051",
-        "FULL_NAME": "EMMANUEL  ADEJOH MOHAMMED",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "BUDGET & NATIONAL PLANNING (HRM)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "759",
-        "IPPIS_NO": "14763",
-        "FULL_NAME": "OKON EDET SUNDAY",
-        "RANK": "CHIEF EXECUTIVE OFFICERGD",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "STATE HOUSE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "761",
-        "IPPIS_NO": "94224",
-        "FULL_NAME": "IGWE  NWOKE LAZARUS",
-        "RANK": "EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
-        "DEPARTMENT": "HRM (STAFF WELFARE)",
-        "REMARK": "To Vice  (AFOWOWE S.O)  ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "762",
-        "IPPIS_NO": "26634",
-        "FULL_NAME": "BASSEY AMIMI CHARLES",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "SPECIAL DUTIES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "763",
-        "IPPIS_NO": "49892",
-        "FULL_NAME": "CHINYERE  DURUJI MARGARET",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "BUDGET & NATIONAL PLANNING (HRM)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "764",
-        "IPPIS_NO": "24067",
-        "FULL_NAME": "OLUWAGBENGA AKANO TIMOTHY",
-        "RANK": "CHIEF EXECUTIVE OFFICEGD",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "STATE HOUSE",
-        "PRESENT_MDA": "STATE HOUSE",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "765",
-        "IPPIS_NO": "60634",
-        "FULL_NAME": "AKANNI YEWANDE",
-        "RANK": "CHIEF EXECUTIVE OFFICEGD",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "766",
-        "IPPIS_NO": "99102",
-        "FULL_NAME": "AJANIGO SANI YUSUF FATIMA",
-        "RANK": "CHIEF ADMINISTRATIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MIN OF LANDS HOUSING AND URBAN DEV",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "767",
-        "IPPIS_NO": "27852",
-        "FULL_NAME": "NGOZI NGEREM STELLA",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "DEPARTMENT": "PRS (BUDGET & NATIONAL COORDINATION)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "768",
-        "IPPIS_NO": "88364",
-        "FULL_NAME": "ISHAQ IBRAHIM",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
-        "DEPARTMENT": "L&D",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "769",
-        "IPPIS_NO": "80745",
-        "FULL_NAME": "OLADIPUPO  EROPHILLIPS E",
-        "RANK": "CHIEF ADMINISTRATIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "DEPARTMENT": "HRM (STAFF WELFARE)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "770",
-        "IPPIS_NO": "93726",
-        "FULL_NAME": "EFFANGA  OKON OKON",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF CULTURE TOURISM  NATIONAL ORIENTATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
-        "DEPARTMENT": "WORKS SECTOR (TRAINING)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "771",
-        "IPPIS_NO": "74225",
-        "FULL_NAME": "ABDULLAHI  USMAN JAAFARU",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS",
-        "PRESENT_MDA": "POLICE SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "772",
-        "IPPIS_NO": "80767",
-        "FULL_NAME": "HUSSAINI RILWANU",
-        "RANK": "CHIEF EXECUTIVE OFFICER ACEO",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
-        "DEPARTMENT": "SPU",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "773",
-        "IPPIS_NO": "899",
-        "FULL_NAME": "ENOGHA NGUN BERNARD",
-        "RANK": "CHIEF EXECUTIVE",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "NATIONAL SPORTS COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
-        "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "774",
-        "IPPIS_NO": "234627",
-        "FULL_NAME": "KENNY ADETIPE OLUFEMI",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "DEPARTMENT": "P&P",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "775",
-        "IPPIS_NO": "59102",
-        "FULL_NAME": "SAMSON AILIN",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "776",
-        "IPPIS_NO": "91893",
-        "FULL_NAME": "OLAWUYI KOLAWOLE",
-        "RANK": "CHIEF EXECUTIVE OFFICE",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
-        "DEPARTMENT": "PRS (MONITORING)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "777",
-        "IPPIS_NO": "77686",
-        "FULL_NAME": "FAGO  ADO ALIYU",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FGGC MONGUNO",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "778",
-        "IPPIS_NO": "74174",
-        "FULL_NAME": "IKPAIKPA  BRAIMAH PHILIP",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "779",
-        "IPPIS_NO": "153156",
-        "FULL_NAME": "ALIYU SHAWAI ABDULLAHI",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "780",
-        "IPPIS_NO": "95908",
-        "FULL_NAME": "OKECHUKWU M ONYEMAOBI SEBASTIAN",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "DEPARTMENT": "POLICE TRUST FUND",
-        "REMARK": "On Request",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "781",
-        "IPPIS_NO": "80906",
-        "FULL_NAME": "ATANDA  ADISA AKEEM",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION & CULTURE",
-        "DEPARTMENT": "AV",
-        "REMARK": "On Request",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "782",
-        "IPPIS_NO": "90831",
-        "FULL_NAME": "USMAN  YAKURA MUSA",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "783",
-        "IPPIS_NO": "59890",
-        "FULL_NAME": "EFELOMON  OVBIAGELE AINA",
-        "RANK": "CHIEF EXECUTIVE OFFICE",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "784",
-        "IPPIS_NO": "88502",
-        "FULL_NAME": "IDOWU  OLUKAIYE JOSEPH",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "HOME FINANCE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "785",
-        "IPPIS_NO": "63614",
-        "FULL_NAME": "AGIDA  ABU ASHINA",
-        "RANK": "ASSISTANT EXECUTIVE OFFICER GD",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "786",
-        "IPPIS_NO": "91383",
-        "FULL_NAME": "EMMANUEL AKYUKU JOSHUA",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "787",
-        "IPPIS_NO": "74235",
-        "FULL_NAME": "OSEREME  OKPOBO EMMANUEL",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "788",
-        "IPPIS_NO": "51634",
-        "FULL_NAME": "COMFORT  OMOGHA EREZI",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "789",
-        "IPPIS_NO": "85196",
-        "FULL_NAME": "BINHONG  DOMSHAL NANJIP",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICERGD",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "790",
-        "IPPIS_NO": "60717",
-        "FULL_NAME": "CECILIA  AKUDU NKECHINYERE",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "791",
-        "IPPIS_NO": "88695",
-        "FULL_NAME": "GANIYU  AJAO OYEWOLE",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "792",
-        "IPPIS_NO": "66083",
-        "FULL_NAME": "AJUZIE DANIEL",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "793",
-        "IPPIS_NO": "88188",
-        "FULL_NAME": "KARSHI  ADAMU MOHAMMED",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "794",
-        "IPPIS_NO": "61620",
-        "FULL_NAME": "AKRI  USHOGA MARGRET",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
-        "DEPARTMENT": "FORMER HEADS OF STATE AFFAIRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "795",
-        "IPPIS_NO": "69509",
-        "FULL_NAME": "GIREI  KAWU MOHAMMED",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "796",
-        "IPPIS_NO": "47181",
-        "FULL_NAME": "MERCY  ADEJOH OJOMA",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (PEAO)",
-        "DEPARTMENT": "PRACM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "797",
-        "IPPIS_NO": "59460",
-        "FULL_NAME": "ONYIN SIMON ONOJA SALOME",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
-        "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "798",
-        "IPPIS_NO": "63627",
-        "FULL_NAME": "ERIC  AHARANWA MERCY",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "BUDGET",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "799",
-        "IPPIS_NO": "73447",
-        "FULL_NAME": "MICHAEL  UKPEH EMEM",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "800",
-        "IPPIS_NO": "26295",
-        "FULL_NAME": "GODWIN AVOH FABIAN",
-        "RANK": "ASSISTANT CHIEF ADMIN OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "801",
-        "IPPIS_NO": "63684",
-        "FULL_NAME": "ABDULLAHI HAJARA",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
-        "REMARK": "On Request",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "802",
-        "IPPIS_NO": "24196",
-        "FULL_NAME": "BEANAFE  IKAGBA HUDSON",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "DEPARTMENT": "PRESIDENTIAL AMNESTY PROGRAMME",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "803",
-        "IPPIS_NO": "94202",
-        "FULL_NAME": "NNAMDI  OKWUEDOE CHARLES",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF JUSTICE",
-        "DEPARTMENT": "HRM (PROMOTION)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "804",
-        "IPPIS_NO": "88517",
-        "FULL_NAME": "YAHAYA  BAWA IBRAHIM",
-        "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER CADRE",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "DEPARTMENT": "HRM (PROMOTION)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE OFFICER"
-    },
-    {
-        "SNO": "805",
-        "IPPIS_NO": "86553",
-        "FULL_NAME": "EMMANUEL  AFELIOKHAI OSEBUME",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "NATIONAL SPORTS COMMISSION",
-        "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
-        "DEPARTMENT": "IPPIS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "806",
-        "IPPIS_NO": "59090",
-        "FULL_NAME": "KELLU  TALHA HAJJA",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "807",
-        "IPPIS_NO": "59696",
-        "FULL_NAME": "OLAWUMI ODUKOYA MOJISOLA",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "808",
-        "IPPIS_NO": "60599",
-        "FULL_NAME": "OLAIYA  OGUNMOROTI EMILY",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "809",
-        "IPPIS_NO": "62523",
-        "FULL_NAME": "SUNDAY  DOMINIC MARY",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER ACEO",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "810",
-        "IPPIS_NO": "76751",
-        "FULL_NAME": "AMANZE  KAMALU LEONARD",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
-        "DEPARTMENT": "EMD (POD)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "811",
-        "IPPIS_NO": "76575",
-        "FULL_NAME": "ALHAJI ZANNA MADANI",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER ACEO",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "812",
-        "IPPIS_NO": "45473",
-        "FULL_NAME": "KUBURAT KOPADA KHADIJAH",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER ACEO",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "813",
-        "IPPIS_NO": "53282",
-        "FULL_NAME": "WILLIAMS LIATU",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "814",
-        "IPPIS_NO": "53480",
-        "FULL_NAME": "OLUWAKOREAYOMIDE  BORONLE MARIA",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
-        "DEPARTMENT": "INFRASTRUCTURE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "815",
-        "IPPIS_NO": "57411",
-        "FULL_NAME": "BOLANLE  OSOKO OLUBUNMI",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MIN OF LANDS HOUSING AND URBAN DEV",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "816",
-        "IPPIS_NO": "89600",
-        "FULL_NAME": "ADEMOLA  OLUWOLE AYODEJI",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "817",
-        "IPPIS_NO": "61142",
-        "FULL_NAME": "CHINWE  CHIJIOKE CHARITY",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "818",
-        "IPPIS_NO": "23691",
-        "FULL_NAME": "FATAIH AJIBADE ADETOYESE",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "DEPARTMENT": "PLANNING",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "819",
-        "IPPIS_NO": "157011",
-        "FULL_NAME": "ADEKUNLE ABASS OLUSEGUN",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
-        "DEPARTMENT": "FORMER HEADS OF STATE AFFAIRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "820",
-        "IPPIS_NO": "89388",
-        "FULL_NAME": "TERTSEGHA  HUMBE MOSES",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "ERPM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "821",
-        "IPPIS_NO": "60728",
-        "FULL_NAME": "CHINYERE  IKONNE HELEN",
-        "RANK": "ASST CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "822",
-        "IPPIS_NO": "88534",
-        "FULL_NAME": "EDET  EYO ITA",
-        "RANK": "ASST CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH AND SPORT DEVELOPMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "823",
-        "IPPIS_NO": "61200",
-        "FULL_NAME": "ENEH  AGBOR AGNES",
-        "RANK": "SENIOR PROGRAMME ANALYST",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION (EFO)",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "824",
-        "IPPIS_NO": "72043",
-        "FULL_NAME": "AREMU  ADISA ADEBAYO",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "825",
-        "IPPIS_NO": "77597",
-        "FULL_NAME": "EDWARD  IGBINOSA OWIE",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "826",
-        "IPPIS_NO": "5402",
-        "FULL_NAME": "CYRIL IHEMERE CHUKWUNYERE",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "827",
-        "IPPIS_NO": "93419",
-        "FULL_NAME": "OKERE  UDOH ETIM",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTERGOVERNMENTAL AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "828",
-        "IPPIS_NO": "77547",
-        "FULL_NAME": "VERSILA  SILAS HARUNA",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "DEPARTMENT": "BUDGET",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "829",
-        "IPPIS_NO": "161447",
-        "FULL_NAME": "NNAI DIDAM  ROSEMARY",
-        "RANK": "SENIOR ADMINISTRATIVE OFFICER",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
-        "DEPARTMENT": "IPPIS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE OFFICER"
-    },
-    {
-        "SNO": "830",
-        "IPPIS_NO": "47186",
-        "FULL_NAME": "SULEIMAN JATAU AISHA",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "DEPARTMENT": "BUDGET",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "831",
-        "IPPIS_NO": "58322",
-        "FULL_NAME": "FRANCA  MOKO OFUNU",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER ACCTS",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "832",
-        "IPPIS_NO": "2024",
-        "FULL_NAME": "OYERINADE SHITTU EMILY",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "PRESENT_MDA": "PUBLIC SERVICE INSTITUTE OF NIGERIA",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "833",
-        "IPPIS_NO": "76937",
-        "FULL_NAME": "ABDULKADIR AHMED",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "HMSPR (REGISTRY)",
-        "REMARK": "On Request",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "834",
-        "IPPIS_NO": "16791",
-        "FULL_NAME": "UWONYIN AGBA MONICA",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "835",
-        "IPPIS_NO": "153817",
-        "FULL_NAME": "DAYO BABAYEMI EMMANUEL",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "NEW PARTNERSHIP FOR AFRICAS DEVELOPMENT NEPAD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "836",
-        "IPPIS_NO": "3627",
-        "FULL_NAME": "JOE ISEFIEMA LUCY",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRADE AND INVESTMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "837",
-        "IPPIS_NO": "11086",
-        "FULL_NAME": "AISEGAMHE ALIU",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "NATIONAL SPORTS COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "838",
-        "IPPIS_NO": "53293",
-        "FULL_NAME": "MAKUT LAMI",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SWO)",
-        "DEPARTMENT": "OHSE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "839",
-        "IPPIS_NO": "93579",
-        "FULL_NAME": "SHEHU  USMAN RIWAN",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SWO)",
-        "DEPARTMENT": "OHSE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "840",
-        "IPPIS_NO": "167887",
-        "FULL_NAME": "OLAWUWO TAIYE",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "841",
-        "IPPIS_NO": "53333",
-        "FULL_NAME": "AFULUCHI  OKEKE MARY",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "842",
-        "IPPIS_NO": "91686",
-        "FULL_NAME": "AHMED BABAGANA",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "843",
-        "IPPIS_NO": "84695",
-        "FULL_NAME": "DABO ABUBAKAR",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH AND SPORT DEVELOPMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "844",
-        "IPPIS_NO": "45298",
-        "FULL_NAME": "OLABISI  OSUNMAKINWA GLORY",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "845",
-        "IPPIS_NO": "84770",
-        "FULL_NAME": "YAYO  DANTSOHO MUTTAKA",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "846",
-        "IPPIS_NO": "84338",
-        "FULL_NAME": "GAMBO DAHIRU",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "847",
-        "IPPIS_NO": "76607",
-        "FULL_NAME": "TOLANI  MOHAMMED SURAJU",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "848",
-        "IPPIS_NO": "100053",
-        "FULL_NAME": "AFOR MBILAKALU MARY",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
-        "DEPARTMENT": "HOUSING SECTOR (PRS)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "849",
-        "IPPIS_NO": "59497",
-        "FULL_NAME": "EWUM  ADUBASIM FELICIA",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "850",
-        "IPPIS_NO": "86668",
-        "FULL_NAME": "ANAKO  ONWUBUYA POLYCARP",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "851",
-        "IPPIS_NO": "81071",
-        "FULL_NAME": "SANI  ALI USMAN",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF JUSTICE",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "852",
-        "IPPIS_NO": "51586",
-        "FULL_NAME": "ADELEYE ROSEMARY",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "853",
-        "IPPIS_NO": "89163",
-        "FULL_NAME": "CHUKWUKA  IDABOR MICHEAL",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "854",
-        "IPPIS_NO": "88425",
-        "FULL_NAME": "BENJAMIN  AGBO OWOICHO",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH AND SPORT DEVELOPMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "855",
-        "IPPIS_NO": "327813",
-        "FULL_NAME": "TITILOPE KOLAWOLE ADEBOLA",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "856",
-        "IPPIS_NO": "81875",
-        "FULL_NAME": "MOHAMMED  DAKOT HARUNA",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "DEPARTMENT": "BME",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "857",
-        "IPPIS_NO": "60774",
-        "FULL_NAME": "JULIET  JACOBS BALANLE",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "PRS (M&E)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "858",
-        "IPPIS_NO": "49001",
-        "FULL_NAME": "ASUQUO  JIMMY MARY",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FTC UYO",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "859",
-        "IPPIS_NO": "327515",
-        "FULL_NAME": "CHRISTIANA AWE MOJISOLA",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "860",
-        "IPPIS_NO": "26180",
-        "FULL_NAME": "OLALEKAN ADIGUN",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "OFFICE OF THE SENIOR SPECIAL ASSISTANT TO THE PRESIDENT ON SUSTAINABLE DEVELOPMENT GOALS",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "861",
-        "IPPIS_NO": "84786",
-        "FULL_NAME": "UWADIEGWU  OBICHIE MACDONALD",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH DEVELOPMENT",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SWO)",
-        "DEPARTMENT": "OHSE/RECREATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "862",
-        "IPPIS_NO": "76720",
-        "FULL_NAME": "BITRUS  DAMAK SAMUEL",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
-        "DEPARTMENT": "EMD (ECM)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "863",
-        "IPPIS_NO": "76576",
-        "FULL_NAME": "DATSU ISHAKU",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "864",
-        "IPPIS_NO": "66446",
-        "FULL_NAME": "EJEKELA EMMANUEL",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "865",
-        "IPPIS_NO": "66571",
-        "FULL_NAME": "MOBOLUWAJI  OTUNNI VINCENT",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "866",
-        "IPPIS_NO": "63689",
-        "FULL_NAME": "OMOYENI  SAMAGBEYI SOLA",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH AND SPORT DEVELOPMENT",
-        "DEPARTMENT": "BUDGET",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "867",
-        "IPPIS_NO": "63626",
-        "FULL_NAME": "YINKA KAREEM FLORENCE",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "DEPARTMENT": "BUDGET",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "868",
-        "IPPIS_NO": "74605",
-        "FULL_NAME": "NWAEHIBE GABRIEL",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "DEPARTMENT": "BUDGET",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "869",
-        "IPPIS_NO": "88524",
-        "FULL_NAME": "E  EKEA CHRIS",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "870",
-        "IPPIS_NO": "60645",
-        "FULL_NAME": "ANIKE PATRICIA ONONYE N",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "871",
-        "IPPIS_NO": "77476",
-        "FULL_NAME": "OMALE MONDAY",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "872",
-        "IPPIS_NO": "75408",
-        "FULL_NAME": "SALAU YAKUBU",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
-        "DEPARTMENT": "BUDGET",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "873",
-        "IPPIS_NO": "4894",
-        "FULL_NAME": "OGBONNA UGORJI GODFREY",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "874",
-        "IPPIS_NO": "77036",
-        "FULL_NAME": "ALIU  AKINTOYE ADEBAYO",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "DEPARTMENT": "PROCUREMENT",
-        "REMARK": "On Request",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "875",
-        "IPPIS_NO": "99360",
-        "FULL_NAME": "NICHOLAS UJAH SUNDAY",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "876",
-        "IPPIS_NO": "26637",
-        "FULL_NAME": "NWADIUTO EKENYERE MARY",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "877",
-        "IPPIS_NO": "89139",
-        "FULL_NAME": "NUHU MOHAMMED",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
-        "DEPARTMENT": "NATIONAL RECORDS CENTRE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "878",
-        "IPPIS_NO": "88457",
-        "FULL_NAME": "STPHEN I EKWO CHINEDU",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "879",
-        "IPPIS_NO": "155652",
-        "FULL_NAME": "ABBAS ADAMU",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "NEW PARTNERSHIP FOR AFRICAS DEVELOPMENT NEPAD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "880",
-        "IPPIS_NO": "60925",
-        "FULL_NAME": "OLUYOSOLA  ABIMBADE OLUFUNKE",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "DEPARTMENT": "C&B (REG)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "881",
-        "IPPIS_NO": "86534",
-        "FULL_NAME": "ADEWALE  BALOGUN LATIFU",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF JUSTICE",
-        "DEPARTMENT": "",
-        "REMARK": "To Vice  (IMABONG I.S)  ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "882",
-        "IPPIS_NO": "86637",
-        "FULL_NAME": "BAYODE  AMONI STANLEY",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "883",
-        "IPPIS_NO": "94256",
-        "FULL_NAME": "AGIOBU SOBOMABO",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "884",
-        "IPPIS_NO": "59925",
-        "FULL_NAME": "NWAILE MARY",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTERGOVERNMENTAL AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "885",
-        "IPPIS_NO": "86701",
-        "FULL_NAME": "NOAH  DAVIS SUNDAY",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "886",
-        "IPPIS_NO": "64327",
-        "FULL_NAME": "NWAMAKA  EDET BLESSING",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "887",
-        "IPPIS_NO": "18849",
-        "FULL_NAME": "ADEDOYIN AKANDE OLUWATOYIN",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "888",
-        "IPPIS_NO": "89045",
-        "FULL_NAME": "IJAJA ANDREW",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "889",
-        "IPPIS_NO": "2760",
-        "FULL_NAME": "ASAFA  TAJUDEEN",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "890",
-        "IPPIS_NO": "154164",
-        "FULL_NAME": "CHINEDU AMOBI STANLEY",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "891",
-        "IPPIS_NO": "59998",
-        "FULL_NAME": "KEMI  AKINLAJA TOLULOPE",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "892",
-        "IPPIS_NO": "49096",
-        "FULL_NAME": "USMAN HASSANA DANZOGAN",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "893",
-        "IPPIS_NO": "27790",
-        "FULL_NAME": "EMMANUEL OKIGBO NWEKE",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "OFFICE OF THE SENIOR SPECIAL ASSISTANT TO THE PRESIDENT ON SUSTAINABLE DEVELOPMENT GOALS",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "894",
-        "IPPIS_NO": "53504",
-        "FULL_NAME": "AGBO COMFORT",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "895",
-        "IPPIS_NO": "65478",
-        "FULL_NAME": "EGBERE  OGAR MIKE",
-        "RANK": "SENIOR EXECUTIVE OFFICER",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SWO)",
-        "DEPARTMENT": "OHSE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "896",
-        "IPPIS_NO": "82398",
-        "FULL_NAME": "DONALD E OBAZUAYE KAYODE",
-        "RANK": "SENIOR EXECUTIVE OFFICER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION & CULTURE",
-        "DEPARTMENT": "SD",
-        "REMARK": "On Request",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "897",
-        "IPPIS_NO": "77311",
-        "FULL_NAME": "OLUSEGUN  SHEMUDARA HENRY",
-        "RANK": "SENIOR EXECUTIVE OFFICER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "898",
-        "IPPIS_NO": "45426",
-        "FULL_NAME": "ENE  IKPEBE FELICIA",
-        "RANK": "SENIOR EXECUTIVE OFFICER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "899",
-        "IPPIS_NO": "66613",
-        "FULL_NAME": "ISIAKA  LAWAL OLAJIRE",
-        "RANK": "SENIOR EXECUTIVE OFFICER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "900",
-        "IPPIS_NO": "17828",
-        "FULL_NAME": "CHIMA UZOMA CELESTINE",
-        "RANK": "SENIOR EXECUTIVE OFFICER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "901",
-        "IPPIS_NO": "87318",
-        "FULL_NAME": "EMEKA  CHUKWU EDWIN",
-        "RANK": "SENIOR EXECUTIVE OFFICER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTERGOVERNMENTAL AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "902",
-        "IPPIS_NO": "65329",
-        "FULL_NAME": "MOHAMMED BASHIRU",
-        "RANK": "SENIOR EXECUTIVE OFFICER GD",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "On Request",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "903",
-        "IPPIS_NO": "77563",
-        "FULL_NAME": "EMMANUEL GOTOM ANTHONY",
-        "RANK": "SENIOR EXECUTIVE OFFICER GD",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION & CULTURE",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "904",
-        "IPPIS_NO": "77608",
-        "FULL_NAME": "ACHI GABRIEL",
-        "RANK": "SENIOR EXECUTIVE OFFICER GD",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "905",
-        "IPPIS_NO": "77405",
-        "FULL_NAME": "BALANG  MOHAMMED AUDU",
-        "RANK": "SENIOR EXECUTIVE OFFICERGD",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "906",
-        "IPPIS_NO": "76907",
-        "FULL_NAME": "SHAMUSIDEEN GIWA OLUSEGUN",
-        "RANK": "SENIOR EXECUTIVE OFFICER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "907",
-        "IPPIS_NO": "60833",
-        "FULL_NAME": "JUSTINA  AKINTADE BUKOLA",
-        "RANK": "SENIOR EXECUTIVE OFFICER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "908",
-        "IPPIS_NO": "77204",
-        "FULL_NAME": "NDAMAN BOKANI ADAMU ALHAJI",
-        "RANK": "SENIOR EXECUTIVE OFFICER GD",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FGC RUBBOCHI",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "909",
-        "IPPIS_NO": "56522",
-        "FULL_NAME": "CHIDINMA  ONWUEGBUCHA EMELDA",
-        "RANK": "SENIOR EXECUTIVE OFFICER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "910",
-        "IPPIS_NO": "86619",
-        "FULL_NAME": "LUKUMON  OBATOLU OLALEKAN",
-        "RANK": "SENIOR EXECUTIVE OFFICER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "911",
-        "IPPIS_NO": "86647",
-        "FULL_NAME": "ONURUKA  OGU RICHARD",
-        "RANK": "SENIOR EXECUTIVE OFFICER GD",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "912",
-        "IPPIS_NO": "59907",
-        "FULL_NAME": "CATHERINE  ROTIMI IFE",
-        "RANK": "SENIOR EXECUTIVE OFFICER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "913",
-        "IPPIS_NO": "86621",
-        "FULL_NAME": "AYOOLA  ADEFARATI SOLOMON",
-        "RANK": "SENIOR EXECUTIVE OFFICER GD",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "914",
-        "IPPIS_NO": "85319",
-        "FULL_NAME": "EWA  EKE EKE",
-        "RANK": "SENIOR EXECUTIVE OFFICER GD",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
-        "DEPARTMENT": "CSI",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "915",
-        "IPPIS_NO": "86638",
-        "FULL_NAME": "OTIWA  SUNDAY FRANCIS",
-        "RANK": "SENIOR EXECUTIVE OFFICER GD",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "916",
-        "IPPIS_NO": "60017",
-        "FULL_NAME": "BLESSING  EZIAKO NGOZIKA",
-        "RANK": "SENIOR EXECUTIVE OFFICER GD",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "917",
-        "IPPIS_NO": "60026",
-        "FULL_NAME": "AIGBEKAEN JOSEPHINE",
-        "RANK": "SENIOR EXECUTIVE OFFICER GD",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "918",
-        "IPPIS_NO": "193493",
-        "FULL_NAME": "AGAHAMA EKANENZE CHRISTOPHER",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "919",
-        "IPPIS_NO": "167797",
-        "FULL_NAME": "ABOH ONMONYA ALFRED",
-        "RANK": "SENIOR EXECUTIVE OFFICER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION & CULTURE",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "920",
-        "IPPIS_NO": "58915",
-        "FULL_NAME": "CHINEDUM  EKPO PRISCILLIA",
-        "RANK": "SENIOR EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "921",
-        "IPPIS_NO": "59499",
-        "FULL_NAME": "ISIMOT  RODRIGUES KEHINDE",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "922",
-        "IPPIS_NO": "59500",
-        "FULL_NAME": "ASIMOT  OGUNNEYE TAIWO",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "923",
-        "IPPIS_NO": "59868",
-        "FULL_NAME": "STELLA  AGBOIDE NGOZI",
-        "RANK": "HIGHER EXECUTIVE OFFICERGD",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "924",
-        "IPPIS_NO": "86536",
-        "FULL_NAME": "AUDU MUSA EJIKA",
-        "RANK": "HIGHER EXECUTIVE OFFICERGD",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "925",
-        "IPPIS_NO": "59486",
-        "FULL_NAME": "MERCY  OSIKWEME ORHANI",
-        "RANK": "HIGHER EXECUTIVE OFFICERGD",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
-        "DEPARTMENT": "CSI",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "926",
-        "IPPIS_NO": "59909",
-        "FULL_NAME": "AJAYI MORADEKE",
-        "RANK": "HIGHER EXECUTIVE OFFICERGD",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
-        "DEPARTMENT": "INFRSTRUCTURE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "927",
-        "IPPIS_NO": "94235",
-        "FULL_NAME": "ROTIMI RAPHAEL ADESOKAN WALE",
-        "RANK": "HIGHER EXECUTIVE OFFICERGD",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "928",
-        "IPPIS_NO": "94243",
-        "FULL_NAME": "NDEM  ANWAKANG ETIM",
-        "RANK": "HIGHER EXECUTIVE OFFICERGD",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "929",
-        "IPPIS_NO": "86703",
-        "FULL_NAME": "MICHEAL  OJUKWU MMAJU",
-        "RANK": "HIGHER EXECUTIVE OFFICERGD",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "930",
-        "IPPIS_NO": "88910",
-        "FULL_NAME": "AJENGE OMADACHI",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "931",
-        "IPPIS_NO": "88980",
-        "FULL_NAME": "BATURE PETER",
-        "RANK": "HIGHER EXECUTIVE OFFICERGD",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "932",
-        "IPPIS_NO": "91889",
-        "FULL_NAME": "MOBOLUWADURO  ALIU MOHAMMED",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SPSO)",
-        "DEPARTMENT": "LMSP",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "933",
-        "IPPIS_NO": "86725",
-        "FULL_NAME": "EMMANUEL  YOHANNA KANITOK",
-        "RANK": "HIGHER EXECUTIVE OFFICERGD",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "934",
-        "IPPIS_NO": "64335",
-        "FULL_NAME": "ADEWUMI ADEYANJU YEMISI",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "935",
-        "IPPIS_NO": "60033",
-        "FULL_NAME": "OKON  EDEM ARIT",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "936",
-        "IPPIS_NO": "86712",
-        "FULL_NAME": "UCHE AUGUSTINE",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "937",
-        "IPPIS_NO": "86728",
-        "FULL_NAME": "TOSIN  BABALOLA SAMSON",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "POLICE SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "938",
-        "IPPIS_NO": "94546",
-        "FULL_NAME": "OHADIUGHA KELECHI",
-        "RANK": "HIGHER EXECUTIVE OFFICERGD",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "BUREAU OF PUBLIC SERVICE REFORMS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "939",
-        "IPPIS_NO": "91597",
-        "FULL_NAME": "AHMAD ABDULRAHAMAN",
-        "RANK": "HIGHER EXECUTIVE OFFICERGD",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "940",
-        "IPPIS_NO": "64343",
-        "FULL_NAME": "MOMODU MAUREEN",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "941",
-        "IPPIS_NO": "88912",
-        "FULL_NAME": "DALYOP  DAVOU PAUL",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "942",
-        "IPPIS_NO": "60816",
-        "FULL_NAME": "JUMOKE  AYEGBUSI FOLAKE",
-        "RANK": "HIGHER EXECUTIVE OFFICERGD",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "943",
-        "IPPIS_NO": "88811",
-        "FULL_NAME": "DINDEY  MUKADASS ABDULKADIR",
-        "RANK": "HIGHER EXECUTIVE OFFICERGD",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "944",
-        "IPPIS_NO": "88756",
-        "FULL_NAME": "ELEKWA  IHEAKA EGWUONWU",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "945",
-        "IPPIS_NO": "88914",
-        "FULL_NAME": "DAKPANCHI  MUHAMMAD ABUBAKAR",
-        "RANK": "HIGHER EXECUTIVE OFFICERGD",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "946",
-        "IPPIS_NO": "88522",
-        "FULL_NAME": "EJUWA  OGAH JOB",
-        "RANK": "HIGHER EXECUTIVE OFFICERGD",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "947",
-        "IPPIS_NO": "54061",
-        "FULL_NAME": "CHIDIMMA  NWOGU GLADYS",
-        "RANK": "HIGHER EXECUTIVE OFFICERGD",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "948",
-        "IPPIS_NO": "47180",
-        "FULL_NAME": "HUSSAINA  MUHAMMAD ADAMU",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "949",
-        "IPPIS_NO": "53976",
-        "FULL_NAME": "C  OKOYE COMFORT",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "950",
-        "IPPIS_NO": "77393",
-        "FULL_NAME": "JOEL  AWOSUNLOYE ADEBOWALE",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "951",
-        "IPPIS_NO": "76791",
-        "FULL_NAME": "ADESEHINWA  HAASTRUP JACOB",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "952",
-        "IPPIS_NO": "76768",
-        "FULL_NAME": "OJONUGWA  IDOKO EMMANUEL",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "953",
-        "IPPIS_NO": "65388",
-        "FULL_NAME": "HARUNA  AUDU MUDASHIRU",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "954",
-        "IPPIS_NO": "66581",
-        "FULL_NAME": "ABUDU ISRAEL",
-        "RANK": "EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "955",
-        "IPPIS_NO": "45300",
-        "FULL_NAME": "CHINWEUKA  OKORIE CHRISTIANA",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "956",
-        "IPPIS_NO": "45425",
-        "FULL_NAME": "EYIME  COLE LADIDI",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "957",
-        "IPPIS_NO": "69506",
-        "FULL_NAME": "OYEDIRAN REUBEN",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "958",
-        "IPPIS_NO": "32085",
-        "FULL_NAME": "PAUL EYOBIO EKAETE",
-        "RANK": "EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "959",
-        "IPPIS_NO": "76730",
-        "FULL_NAME": "DAVID ADEDAYO BANJOKO OBAFEMI",
-        "RANK": "HIGHER EXECUTIVE OFFICERGD",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "960",
-        "IPPIS_NO": "23147",
-        "FULL_NAME": "MASOYI ANDREW ESTHER",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
-        "DEPARTMENT": "IPPIS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "961",
-        "IPPIS_NO": "87316",
-        "FULL_NAME": "MBAGWU KEVIN",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "962",
-        "IPPIS_NO": "193233",
-        "FULL_NAME": "UMMAR HALILU",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "NATIONAL SPORTS COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTERGOVERNMENTAL AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "963",
-        "IPPIS_NO": "66377",
-        "FULL_NAME": "ADEDEJI ABDULGAFAR",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "964",
-        "IPPIS_NO": "196170",
-        "FULL_NAME": "ATUNGWU ONEHI GABRIEL",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "965",
-        "IPPIS_NO": "63046",
-        "FULL_NAME": "WILSON EKOT ITTOHOWO",
-        "RANK": "EXECUTIVE OFFICER",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
-        "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
-        "REMARK": "On Request",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "966",
-        "IPPIS_NO": "59086",
-        "FULL_NAME": "JOHNSON  DAVID NANCIT",
-        "RANK": "EXECUTIVE OFFICER",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "967",
-        "IPPIS_NO": "71546",
-        "FULL_NAME": "AMODU SUNDAY",
-        "RANK": "EXECUTIVE OFFICER GENERAL DUTIES",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "HMSPR (REGISTRY)",
-        "REMARK": "On Request",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "968",
-        "IPPIS_NO": "102986",
-        "FULL_NAME": "DAVID ONJEFU INALEGWU",
-        "RANK": "EXECUTIVE OFFICER",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
-        "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "969",
-        "IPPIS_NO": "47182",
-        "FULL_NAME": "IFEYINWA  IKECHI CHRITIANA",
-        "RANK": "EXECUTIVE OFFICER",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "970",
-        "IPPIS_NO": "77534",
-        "FULL_NAME": "ARCHIBONG  IKPE SUNDAY",
-        "RANK": "EXECUTIVE OFFICER",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "971",
-        "IPPIS_NO": "68500",
-        "FULL_NAME": "AUDU BABANKOGI",
-        "RANK": "EXECUTIVE OFFICER",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "972",
-        "IPPIS_NO": "102956",
-        "FULL_NAME": "OGEYI AMEDU JOSEPHINE",
-        "RANK": "EXECUTIVE OFFICER",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "973",
-        "IPPIS_NO": "153809",
-        "FULL_NAME": "WODUWEI ISUWA",
-        "RANK": "EXECUTIVE OFFICER",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "NEW PARTNERSHIP FOR AFRICAS DEVELOPMENT NEPAD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "974",
-        "IPPIS_NO": "26191",
-        "FULL_NAME": "TARYUHA YAWON PETER",
-        "RANK": "HIGHER EXECUTIVE OFFICERGD",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR  PRODUCTIVITY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "975",
-        "IPPIS_NO": "94244",
-        "FULL_NAME": "OBINNA  OKOH SYLVESTER",
-        "RANK": "EXECUTIVE OFFICERGD",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "976",
-        "IPPIS_NO": "86729",
-        "FULL_NAME": "BATHOLOMEW UMARU ULAM",
-        "RANK": "EXECUTIVE OFFICER",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "977",
-        "IPPIS_NO": "60036",
-        "FULL_NAME": "JIMMY  KANO MERCY",
-        "RANK": "EXECUTIVE OFFICER",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH AND SPORT DEVELOPMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "978",
-        "IPPIS_NO": "86707",
-        "FULL_NAME": "GABRIEL  DAGUNU BUBA",
-        "RANK": "EXECUTIVE OFFICER",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "979",
-        "IPPIS_NO": "88400",
-        "FULL_NAME": "JAMES  AGBO OCHE",
-        "RANK": "EXECUTIVE OFFICER",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "980",
-        "IPPIS_NO": "160698",
-        "FULL_NAME": "AYUBA YAHUZA",
-        "RANK": " EXECUTIVE OFFICER GD",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "981",
-        "IPPIS_NO": "86705",
-        "FULL_NAME": "HASSAN MIJINYAWA ISMAILA",
-        "RANK": "EXECUTIVE OFFICER",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE OFFICER"
-    },
-    {
-        "SNO": "982",
-        "IPPIS_NO": "55023",
-        "FULL_NAME": "JOYCE  OKE BOSEDE",
-        "RANK": "CHIEF CONF SECRETARY",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
-        "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "983",
-        "IPPIS_NO": "77549",
-        "FULL_NAME": "OKPAKO  EGORO EMMANUEL",
-        "RANK": "CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "984",
-        "IPPIS_NO": "54031",
-        "FULL_NAME": "OKORIE  ASUQUO HELEN",
-        "RANK": "CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "985",
-        "IPPIS_NO": "53961",
-        "FULL_NAME": "NKECHI  ANIAMAM SCHOLARSTICA",
-        "RANK": "CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "986",
-        "IPPIS_NO": "60081",
-        "FULL_NAME": "NONYELUM  ONAGA AGATHA",
-        "RANK": "CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
-        "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "987",
-        "IPPIS_NO": "84668",
-        "FULL_NAME": "JOHN  KOBE DARI",
-        "RANK": "CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "988",
-        "IPPIS_NO": "58830",
-        "FULL_NAME": "NKEMDILIM  OKWENNA BRIDGET",
-        "RANK": "CONFIDENTIAL SECRETARY CADRE",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "DEPARTMENT": "POLICE TRUST FUND (ADMIN)",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "989",
-        "IPPIS_NO": "62961",
-        "FULL_NAME": "ANAZOGINI  NDIFE PATRICIA",
-        "RANK": "ASST CHIEF CONF SECRETARY",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "DEPARTMENT": "EXPENDITURE (SOCIAL)",
-        "REMARK": "To Vice  ()  ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "990",
-        "IPPIS_NO": "8682",
-        "FULL_NAME": "ZULIATU MOMOH",
-        "RANK": "CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "DEPARTMENT": "OFFICE OF THE SECRETARY (CDICFIB)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "991",
-        "IPPIS_NO": "53362",
-        "FULL_NAME": "ELIZABETH  BIODUNIGE FUNMILAYO",
-        "RANK": "CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "992",
-        "IPPIS_NO": "57062",
-        "FULL_NAME": "AGBONOR  OSEMELE PATIENCE",
-        "RANK": "CHIEF CONF SECRETARY",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "993",
-        "IPPIS_NO": "79921",
-        "FULL_NAME": "OLUSEYI  AWOGBEMI LAWRENCE",
-        "RANK": "CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "DEPARTMENT": "REVENUE & FISCAL POLICY",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "994",
-        "IPPIS_NO": "60134",
-        "FULL_NAME": "GRACE  UCHE IFEOMA",
-        "RANK": "CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "995",
-        "IPPIS_NO": "61205",
-        "FULL_NAME": "ESTHER  OLUGBOYE TEMITAYO",
-        "RANK": "CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "996",
-        "IPPIS_NO": "55722",
-        "FULL_NAME": "THERESA CHUDINWOSU OGECHUKWU",
-        "RANK": "CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "HOME FINANCE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "997",
-        "IPPIS_NO": "59043",
-        "FULL_NAME": "YINKORE  WILLIAMS ENODE",
-        "RANK": "CHIEF CONF SECRETARY",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "DEPARTMENT": "EXPENDITURE (ECONS)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "998",
-        "IPPIS_NO": "58869",
-        "FULL_NAME": "EBERE OKOH DORATHY",
-        "RANK": "ASSISTANT CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "OFFICE OF THE EXECUTIVE SECRETARY",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "999",
-        "IPPIS_NO": "16485",
-        "FULL_NAME": "NGOZI ELISHAMA SCHOLASTICA",
-        "RANK": "CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "DEPARTMENT": "C&B",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1000",
-        "IPPIS_NO": "53373",
-        "FULL_NAME": "ETIM  EKONG UDEME",
-        "RANK": "ASSISTANT CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1001",
-        "IPPIS_NO": "58133",
-        "FULL_NAME": "IYOUMBE  ADIE ELIZABETH",
-        "RANK": "ASSISTANT CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "NATIONAL GALLERY OF ARTS",
-        "DEPARTMENT": "OFFICE OF THE DIRECTOR GENERAL",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1002",
-        "IPPIS_NO": "49891",
-        "FULL_NAME": "EBIRERI GLORIA",
-        "RANK": "ASSISTANT CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1003",
-        "IPPIS_NO": "53964",
-        "FULL_NAME": "UDOYO  OKPOYO MARY",
-        "RANK": "ASSISTANT CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1004",
-        "IPPIS_NO": "62290",
-        "FULL_NAME": "HASTINGS UCHE GRACE",
-        "RANK": "ASSISTANT CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "PRESENT_MDA": "NIGERIAN OFFICE FOR TRADE NEGOTIATIONS",
-        "DEPARTMENT": "OFFICE OF THE DIRECTOR GENERAL",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1005",
-        "IPPIS_NO": "59381",
-        "FULL_NAME": "NDIDIAMAKA  ODESOMI JOSEPHINE",
-        "RANK": "ASSISTANT CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "PRESENT_MDA": "OFFICE OF THE SENIOR SPECIAL ASSISTANT TO THE PRESIDENT ON SUSTAINABLE DEVELOPMENT GOALS",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1006",
-        "IPPIS_NO": "16672",
-        "FULL_NAME": "AG UGOKA PATIENCE",
-        "RANK": "ASSISTANT CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
-        "DEPARTMENT": "WORKS SECTOR (HRM)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1007",
-        "IPPIS_NO": "60089",
-        "FULL_NAME": "CHRIS  DIOMAH ELIZABETH",
-        "RANK": "ASSISTANT CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "DEPARTMENT": "EXPENDITURE (SOCIAL)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1008",
-        "IPPIS_NO": "64094",
-        "FULL_NAME": "SHONEYE SARAH",
-        "RANK": "ASSISTANT CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRADE AND INVESTMENT",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1009",
-        "IPPIS_NO": "167762",
-        "FULL_NAME": "NORA NWOKOMA NDIDIAMAKA",
-        "RANK": "ASSISTANT CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "DEPARTMENT": "JSD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1010",
-        "IPPIS_NO": "65487",
-        "FULL_NAME": "JOHNSON EMMANUEL",
-        "RANK": "ASSISTANT CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1011",
-        "IPPIS_NO": "10378",
-        "FULL_NAME": "ORIADE OSUNGORIOYE MERCY",
-        "RANK": "ASSISTANT CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "POLICE SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF COMMUNICATION AND DIGITAL ECONOMY",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1012",
-        "IPPIS_NO": "81872",
-        "FULL_NAME": "SAMUEL  OKONKWO UZOAMAKA",
-        "RANK": "ASSISTANT CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1013",
-        "IPPIS_NO": "52816",
-        "FULL_NAME": "FUNMILOLA  AJISEBUTU MORIAMO",
-        "RANK": "ASSISTANT CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "NATIONAL SPORTS COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "DEPARTMENT": "OFFICE OF THE DIRECTOR F&A",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1014",
-        "IPPIS_NO": "54899",
-        "FULL_NAME": "ADUKE  OMOTOSHO FLORENCE",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SPSO)",
-        "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1015",
-        "IPPIS_NO": "58881",
-        "FULL_NAME": "JOHNNY  UDOM ESTHER",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
-        "DEPARTMENT": "PROCUREMENT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1016",
-        "IPPIS_NO": "58088",
-        "FULL_NAME": "CHUKWUNWIKE EDOZIE VICTORIA",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1017",
-        "IPPIS_NO": "57247",
-        "FULL_NAME": "NWAMAKA  ANOLIEFO JOY",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "DEPARTMENT": "PROCUREMENT",
-        "REMARK": "To Vice  (ADERAJI M.R)  ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1018",
-        "IPPIS_NO": "18767",
-        "FULL_NAME": "LORRITA ACHAREKE CHINWE",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1019",
-        "IPPIS_NO": "56568",
-        "FULL_NAME": "RONKE  ADERAJI MISTURA",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "PUBLIC SERVICE INSTITUTE OF NIGERIA",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1020",
-        "IPPIS_NO": "11306",
-        "FULL_NAME": "VIVIAN OMOSEHIN NGOZI",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1021",
-        "IPPIS_NO": "27906",
-        "FULL_NAME": "OGECHI UMOH PEACE",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY I",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1022",
-        "IPPIS_NO": "47261",
-        "FULL_NAME": "YAKUBU  INNOCENT BEATRICE",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "NIGERIA IN DIASPORA COMMISSION",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1023",
-        "IPPIS_NO": "1758",
-        "FULL_NAME": "ZAKARI SULE UNERAT",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1024",
-        "IPPIS_NO": "5528",
-        "FULL_NAME": "BARISI DANNWAZIM RUTH",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1025",
-        "IPPIS_NO": "17465",
-        "FULL_NAME": "ALABA AMAIZE BEATRICE",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
-        "DEPARTMENT": "EMD (ECM)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1026",
-        "IPPIS_NO": "26233",
-        "FULL_NAME": "MAVIS IREDIAOKPOGIE NKOLI",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "NATIONAL SPORTS COMMISSION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
-        "DEPARTMENT": "OFFICE OF THE DIRECTOR F&A",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1027",
-        "IPPIS_NO": "58899",
-        "FULL_NAME": "EZEBUIRO OLUCHI",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1028",
-        "IPPIS_NO": "59930",
-        "FULL_NAME": "HAJARAH  OTUOZE IVY",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY  III",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1029",
-        "IPPIS_NO": "60037",
-        "FULL_NAME": "NKECHI  KELVINS RACHEAL",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY  II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "DEPARTMENT": "",
-        "REMARK": "To Vice  ()  ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1030",
-        "IPPIS_NO": "59919",
-        "FULL_NAME": "DORA  EDET IGNATIUS",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF JUSTICE",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1031",
-        "IPPIS_NO": "64077",
-        "FULL_NAME": "EFE  BENIJU BEAUTY",
-        "RANK": "PRINCIPAL CONFIDENTIL SECRETARY II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
-        "DEPARTMENT": "F&A",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1032",
-        "IPPIS_NO": "52827",
-        "FULL_NAME": "MONICA N ANYANWU VIOLET",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1033",
-        "IPPIS_NO": "64093",
-        "FULL_NAME": "JOY  AUDU CECILIA",
-        "RANK": "SENIOR CONFIDENTIAL SECRETARY",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL TRAINING CENTRE  KADUNA",
-        "PRESENT_MDA": "COMEG",
-        "DEPARTMENT": "OFFICE OF THE CEO",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1034",
-        "IPPIS_NO": "103832",
-        "FULL_NAME": "D  ONYEABOR JUSTICE",
-        "RANK": "SENIOR CONFIDENTIAL SECRETARY",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1035",
-        "IPPIS_NO": "51897",
-        "FULL_NAME": "EGO EGO UZOUKWU JACINTA",
-        "RANK": "SENIOR CONFIDENTIAL SECRETARY",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1036",
-        "IPPIS_NO": "60032",
-        "FULL_NAME": "CHINATU  UCHEGBU VERONICA",
-        "RANK": "SENIOR CONFIDENTIAL SECRETARY",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1037",
-        "IPPIS_NO": "18089",
-        "FULL_NAME": "JUSTINA EJIOGU NKECHI",
-        "RANK": "SENIOR CONFIDENTIAL SECRETARY",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1038",
-        "IPPIS_NO": "7028",
-        "FULL_NAME": "JOY ATTABOH OJONE",
-        "RANK": "CONFIDENTIAL SECRETARY II",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRADE AND INVESTMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1039",
-        "IPPIS_NO": "88521",
-        "FULL_NAME": "MOHAMMED  NDANA ABDULRAZAK",
-        "RANK": "CHIEF ADMINISTRATIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
-        "DEPARTMENT": "INFRASTRUCTURE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1040",
-        "IPPIS_NO": "8497",
-        "FULL_NAME": "IBRAHIM USMAN GARBA",
-        "RANK": "CHIEF ADMINISTRATIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SPSO)",
-        "DEPARTMENT": "CST",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1041",
-        "IPPIS_NO": "4308",
-        "FULL_NAME": "IBRAHIM ANAS  HADIZA",
-        "RANK": "CHIEF ADMIN OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
-        "DEPARTMENT": "EMD (CPA)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1042",
-        "IPPIS_NO": "61128",
-        "FULL_NAME": "IRENE  OKAFOR CHIOMA",
-        "RANK": "CHIEF ADMIN OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MIN OF LANDS HOUSING AND URBAN DEV",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1043",
-        "IPPIS_NO": "81680",
-        "FULL_NAME": "ABUBAKAR NASIRU",
-        "RANK": "CHIEF ADMINISTRATIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "DEPARTMENT": "DATMA",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1044",
-        "IPPIS_NO": "88627",
-        "FULL_NAME": "ZANNA  GIMBA MOHAMMED",
-        "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1045",
-        "IPPIS_NO": "50983",
-        "FULL_NAME": "AMINAT  ROLE TEMITOPE",
-        "RANK": "ASST CHIEF ADMIN OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1046",
-        "IPPIS_NO": "62763",
-        "FULL_NAME": "NAANCHIN  DAWAM BARBARA",
-        "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1047",
-        "IPPIS_NO": "94238",
-        "FULL_NAME": "BALA AHMED",
-        "RANK": "ADMINISTRATIVE OFFICER",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MIN OF LANDS HOUSING AND URBAN DEV",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "PLANNING, POLICY AND PROGRAMMES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1048",
-        "IPPIS_NO": "156006",
-        "FULL_NAME": "MERCY USMAN HALIMA",
-        "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
-        "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1049",
-        "IPPIS_NO": "66003",
-        "FULL_NAME": "ISMAIL  TAHIR BABA",
-        "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF (GSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1050",
-        "IPPIS_NO": "91033",
-        "FULL_NAME": "IBRAHIM HARUNA",
-        "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1051",
-        "IPPIS_NO": "4323",
-        "FULL_NAME": "PHILOMINA EZEA CHINYERE",
-        "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF CULTURE TOURISM  NATIONAL ORIENTATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1052",
-        "IPPIS_NO": "60016",
-        "FULL_NAME": "HAUWA  YAKUBU MARGRET",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF COMMUNICATION AND DIGITAL ECONOMY",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1053",
-        "IPPIS_NO": "282864",
-        "FULL_NAME": "TAHIR AHMED USMAN",
-        "RANK": "SENIOR ADMINISTRATIVE OFFICER",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "DEPARTMENT": "POLICE INSPECTORATE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1054",
-        "IPPIS_NO": "162539",
-        "FULL_NAME": "KEMI OLUTOYE CHARITY",
-        "RANK": "SENIOR ADMINISTRATIVE OFFICER",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MIN OF LANDS HOUSING AND URBAN DEV",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1055",
-        "IPPIS_NO": "59154",
-        "FULL_NAME": "CHINAGORO  OGUCHUKWU ANGELA",
-        "RANK": "ADMINISTRATIVE OFFICER I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "PICA",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1056",
-        "IPPIS_NO": "92444",
-        "FULL_NAME": "SHEHU MUSTAPHA",
-        "RANK": "ADMINISTRATIVE OFFICER I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1057",
-        "IPPIS_NO": "300126",
-        "FULL_NAME": "ODION OLADE ABUMERE TENIOLA",
-        "RANK": "ADMINISTRATIVE OFFICER I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
-        "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
-        "REMARK": "On Request",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1058",
-        "IPPIS_NO": "226012",
-        "FULL_NAME": "TOLULOPE AKINOLA KEHINDE",
-        "RANK": "ADMINISTRATIVE OFFICER I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1059",
-        "IPPIS_NO": "315573",
-        "FULL_NAME": "SAMUNEL OYENIYI OPEYEMI",
-        "RANK": "ADMINISTRATIVE OFFICER I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "DEPARTMENT": "BME",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1060",
-        "IPPIS_NO": "94396",
-        "FULL_NAME": "OYEWUMI  AKANNI TAIWO",
-        "RANK": " CHIEF STORES OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1061",
-        "IPPIS_NO": "80782",
-        "FULL_NAME": "A  SHITTU ABDULRASHEED",
-        "RANK": "COMPUTER ENGINEER CADRE",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE AUDITOR GENERAL OF THE FEDERATIONOAUGF",
-        "PRESENT_MDA": "CDFPIB",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "COMPUTER ENGINEER"
-    },
-    {
-        "SNO": "1062",
-        "IPPIS_NO": "76604",
-        "FULL_NAME": "OLUSHOLA  ABDULSALAM ABDULGANIYU",
-        "RANK": "ASSISTANT CHIEF STATISTITIAN",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "DEPARTMENT": "PRS",
-        "REMARK": "On Request",
-        "CADRE": "STATISTITIAN"
-    },
-    {
-        "SNO": "1063",
-        "IPPIS_NO": "53487",
-        "FULL_NAME": "OMOWUNMI  ADEKOYA ADEBOLA",
-        "RANK": "ASSISTANT CHIEF STATISTICAL OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
-        "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STATISTICAL OFFICER"
-    },
-    {
-        "SNO": "1064",
-        "IPPIS_NO": "2209",
-        "FULL_NAME": "PETER EMMANUEL OCHOCHE",
-        "RANK": "ASSISTANT CHIEF STATISTICAL OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
-        "DEPARTMENT": "SID",
-        "REMARK": "On Request",
-        "CADRE": "STATISTICAL OFFICER"
-    },
-    {
-        "SNO": "1065",
-        "IPPIS_NO": "53355",
-        "FULL_NAME": "ADAMU  FIKA HAUWA",
-        "RANK": "ASSISTANT CHIEF ADMINISTRATIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "DEPARTMENT": "WATER SUPPLY",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1066",
-        "IPPIS_NO": "392748",
-        "FULL_NAME": "AUGUSTA ONYEBUCHI CHIDINMA",
-        "RANK": "PRINCIPAL ADMINISTRATIVE OFFICER",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "DEPARTMENT": "MSSD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1067",
-        "IPPIS_NO": "390049",
-        "FULL_NAME": "AMARA NWAUDOH CHINONYE",
-        "RANK": "SENIOR ADMINISTRATIVE OFFICER",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "HOME FINANCE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "ADMINISTRATIVE"
-    },
-    {
-        "SNO": "1068",
-        "IPPIS_NO": "27406",
-        "FULL_NAME": "PHILIPPA OKOH VERONICA",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1069",
-        "IPPIS_NO": "58873",
-        "FULL_NAME": "MERCY ASOGWA UCHENNA",
-        "RANK": "SENIOR CONFIDENTIAL SECRETARY",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "DEPARTMENT": "EXPENDITURE (SOCIAL)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1070",
-        "IPPIS_NO": "76218",
-        "FULL_NAME": "ZAKKA  MAIHULA SAMUEL",
-        "RANK": "PRINCIPAL STORES OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To Vice  (ISIAKU)  ",
-        "CADRE": "STORE OFFICER"
-    },
-    {
-        "SNO": "1071",
-        "IPPIS_NO": "60576",
-        "FULL_NAME": "AJUMA  ISIAKU HABIBA",
-        "RANK": "PRINCIPAL STORES OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To Vice  (TANKO MOHAMMED)  ",
-        "CADRE": "STORE OFFICER"
-    },
-    {
-        "SNO": "1072",
-        "IPPIS_NO": "94915",
-        "FULL_NAME": "AMINU AHMED",
-        "RANK": "PRINCIPAL STORES OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
-    },
-    {
-        "SNO": "1073",
-        "IPPIS_NO": "307723",
-        "FULL_NAME": "IYABO ARUYA FAITH",
-        "RANK": "PRINCIPAL PROGRAMME ANLYST",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION",
-        "DEPARTMENT": "IPPIS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "1074",
-        "IPPIS_NO": "88721",
-        "FULL_NAME": "SUNDAY  IGWE CASMIR",
-        "RANK": "PRINCIPAL PROGRAMME ANALYST",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "SERVICOM",
-        "DEPARTMENT": "ICT",
-        "REMARK": "On Request",
-        "CADRE": "PROGRAMME ANALYST"
-    },
-    {
-        "SNO": "1075",
-        "IPPIS_NO": "43981",
-        "FULL_NAME": "ACHI ELIZABETH",
-        "RANK": "PRINCIPAL STOCK VERIFIER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "SPECIAL DUTIES",
-        "REMARK": "On Request",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "1076",
-        "IPPIS_NO": "73682",
-        "FULL_NAME": "MATHEW  WILLIAMS OLUWOLE",
-        "RANK": "PRINCIPAL STOCK VERIFIER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF JUSTICE",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "1077",
-        "IPPIS_NO": "94902",
-        "FULL_NAME": "ANTHONY  IKE AMAECHI",
-        "RANK": "PRINCIPAL STORES OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
-    },
-    {
-        "SNO": "1078",
-        "IPPIS_NO": "278618",
-        "FULL_NAME": "SULEIMAN HAJARA",
-        "RANK": "PRINCIPAL STOCK VERIFIER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "1079",
-        "IPPIS_NO": "99315",
-        "FULL_NAME": "ADEOLA LAWANSON TOLANI",
-        "RANK": "PRINCIPAL STOCK VERIFIER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF MINES AND STEEL DEVELOPMENT",
-        "DEPARTMENT": "SPECIAL DUTIES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "1080",
-        "IPPIS_NO": "370618",
-        "FULL_NAME": "ABDULLAHI AMINA",
-        "RANK": "SENIOR STOCK VERIFIER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "SPECIAL DUTIES",
-        "REMARK": "On Request",
-        "CADRE": "STOCK VERIFIER"
-    },
-    {
-        "SNO": "1081",
-        "IPPIS_NO": "62727",
-        "FULL_NAME": "AMUMA  JACOB GOODLUCK",
-        "RANK": "SENIOR STORE OFFICER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FGGC UMUAHIA",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS AND HOUSING",
-        "DEPARTMENT": "GENERAL SERVICES",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "STORE OFFICER"
-    },
-    {
-        "SNO": "1082",
-        "IPPIS_NO": "374618",
-        "FULL_NAME": "NGBEDE ALIDU PAUL",
-        "RANK": "LIBRARIAN I",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR  PRODUCTIVITY",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "LIBRARY",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "LIBRARIAN"
-    },
-    {
-        "SNO": "1083",
-        "IPPIS_NO": "77402",
-        "FULL_NAME": "BUKAR  USMAN MUHAMMAD",
-        "RANK": "PROGRAMME OFFICER I",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
-        "DEPARTMENT": "ICT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "PROGRAMME OFFICER"
-    },
-    {
-        "SNO": "1084",
-        "IPPIS_NO": "66639",
-        "FULL_NAME": "OLUWASEGUN  ALONGE DAVID",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SWO)",
-        "DEPARTMENT": "OHSE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1085",
-        "IPPIS_NO": "49839",
-        "FULL_NAME": "JONATHAN BALA THERESA",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "DEPARTMENT": "REVENUE & FISCAL POLICY",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1086",
-        "IPPIS_NO": "53332",
-        "FULL_NAME": "OLUREMI  OLORUNSHOLA COMFORT",
-        "RANK": "CHIEF EXECUTIVE OFFICER ACEO",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "DEPARTMENT": "EXPENDITURE (SOCIAL)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1087",
-        "IPPIS_NO": "74266",
-        "FULL_NAME": "JOSEPH  AKHIMIEN ODION",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1088",
-        "IPPIS_NO": "86585",
-        "FULL_NAME": "AHMED  SANI ABDU",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1089",
-        "IPPIS_NO": "88445",
-        "FULL_NAME": "ABDULKADIR  IBRAHIM NURUDEEN",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1090",
-        "IPPIS_NO": "63396",
-        "FULL_NAME": "ABAH ENEADA",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1091",
-        "IPPIS_NO": "91619",
-        "FULL_NAME": "ADAH JOHN",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1092",
-        "IPPIS_NO": "93447",
-        "FULL_NAME": "ALHAJI  MUSA MUSA",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1093",
-        "IPPIS_NO": "54065",
-        "FULL_NAME": "WAKILI AGHAH",
-        "RANK": "CHIEF ADMINISTRATIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1094",
-        "IPPIS_NO": "63568",
-        "FULL_NAME": "FUNKE  AJAYI MRS RACHEL",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH DEVELOPMENT",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "DEPARTMENT": "EXPENDITURE (SOCIAL)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1095",
-        "IPPIS_NO": "60108",
-        "FULL_NAME": "TALATU  IBRAHIM ROWLAND",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "G14CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION & CULTURE",
-        "DEPARTMENT": "SERVICOM",
-        "REMARK": "On Request",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1096",
-        "IPPIS_NO": "47406",
-        "FULL_NAME": "OMOWUMI  OWOLABI FUNMILAYO",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION & CULTURE",
-        "DEPARTMENT": "GD",
-        "REMARK": "On Request",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1097",
-        "IPPIS_NO": "12701",
-        "FULL_NAME": "ENE ANYEBE LILIAN",
-        "RANK": "CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL14CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE, BUDGET AND NATIONAL PLANNING",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1098",
-        "IPPIS_NO": "92017",
-        "FULL_NAME": "AUWAL  ADAMU MOHAMMED",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICERGD",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1099",
-        "IPPIS_NO": "85730",
-        "FULL_NAME": "ISAH ABDULLAHI",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1100",
-        "IPPIS_NO": "38653",
-        "FULL_NAME": "MOHAMMED UMAR HABIBA",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-        "PRESENT_MDA": "MINISTRY OF DEFENCE  MOD",
-        "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1101",
-        "IPPIS_NO": "68694",
-        "FULL_NAME": "OMOTAYO  SULAIMON KAZEEM",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICER",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
-        "DEPARTMENT": "INFRASTRUCTURE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1102",
-        "IPPIS_NO": "66372",
-        "FULL_NAME": "IBRAHIM MOHAMMED",
-        "RANK": "ASSISTANT CHIEF EXECUTIVE OFFICERGD",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1103",
-        "IPPIS_NO": "87375",
-        "FULL_NAME": "MOHAMMED  MAHMUD AMINU",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1104",
-        "IPPIS_NO": "117848",
-        "FULL_NAME": "AJUMA EBUTE G",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTERGOVERNMENTAL AFFAIRS",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1105",
-        "IPPIS_NO": "56994",
-        "FULL_NAME": "NKIRUKA  OZONSIANYA LETICIA",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION & CULTURE",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1106",
-        "IPPIS_NO": "6479",
-        "FULL_NAME": "BENEDICT AYE NANG MARTINA",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF NIGER DELTA AFFAIRS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF JUSTICE",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1107",
-        "IPPIS_NO": "77600",
-        "FULL_NAME": "TIJANI  MOHAMMED LAWAL",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AGRICULTURE AND RURAL DEVELOPMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1108",
-        "IPPIS_NO": "64264",
-        "FULL_NAME": "HARUNA HANNATU",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INTERIOR",
-        "DEPARTMENT": "C&B",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1109",
-        "IPPIS_NO": "52126",
-        "FULL_NAME": "CELESTINA  OSAGIE U RHODA",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION (PEAO)",
-        "DEPARTMENT": "IOD",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1110",
-        "IPPIS_NO": "80923",
-        "FULL_NAME": "ALIYU ABDULLAHI",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1111",
-        "IPPIS_NO": "61697",
-        "FULL_NAME": "MODUPE  AYUBA ADIJAT",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1112",
-        "IPPIS_NO": "88537",
-        "FULL_NAME": "CHIDI  IROEGBU CHARLES",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WATER RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1113",
-        "IPPIS_NO": "194706",
-        "FULL_NAME": "UMARU JOEL",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SURVEYOR GENERAL OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF COMMUNICATION AND DIGITAL ECONOMY",
-        "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1114",
-        "IPPIS_NO": "75072",
-        "FULL_NAME": "CHARLES  IKPEME PETER",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER I II",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1115",
-        "IPPIS_NO": "59923",
-        "FULL_NAME": "JANET  JATAU ISTIFANUS",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF EDUCATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1116",
-        "IPPIS_NO": "86616",
-        "FULL_NAME": "IDOKO  ABAH DAVID",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INFORMATION & CULTURE",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1117",
-        "IPPIS_NO": "92417",
-        "FULL_NAME": "O  AKINRUJOMU SUNDAY",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CMO)",
-        "DEPARTMENT": "EMD (POD)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1118",
-        "IPPIS_NO": "84220",
-        "FULL_NAME": "JIBRIL  USMAN YUSUF",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "F&A (BUDGET)",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1119",
-        "IPPIS_NO": "54017",
-        "FULL_NAME": "ADENIKE  AKINOLA RACHAEL",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL GOVERNMENT STAFF HOUSING LOANS BOARD",
-        "DEPARTMENT": "ADMINISTRATION",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1120",
-        "IPPIS_NO": "44650",
-        "FULL_NAME": "OLURANTI  TOLORUNLAGBA GRACE",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HEALTH",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1121",
-        "IPPIS_NO": "64334",
-        "FULL_NAME": "EUPHEMIA  OKOYE AMAKA",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1122",
-        "IPPIS_NO": "51846",
-        "FULL_NAME": "ABIODUN  OLOWOLAAIYEMO GBEMISOLA",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "DEPARTMENT": "PRS",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1123",
-        "IPPIS_NO": "204766",
-        "FULL_NAME": "ALHAJI ABDULLAHI IBRAHIM",
-        "RANK": "PRINCIPAL EXECUTIVE OFFICER II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF WORKS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1124",
-        "IPPIS_NO": "87303",
-        "FULL_NAME": "YAHAYA YUSUF",
-        "RANK": "SENIOR EXECUTIVE OFFICER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "POLICE SERVICE COMMISSION",
-        "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
-        "REMARK": "On Request",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1125",
-        "IPPIS_NO": "53913",
-        "FULL_NAME": "ABAH ROSE",
-        "RANK": "SENIOR EXECUTIVE OFFICER",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF FINANCE",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (SDO)",
-        "DEPARTMENT": "CIVIL SERVICE INSPECTORATE",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1126",
-        "IPPIS_NO": "77479",
-        "FULL_NAME": "SAMUEL SOLOMON",
-        "RANK": "SENIOR EXECUTIVE OFFICER GD",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1127",
-        "IPPIS_NO": "68512",
-        "FULL_NAME": "MUSA YUSUF",
-        "RANK": "SENIOR EXECUTIVE OFFICER GD",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1128",
-        "IPPIS_NO": "59927",
-        "FULL_NAME": "NKECHI  NWANKWO MARTINA",
-        "RANK": "SENIOR EXECUTIVE OFFICER GD",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF JUSTICE",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1129",
-        "IPPIS_NO": "88911",
-        "FULL_NAME": "ADAMU SHUAIBU",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "PRESENT_MDA": "POLICE SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1130",
-        "IPPIS_NO": "54015",
-        "FULL_NAME": "ALICE A JACOB SANI",
-        "RANK": "HIGHER EXECUTIVE OFFICERGD",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1131",
-        "IPPIS_NO": "25398",
-        "FULL_NAME": "SHEHU AMINU",
-        "RANK": "HIGHER EXECUTIVE OFFICER",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF POWER",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
-        "DEPARTMENT": "DISASTER MANAGEMENT",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1132",
-        "IPPIS_NO": "155543",
-        "FULL_NAME": "USMAN MOHAMMED ADAMU",
-        "RANK": "EXECUTIVE OFFICER",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "NEW PARTNERSHIP FOR AFRICAS DEVELOPMENT NEPAD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1133",
-        "IPPIS_NO": "90725",
-        "FULL_NAME": "ABDULLAHI IBRAHIM",
-        "RANK": " EXECUTIVE OFFICER ",
-        "SGL": "GL07CONPSS",
-        "PRESENT_MDA": "BUDGET OFFICE OF THE FEDERATION",
-        "PRESENT_MDA": "FEDERAL CIVIL SERVICE COMMISSION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "EXECUTIVE (GD)"
-    },
-    {
-        "SNO": "1134",
-        "IPPIS_NO": "8026",
-        "FULL_NAME": "NDAM GOAR DAVID",
-        "RANK": "ASSISTANT CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "POLICE SERVICE COMMISSION",
-        "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1135",
-        "IPPIS_NO": "8226",
-        "FULL_NAME": "OGOCHUKWU OGBOGU KATE",
-        "RANK": "ASSISTANT CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "PRESENT_MDA": "OFFICE OF THE SENIOR SPECIAL ASSISTANT TO THE PRESIDENT ON SUSTAINABLE DEVELOPMENT GOALS",
-        "DEPARTMENT": "",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1136",
-        "IPPIS_NO": "46985",
-        "FULL_NAME": "OMOLARA  KOMOLAFE BOSEDE",
-        "RANK": "ASSISTANT CHIEF CONFIDENTIAL SECRETARY",
-        "SGL": "GL13CONPSS",
-        "PRESENT_MDA": "NATIONAL SPORTS COMMISSION",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH AND SPORT DEVELOPMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1137",
-        "IPPIS_NO": "86670",
-        "FULL_NAME": "DANJUMA NALAMI",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF TRANSPORT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF AVIATION",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1138",
-        "IPPIS_NO": "53325",
-        "FULL_NAME": "ADAKU  NDUKA GERALDINE",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY I",
-        "SGL": "GL12CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF PETROLEUM RESOURCES",
-        "DEPARTMENT": "HRM",
-        "REMARK": "To fill a Vacancy   ",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1139",
-        "IPPIS_NO": "52223",
-        "FULL_NAME": "JOY HYACINTH ONUIGBO UCHECHUKWU",
-        "RANK": "PRINCIPAL CONFIDENTIAL SECRETARY II",
-        "SGL": "GL10CONPSS",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF YOUTH DEVELOPMENT",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1140",
-        "IPPIS_NO": "229054",
-        "FULL_NAME": " OKAFOR ADERONKE",
-        "RANK": "SENIOR CONFIDENTIAL SECRETARY",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "STATE HOUSE",
-        "DEPARTMENT": "OFFICE OF THE PERMANENT SECRETARY",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1141",
-        "IPPIS_NO": "85858",
-        "FULL_NAME": "ODIOKO WILLIAM",
-        "RANK": "SENIOR CONFIDENTIAL SECRETARY",
-        "SGL": "GL09CONPSS",
-        "PRESENT_MDA": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION OSGF",
-        "PRESENT_MDA": "OFFICE OF THE HEAD OF THE CIVIL SERVICE OF THE FEDERATION (CSO)",
-        "DEPARTMENT": "HRM (T&SW)",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
-    },
-    {
-        "SNO": "1142",
-        "IPPIS_NO": "153807",
-        "FULL_NAME": "OMOTOLA IBILOYE ADESOLA",
-        "RANK": "CONFIDENTIAL SECRETARY",
-        "SGL": "GL08CONPSS",
-        "PRESENT_MDA": "NEW PARTNERSHIP FOR AFRICAS DEVELOPMENT NEPAD",
-        "PRESENT_MDA": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
-        "DEPARTMENT": "HRM",
-        "REMARK": "On Request",
-        "CADRE": "CONFIDENTIAL SECRETARY"
+        "APPROVED_MDA": "FEDERAL MINISTRY OF ENVIRONMENT",
+        "DEPARTMENT": "HRM",
+        "REMARK": "To fill a Vacancy",
+        "CADRE": "ADMINISTRATIVE",
+        "DATE_OF_RETIREMENT": "9/8/19",
+        "DATE_OF_APPOINTMENT": "9/8/19"
     }
 ]
-
-buildTable(myArray)
-
-function buildTable(data) {
-    var table = document.getElementById('myTable')
-
-    for (var i = 0; i < data.length; i++){
-        var row = `<tr>
-                        <td class="table-data">${data[i].SNO}</td>
-                        <td class="table-data">${data[i].IPPIS_NO}</td>
-                        <td class="table-data">${data[i].FULL_NAME}</td>
-                        <td class="table-data">${data[i].RANK}</td>
-                        <td class="table-data">${data[i].SGL}</td>
-                        <td class="table-data">${data[i].PRESENT_MDA}</td>
-                        <td class="table-data">${data[i].PRESENT_MDA}</td>
-                        <td class="table-data">${data[i].DEPARTMENT}</td>
-                        <td class="table-data">${data[i].REMARK}</td>
-                        <td class="table-data">${data[i].CADRE}</td>
-                    </tr>`
-        table.innerHTML += row
-    }
-}
