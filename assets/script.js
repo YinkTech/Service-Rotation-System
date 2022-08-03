@@ -136,17 +136,6 @@ for (var i = 0; i < btns.length; i++) {
   });
 }
 
-// Add activ class to the current button (highlight it)
-var staBtn = document.getElementById("post-btn-group");
-var gBtns = staBtn.getElementsByClassName("post-btn");
-for (var i = 0; i < gBtns.length; i++) {
-  gBtns[i].addEventListener("click", function() {
-  var curent = document.getElementsByClassName("activ");
-  curent[0].className = curent[0].className.replace(" activ", "");
-  this.className += " activ";
-  });
-}
-
 // TABLE DISPLAY
 
 $('#input-search').on('keyup', function(){
