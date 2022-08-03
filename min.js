@@ -65,15 +65,15 @@ const rnd = Math.floor(Math.random() * len);
 const key = min[keys[rnd]];
 
 
-const checking = document.getElementById("table-datas")
-const checkin = document.createElement("span")
+const checking = document.getElementById("table-datas");
+const checkin = document.createElement("span");
 checkin.classList.add('table-data');
 checkin.innerHTML = key.Ministry;
 checking.append(checkin);
 
 
 
-// let failed = document.getElementById('search-btn');
-// failed.style.display = 'none';
+let failed = document.getElementById('search-btn');
+failed.style.display = 'none';
 
 }
