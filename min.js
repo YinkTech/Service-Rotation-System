@@ -42,7 +42,7 @@ let tables = document.getElementById('success');
     tables.innerHTML = "";
 
     for (var i = 0; i < datas.length; i++){
-        var rowes = `<tr>
+        var rowes = `<tr id=${datas[i].IPPIS_NO}>
                         <td class="table-data">${datas[i].SNO}</td>
                         <td class="table-data">${datas[i].IPPIS_NO}</td>
                         <td class="table-data">${datas[i].FULL_NAME}</td>
@@ -51,29 +51,28 @@ let tables = document.getElementById('success');
                         <td class="table-data">${datas[i].DATE_OF_APPOINTMENT}</td>
                         <td class="table-data">${datas[i].PRESENT_MDA}</td>
                         <td class="table-data" id="table-data">${datas[i].APPROVED_MDA}</td>
-                        <td class="table-data" id="table-datas">  </td>
-                        <td class="table-datas" onClick="postdata(${[i]})"> <button class="search-btn" id="search-btn">Post</button> </td>
+                        <td class="table-data" id='table${datas[i].IPPIS_NO}'>  </td>
+                        <td class="table-datas" id='but${datas[i].IPPIS_NO}' onClick="postdata(${datas[i].IPPIS_NO})"> <button class="search-btn" id="search-btn">Post</button> </td>
                     </tr>`
         tables.innerHTML += rowes
     }
 }
 
-function postdata() {
+function postdata(id) {
 const keys = Object.keys(min);
 const len = keys.length;
 const rnd = Math.floor(Math.random() * len);
 const key = min[keys[rnd]];
 
-
-const checking = document.getElementById("table-datas");
+const checking = document.getElementById(`table${id}`);
+console.log(checking);
 const checkin = document.createElement("span");
 checkin.classList.add('table-data');
 checkin.innerHTML = key.Ministry;
 checking.append(checkin);
 
 
-
-let failed = document.getElementById('search-btn');
+const failed = document.getElementById(`but${id}`);
 failed.style.display = 'none';
 
 }
